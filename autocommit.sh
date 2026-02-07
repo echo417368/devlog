@@ -99,16 +99,11 @@ FILES=(
   "tsconfig.json"
 )
 
-TODAY=$(date +%Y-%m-%d)
-NUM_COMMITS=$(( RANDOM % 7 + 10 ))
+NUM_COMMITS=$(( RANDOM % 3 + 1 ))
+# Use PST timezone for timestamps
+NOW=$(TZ="America/Los_Angeles" date +%Y-%m-%dT%H:%M:%S-0800)
 
 for ((i=1; i<=NUM_COMMITS; i++)); do
-  hour=$(( RANDOM % 17 + 8 ))
-  [ $hour -ge 24 ] && hour=$(( hour - 24 ))
-  minute=$(( RANDOM % 60 ))
-  second=$(( RANDOM % 60 ))
-  timestamp=$(printf "%sT%02d:%02d:%02d+0000" "$TODAY" "$hour" "$minute" "$second")
-
   file_idx=$(( RANDOM % ${#FILES[@]} ))
   msg_idx=$(( RANDOM % ${#MESSAGES[@]} ))
   target="${FILES[$file_idx]}"
@@ -117,8 +112,8 @@ for ((i=1; i<=NUM_COMMITS; i++)); do
   echo "// $(date +%s%N | tail -c 8)" >> "$target"
 
   git add -A
-  GIT_AUTHOR_DATE="$timestamp" GIT_COMMITTER_DATE="$timestamp" git commit -m "$msg" --no-verify 2>/dev/null
+  GIT_AUTHOR_DATE="$NOW" GIT_COMMITTER_DATE="$NOW" git commit -m "$msg" --no-verify 2>/dev/null
 done
 
 git push origin main 2>&1
-echo "$(date): pushed $NUM_COMMITS commits" >> /opt/devlog/autocommit.log
+echo "$(TZ=America/Los_Angeles date): pushed $NUM_COMMITS commits" >> /opt/devlog/autocommit.log

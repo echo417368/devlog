@@ -56,3 +56,8 @@ To github-echo:echo417368/devlog.git
 Sat Feb  7 03:31:01 PM PST 2026: pushed 1 commits
 [main 6df9b445] add metrics collection
  2 files changed, 6 insertions(+)
+[main 80d07755] refactor config loader
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   52caac78..80d07755  main -> main
+Sat Feb  7 05:38:01 PM PST 2026: pushed 2 commits

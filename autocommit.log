@@ -154,3 +154,5 @@ To github-echo:echo417368/devlog.git
 Mon Feb  9 08:07:01 AM PST 2026: pushed 2 commits
 [main 397d5671] fix CORS config
  2 files changed, 6 insertions(+)
+[main 58fa60b7] refactor error types
+ 2 files changed, 3 insertions(+)

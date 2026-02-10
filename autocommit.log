@@ -177,3 +177,5 @@ To github-echo:echo417368/devlog.git
 Mon Feb  9 06:10:01 PM PST 2026: pushed 1 commits
 [main 6371c79e] small fix
  2 files changed, 6 insertions(+)
+[main 985d1b21] refactor error types
+ 2 files changed, 3 insertions(+)

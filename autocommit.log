@@ -274,3 +274,5 @@ To github-echo:echo417368/devlog.git
 Wed Feb 11 08:28:01 AM PST 2026: pushed 2 commits
 [main e029eff2] update env config
  2 files changed, 6 insertions(+)
+[main 5e8d4f75] add graceful shutdown
+ 2 files changed, 3 insertions(+)

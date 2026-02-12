@@ -340,3 +340,5 @@ To github-echo:echo417368/devlog.git
 Thu Feb 12 02:05:01 PM PST 2026: pushed 2 commits
 [main e349c2b4] add metrics collection
  2 files changed, 6 insertions(+)
+[main d1a60dca] refactor error types
+ 2 files changed, 3 insertions(+)

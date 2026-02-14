@@ -431,3 +431,5 @@ To github-echo:echo417368/devlog.git
 Sat Feb 14 09:36:01 AM PST 2026: pushed 1 commits
 [main 2ffe9107] update types
  2 files changed, 6 insertions(+)
+[main c030229d] refactor config loader
+ 2 files changed, 3 insertions(+)

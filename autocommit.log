@@ -463,3 +463,9 @@ To github-echo:echo417368/devlog.git
 Sat Feb 14 09:19:01 PM PST 2026: pushed 3 commits
 [main 08bebedd] fix hot reload
  2 files changed, 6 insertions(+)
+[main e502bc5c] fix connection pool
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   77126c56..e502bc5c  main -> main
+Sat Feb 14 11:19:01 PM PST 2026: pushed 2 commits
+Sun Feb 15 12:00:01 AM PST 2026: scheduled 7 runs at PST hours: 10 17 21 19 16 12 14

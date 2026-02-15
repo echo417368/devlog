@@ -461,3 +461,5 @@ Sat Feb 14 03:00:01 PM PST 2026: pushed 3 commits
 To github-echo:echo417368/devlog.git
    2b2cc52a..77126c56  main -> main
 Sat Feb 14 09:19:01 PM PST 2026: pushed 3 commits
+[main 08bebedd] fix hot reload
+ 2 files changed, 6 insertions(+)

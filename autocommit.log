@@ -852,3 +852,5 @@ To github-echo:echo417368/devlog.git
 Sun Feb 22 04:48:01 PM PST 2026: pushed 2 commits
 [main fea7bdf5] fix debounce logic
  2 files changed, 6 insertions(+)
+[main 704aea0b] refactor config loader
+ 2 files changed, 3 insertions(+)

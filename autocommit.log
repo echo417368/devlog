@@ -928,3 +928,8 @@ Tue Feb 24 09:59:01 AM PST 2026: pushed 3 commits
  2 files changed, 6 insertions(+)
 [main 36a38f44] fix typo in config
  2 files changed, 3 insertions(+)
+[main 8e700466] fix debounce logic
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   b33aa212..8e700466  main -> main
+Tue Feb 24 01:10:01 PM PST 2026: pushed 3 commits

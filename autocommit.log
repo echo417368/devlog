@@ -1253,3 +1253,5 @@ To github-echo:echo417368/devlog.git
 Mon Mar  2 02:11:01 PM PST 2026: pushed 3 commits
 [main 68f68a2a] add graceful shutdown
  2 files changed, 6 insertions(+)
+[main f1eb2eb2] fix edge case in parser
+ 2 files changed, 3 insertions(+)

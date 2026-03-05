@@ -1,9 +1,6 @@
 #!/bin/bash
 set -e
 
-cd /opt/devlog
-git pull --rebase origin main 2>/dev/null || true
-
 MESSAGES=(
   "fix typo in config"
   "update dependencies"
@@ -99,21 +96,31 @@ FILES=(
   "tsconfig.json"
 )
 
+REPOS=(
+  "/opt/devlog"
+  "/opt/devlog-ash"
+)
+
 NUM_COMMITS=$(( RANDOM % 3 + 1 ))
-# Use PST timezone for timestamps
 NOW=$(TZ="America/Los_Angeles" date +%Y-%m-%dT%H:%M:%S-0800)
 
-for ((i=1; i<=NUM_COMMITS; i++)); do
-  file_idx=$(( RANDOM % ${#FILES[@]} ))
-  msg_idx=$(( RANDOM % ${#MESSAGES[@]} ))
-  target="${FILES[$file_idx]}"
-  msg="${MESSAGES[$msg_idx]}"
+for repo in "${REPOS[@]}"; do
+  cd "$repo"
+  git pull --rebase origin main 2>/dev/null || true
 
-  echo "// $(date +%s%N | tail -c 8)" >> "$target"
+  for ((i=1; i<=NUM_COMMITS; i++)); do
+    file_idx=$(( RANDOM % ${#FILES[@]} ))
+    msg_idx=$(( RANDOM % ${#MESSAGES[@]} ))
+    target="${FILES[$file_idx]}"
+    msg="${MESSAGES[$msg_idx]}"
 
-  git add -A
-  GIT_AUTHOR_DATE="$NOW" GIT_COMMITTER_DATE="$NOW" git commit -m "$msg" --no-verify 2>/dev/null
+    echo "// $(date +%s%N | tail -c 8)" >> "$target"
+
+    git add -A
+    GIT_AUTHOR_DATE="$NOW" GIT_COMMITTER_DATE="$NOW" git commit -m "$msg" --no-verify 2>/dev/null
+  done
+
+  git push origin main 2>&1
 done
 
-git push origin main 2>&1
-echo "$(TZ=America/Los_Angeles date): pushed $NUM_COMMITS commits" >> /opt/devlog/autocommit.log
+echo "$(TZ=America/Los_Angeles date): pushed $NUM_COMMITS commits to both repos" >> /opt/devlog/autocommit.log

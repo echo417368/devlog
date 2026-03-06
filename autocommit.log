@@ -1466,3 +1466,13 @@ To github-ashnexthq:ashnexthq/devlog.git
    60c957f4..f6cd80f8  main -> main
 Thu Mar  5 10:41:04 PM PST 2026: pushed 3 commits to both repos
 Fri Mar  6 12:00:01 AM PST 2026: scheduled 6 runs at PST hours: 13 17 14 21 8 18
+[main b374248a] add feature flag
+ 2 files changed, 16 insertions(+)
+To github-echo:echo417368/devlog.git
+   7b5f69ba..b374248a  main -> main
+Already up to date.
+[main 8b5f5d78] refactor error types
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   f6cd80f8..8b5f5d78  main -> main
+Fri Mar  6 08:04:04 AM PST 2026: pushed 1 commits to both repos

@@ -1381,3 +1381,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    9952ed08..9a8be1ff  main -> main
 Thu Mar  5 09:49:05 AM PST 2026: pushed 1 commits to both repos
+[main 60440091] add queue worker
+ 2 files changed, 11 insertions(+)
+To github-echo:echo417368/devlog.git
+   269e9521..60440091  main -> main
+Already up to date.
+[main 9051c5c8] clean up unused imports
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   9a8be1ff..9051c5c8  main -> main
+Thu Mar  5 02:01:05 PM PST 2026: pushed 1 commits to both repos

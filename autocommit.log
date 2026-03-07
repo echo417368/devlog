@@ -1530,3 +1530,16 @@ To github-ashnexthq:ashnexthq/devlog.git
 Fri Mar  6 06:12:04 PM PST 2026: pushed 2 commits to both repos
 [main 59c9330b] update types
  2 files changed, 13 insertions(+)
+[main 6c78a829] add graceful shutdown
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   6de052a8..6c78a829  main -> main
+Already up to date.
+[main fbf02ec7] fix debounce logic
+ 1 file changed, 1 insertion(+)
+[main f991814b] clean up dead code
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   609b1a3c..f991814b  main -> main
+Fri Mar  6 09:45:05 PM PST 2026: pushed 2 commits to both repos
+Sat Mar  7 12:00:01 AM PST 2026: scheduled 6 runs at PST hours: 13 12 20 10 17 14

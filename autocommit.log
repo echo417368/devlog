@@ -1575,3 +1575,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sat Mar  7 01:12:04 PM PST 2026: pushed 1 commits to both repos
 [main 88ac81ca] rename variables
  2 files changed, 11 insertions(+)
+[main 62c553d6] refactor error types
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   8cff501d..62c553d6  main -> main
+Already up to date.
+[main 78b23018] clean up logs
+ 1 file changed, 1 insertion(+)
+[main ce5232f3] fix redirect loop
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   47dc2a04..ce5232f3  main -> main
+Sat Mar  7 02:47:04 PM PST 2026: pushed 2 commits to both repos

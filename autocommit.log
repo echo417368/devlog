@@ -1735,3 +1735,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    64f77373..bd2a62a2  main -> main
 Mon Mar  9 02:00:05 PM PDT 2026: pushed 1 commits to both repos
+[main 7b103ed4] fix sorting order
+ 2 files changed, 11 insertions(+)
+To github-echo:echo417368/devlog.git
+   e7537339..7b103ed4  main -> main
+Already up to date.
+[main c2fd75fe] fix race condition
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   bd2a62a2..c2fd75fe  main -> main
+Mon Mar  9 04:05:04 PM PDT 2026: pushed 1 commits to both repos

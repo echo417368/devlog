@@ -1747,3 +1747,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Mon Mar  9 04:05:04 PM PDT 2026: pushed 1 commits to both repos
 [main 56a6d75a] add logging
  2 files changed, 11 insertions(+)
+[main 4af0a159] add health check endpoint
+ 2 files changed, 3 insertions(+)

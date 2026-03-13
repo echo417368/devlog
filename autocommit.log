@@ -2012,3 +2012,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Thu Mar 12 07:09:04 PM PDT 2026: pushed 1 commits to both repos
 [main 0dd58d65] add metrics collection
  2 files changed, 11 insertions(+)
+[main 06d46bf1] refactor config loader
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   4aca29df..06d46bf1  main -> main
+Already up to date.
+[main cb94727b] fix CORS config
+ 1 file changed, 1 insertion(+)
+[main 8612dc64] small fix
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   2e207115..8612dc64  main -> main
+Thu Mar 12 08:23:04 PM PDT 2026: pushed 2 commits to both repos

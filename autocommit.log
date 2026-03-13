@@ -1988,3 +1988,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Thu Mar 12 03:08:04 PM PDT 2026: pushed 2 commits to both repos
 [main 6b540f08] fix typo in config
  2 files changed, 13 insertions(+)
+[main 3a9a839d] clean up dead code
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   1deb0ab9..3a9a839d  main -> main
+Already up to date.
+[main 79fa83ff] refactor error types
+ 1 file changed, 1 insertion(+)
+[main c9212a5b] fix edge case in parser
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   08f89c6e..c9212a5b  main -> main
+Thu Mar 12 04:19:05 PM PDT 2026: pushed 2 commits to both repos

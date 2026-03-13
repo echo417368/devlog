@@ -1974,3 +1974,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Thu Mar 12 02:34:05 PM PDT 2026: pushed 2 commits to both repos
 [main 1788dd2a] clean up dead code
  2 files changed, 13 insertions(+)
+[main 1deb0ab9] refactor database layer
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   12ca0882..1deb0ab9  main -> main
+Already up to date.
+[main 3a169980] fix CORS config
+ 1 file changed, 1 insertion(+)
+[main 08f89c6e] clean up unused imports
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   0b8d07e0..08f89c6e  main -> main
+Thu Mar 12 03:08:04 PM PDT 2026: pushed 2 commits to both repos

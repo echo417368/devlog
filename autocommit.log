@@ -2113,3 +2113,17 @@ Fri Mar 13 07:35:04 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 9f62d2b0] update CI pipeline
  2 files changed, 3 insertions(+)
+[main 1476b4ee] add data export
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   c90be141..1476b4ee  main -> main
+Already up to date.
+[main 7bde7ba5] fix form validation
+ 1 file changed, 1 insertion(+)
+[main bbe1e452] fix form validation
+ 1 file changed, 1 insertion(+)
+[main d1db3877] update lock file
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   ba1be1ad..d1db3877  main -> main
+Fri Mar 13 08:44:04 PM PDT 2026: pushed 3 commits to both repos

@@ -2081,3 +2081,17 @@ Fri Mar 13 05:34:04 PM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main 3a41421c] add error handling
  2 files changed, 3 insertions(+)
+[main e000f419] fix sorting order
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   a2585b3d..e000f419  main -> main
+Already up to date.
+[main 59220c69] add queue worker
+ 1 file changed, 1 insertion(+)
+[main 5131b9c3] add unit tests
+ 1 file changed, 1 insertion(+)
+[main 158c48dd] refactor config loader
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   1244c497..158c48dd  main -> main
+Fri Mar 13 06:48:04 PM PDT 2026: pushed 3 commits to both repos

@@ -2168,3 +2168,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sat Mar 14 03:17:04 PM PDT 2026: pushed 1 commits to both repos
 [main 3ad05408] add middleware
  2 files changed, 11 insertions(+)
+[main cac01954] add data export
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   1107ab12..cac01954  main -> main
+Already up to date.
+[main 012546e3] minor cleanup
+ 1 file changed, 1 insertion(+)
+[main a4c5652b] add graceful shutdown
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   d92027de..a4c5652b  main -> main
+Sat Mar 14 05:41:04 PM PDT 2026: pushed 2 commits to both repos

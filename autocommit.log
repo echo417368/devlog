@@ -2196,3 +2196,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sat Mar 14 06:41:04 PM PDT 2026: pushed 2 commits to both repos
 [main 6487b618] small fix
  2 files changed, 13 insertions(+)
+[main 6c1611ad] add rate limiting
+ 2 files changed, 3 insertions(+)

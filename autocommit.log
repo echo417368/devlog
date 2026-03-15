@@ -2212,3 +2212,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    227dfbc4..a59f298d  main -> main
 Sat Mar 14 07:49:04 PM PDT 2026: pushed 3 commits to both repos
+[main db25f321] refactor error types
+ 2 files changed, 15 insertions(+)
+To github-echo:echo417368/devlog.git
+   857ea8ee..db25f321  main -> main
+Already up to date.
+[main 1799bf86] fix timezone handling
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   a59f298d..1799bf86  main -> main
+Sat Mar 14 08:45:04 PM PDT 2026: pushed 1 commits to both repos

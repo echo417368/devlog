@@ -2439,3 +2439,17 @@ Tue Mar 17 10:28:05 AM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main 7cb40318] fix debounce logic
  2 files changed, 3 insertions(+)
+[main c08c8652] optimize query performance
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   bad1f500..c08c8652  main -> main
+Already up to date.
+[main 17b4a399] fix timezone handling
+ 1 file changed, 1 insertion(+)
+[main 5d0a370a] refactor error types
+ 1 file changed, 1 insertion(+)
+[main 2a856ba9] fix timezone handling
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   e070d0e7..2a856ba9  main -> main
+Tue Mar 17 01:35:05 PM PDT 2026: pushed 3 commits to both repos

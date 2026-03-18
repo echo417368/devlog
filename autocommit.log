@@ -2497,3 +2497,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Tue Mar 17 08:13:05 PM PDT 2026: pushed 3 commits to both repos
 [main f8718ba1] clean up unused imports
  2 files changed, 15 insertions(+)
+[main 65afb0a9] add graceful shutdown
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   2ee6f474..65afb0a9  main -> main
+Already up to date.
+[main 90a4fb22] update CI pipeline
+ 1 file changed, 1 insertion(+)
+[main b24b0885] add search functionality
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   033cb47e..b24b0885  main -> main
+Tue Mar 17 09:05:04 PM PDT 2026: pushed 2 commits to both repos

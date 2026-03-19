@@ -2608,3 +2608,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Wed Mar 18 04:19:05 PM PDT 2026: pushed 3 commits to both repos
 [main cd7e7839] add graceful shutdown
  2 files changed, 15 insertions(+)
+[main 8d6fa084] refactor error types
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   9f2b803d..8d6fa084  main -> main
+Already up to date.
+[main 097a742a] add feature flag
+ 1 file changed, 1 insertion(+)
+[main 15e3cb7d] refactor config loader
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   fcb4ab24..15e3cb7d  main -> main
+Wed Mar 18 10:02:04 PM PDT 2026: pushed 2 commits to both repos

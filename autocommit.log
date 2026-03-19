@@ -2592,3 +2592,17 @@ Wed Mar 18 03:34:04 PM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main eadfa7ef] add error handling
  2 files changed, 3 insertions(+)
+[main 9f2b803d] fix null check
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   feec16d6..9f2b803d  main -> main
+Already up to date.
+[main 257e75ee] fix pagination bug
+ 1 file changed, 1 insertion(+)
+[main c4fdf1b1] add feature flag
+ 1 file changed, 1 insertion(+)
+[main fcb4ab24] update types
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   8063d992..fcb4ab24  main -> main
+Wed Mar 18 04:19:05 PM PDT 2026: pushed 3 commits to both repos

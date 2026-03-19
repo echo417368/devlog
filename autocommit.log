@@ -2624,3 +2624,17 @@ Wed Mar 18 10:02:04 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main b054dd1f] fix edge case in parser
  2 files changed, 3 insertions(+)
+[main bdea6eb0] refactor error types
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   8d6fa084..bdea6eb0  main -> main
+Already up to date.
+[main 945f485e] update API routes
+ 1 file changed, 1 insertion(+)
+[main 08b764c0] add search functionality
+ 1 file changed, 1 insertion(+)
+[main 82e579b3] minor cleanup
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   15e3cb7d..82e579b3  main -> main
+Wed Mar 18 11:41:04 PM PDT 2026: pushed 3 commits to both repos

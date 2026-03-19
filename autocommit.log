@@ -2590,3 +2590,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Wed Mar 18 03:34:04 PM PDT 2026: pushed 3 commits to both repos
 [main 2a74a18a] add retry logic
  2 files changed, 15 insertions(+)
+[main eadfa7ef] add error handling
+ 2 files changed, 3 insertions(+)

@@ -2707,3 +2707,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Thu Mar 19 07:39:04 PM PDT 2026: pushed 1 commits to both repos
 [main 655c83c5] update API routes
  2 files changed, 11 insertions(+)
+[main 6d3f13a8] refactor config loader
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   8d5330d6..6d3f13a8  main -> main
+Already up to date.
+[main 85460aeb] add error handling
+ 1 file changed, 1 insertion(+)
+[main a46b842f] rename variables
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   aafe77a4..a46b842f  main -> main
+Thu Mar 19 10:52:04 PM PDT 2026: pushed 2 commits to both repos

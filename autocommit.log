@@ -2837,3 +2837,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sat Mar 21 10:30:04 AM PDT 2026: pushed 1 commits to both repos
 [main 80c6e69f] clean up dead code
  2 files changed, 11 insertions(+)
+[main 4bc3dfcb] add input validation
+ 2 files changed, 3 insertions(+)

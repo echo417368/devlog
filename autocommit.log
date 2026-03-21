@@ -2839,3 +2839,17 @@ Sat Mar 21 10:30:04 AM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main 4bc3dfcb] add input validation
  2 files changed, 3 insertions(+)
+[main 7bcbafd9] fix null check
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   b996db43..7bcbafd9  main -> main
+Already up to date.
+[main 4c617769] update CI pipeline
+ 1 file changed, 1 insertion(+)
+[main c1d5964f] fix redirect loop
+ 1 file changed, 1 insertion(+)
+[main 0fdd4cef] add batch processing
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   c54e24e6..0fdd4cef  main -> main
+Sat Mar 21 12:05:04 PM PDT 2026: pushed 3 commits to both repos

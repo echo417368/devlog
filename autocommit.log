@@ -2865,3 +2865,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sat Mar 21 01:12:04 PM PDT 2026: pushed 1 commits to both repos
 [main 9ee06f5e] fix connection pool
  2 files changed, 11 insertions(+)
+[main 5eda9e3b] refactor auth logic
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   80874b85..5eda9e3b  main -> main
+Already up to date.
+[main ec3b2e7a] update CI pipeline
+ 1 file changed, 1 insertion(+)
+[main 6c507c5b] update types
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   6713fc43..6c507c5b  main -> main
+Sat Mar 21 03:24:04 PM PDT 2026: pushed 2 commits to both repos

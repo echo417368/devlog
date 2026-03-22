@@ -2879,3 +2879,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sat Mar 21 03:24:04 PM PDT 2026: pushed 2 commits to both repos
 [main b98dc749] fix cache invalidation
  2 files changed, 13 insertions(+)
+[main cf4dd920] fix timezone handling
+ 2 files changed, 3 insertions(+)

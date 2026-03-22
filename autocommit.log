@@ -2946,3 +2946,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sun Mar 22 09:49:05 AM PDT 2026: pushed 2 commits to both repos
 [main 68a2ccda] fix redirect loop
  2 files changed, 13 insertions(+)
+[main a0ac3013] fix edge case in parser
+ 2 files changed, 3 insertions(+)

@@ -2881,3 +2881,17 @@ Sat Mar 21 03:24:04 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main cf4dd920] fix timezone handling
  2 files changed, 3 insertions(+)
+[main 0b1c32b8] minor cleanup
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   5eda9e3b..0b1c32b8  main -> main
+Already up to date.
+[main 2be36035] fix auth token refresh
+ 1 file changed, 1 insertion(+)
+[main 3f67d0c2] fix edge case in parser
+ 1 file changed, 1 insertion(+)
+[main c5f850a4] tweak styles
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   6c507c5b..c5f850a4  main -> main
+Sat Mar 21 06:31:04 PM PDT 2026: pushed 3 commits to both repos

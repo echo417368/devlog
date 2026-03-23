@@ -3049,3 +3049,5 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    b7b8fbcd..db01feb7  main -> main
 Mon Mar 23 11:39:05 AM PDT 2026: pushed 1 commits to both repos
+[main 8c6f278d] fix timezone handling
+ 2 files changed, 11 insertions(+)

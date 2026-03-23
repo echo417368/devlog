@@ -2974,3 +2974,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sun Mar 22 04:34:04 PM PDT 2026: pushed 1 commits to both repos
 [main 9a2b3906] fix timezone handling
  2 files changed, 11 insertions(+)
+[main c6df362d] add graceful shutdown
+ 2 files changed, 3 insertions(+)

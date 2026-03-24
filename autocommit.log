@@ -3125,3 +3125,16 @@ To github-ashnexthq:ashnexthq/devlog.git
 Mon Mar 23 07:56:04 PM PDT 2026: pushed 2 commits to both repos
 [main 2be2c69a] update error messages
  2 files changed, 13 insertions(+)
+[main 2eb7c92f] fix connection pool
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   b921d7ee..2eb7c92f  main -> main
+Already up to date.
+[main a9806fba] refactor error types
+ 1 file changed, 1 insertion(+)
+[main 5a2c2fc0] fix race condition
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   6738a79c..5a2c2fc0  main -> main
+Mon Mar 23 11:34:04 PM PDT 2026: pushed 2 commits to both repos
+Tue Mar 24 01:00:01 AM PDT 2026: scheduled 7 runs at PST hours: 20 13 14 23 17 9 10

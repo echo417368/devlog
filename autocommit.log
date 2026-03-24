@@ -3111,3 +3111,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Mon Mar 23 06:19:04 PM PDT 2026: pushed 3 commits to both repos
 [main f647263e] clean up dead code
  2 files changed, 15 insertions(+)
+[main b921d7ee] fix auth token refresh
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   3d9e04be..b921d7ee  main -> main
+Already up to date.
+[main eef168d4] clean up dead code
+ 1 file changed, 1 insertion(+)
+[main 6738a79c] fix pagination bug
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   d1ff7149..6738a79c  main -> main
+Mon Mar 23 07:56:04 PM PDT 2026: pushed 2 commits to both repos

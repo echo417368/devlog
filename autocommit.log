@@ -3095,3 +3095,17 @@ Mon Mar 23 04:49:04 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 0f3851d5] update lint rules
  2 files changed, 3 insertions(+)
+[main 3d9e04be] fix pagination bug
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   70d117e0..3d9e04be  main -> main
+Already up to date.
+[main 49221c72] clean up dead code
+ 1 file changed, 1 insertion(+)
+[main 6d11b5c9] update lock file
+ 1 file changed, 1 insertion(+)
+[main d1ff7149] update build config
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   04de2e90..d1ff7149  main -> main
+Mon Mar 23 06:19:04 PM PDT 2026: pushed 3 commits to both repos

@@ -3065,3 +3065,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Mon Mar 23 02:33:05 PM PDT 2026: pushed 2 commits to both repos
 [main f3041a99] bump version
  2 files changed, 13 insertions(+)
+[main 13738478] remove debug logs
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   d5cb8367..13738478  main -> main
+Already up to date.
+[main 962a0f6e] add error handling
+ 1 file changed, 1 insertion(+)
+[main 1defff5b] refactor config loader
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   5047a046..1defff5b  main -> main
+Mon Mar 23 03:35:05 PM PDT 2026: pushed 2 commits to both repos

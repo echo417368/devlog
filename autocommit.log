@@ -3190,3 +3190,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    28c08ebb..aa3b3063  main -> main
 Tue Mar 24 03:40:04 PM PDT 2026: pushed 1 commits to both repos
+[main 00773ae3] add rate limiting
+ 2 files changed, 11 insertions(+)
+To github-echo:echo417368/devlog.git
+   e8fbbd52..00773ae3  main -> main
+Already up to date.
+[main 3358cc14] fix hot reload
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   aa3b3063..3358cc14  main -> main
+Tue Mar 24 06:06:04 PM PDT 2026: pushed 1 commits to both repos

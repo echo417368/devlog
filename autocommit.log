@@ -3259,3 +3259,17 @@ Wed Mar 25 09:57:05 AM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main ba0468d6] update error messages
  2 files changed, 3 insertions(+)
+[main f1fb8e3e] fix file upload
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   37a141d3..f1fb8e3e  main -> main
+Already up to date.
+[main 87545821] clean up dead code
+ 1 file changed, 1 insertion(+)
+[main cad2c743] refactor API client
+ 1 file changed, 1 insertion(+)
+[main 673d227d] fix sorting order
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   235e0adf..673d227d  main -> main
+Wed Mar 25 10:28:05 AM PDT 2026: pushed 3 commits to both repos

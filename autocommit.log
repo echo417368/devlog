@@ -3275,3 +3275,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Wed Mar 25 10:28:05 AM PDT 2026: pushed 3 commits to both repos
 [main 0b254333] rename variables
  2 files changed, 15 insertions(+)
+[main 91788dd7] remove debug logs
+ 2 files changed, 3 insertions(+)

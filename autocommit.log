@@ -3372,3 +3372,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Thu Mar 26 10:32:05 AM PDT 2026: pushed 3 commits to both repos
 [main c3bc3bb8] update build config
  2 files changed, 15 insertions(+)
+[main 10c359c1] fix query params
+ 2 files changed, 3 insertions(+)

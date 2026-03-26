@@ -3277,3 +3277,17 @@ Wed Mar 25 10:28:05 AM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main 91788dd7] remove debug logs
  2 files changed, 3 insertions(+)
+[main c0335d97] refactor auth logic
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   f1fb8e3e..c0335d97  main -> main
+Already up to date.
+[main cce36012] rename variables
+ 1 file changed, 1 insertion(+)
+[main 319739b1] add input validation
+ 1 file changed, 1 insertion(+)
+[main c54ab58f] fix connection pool
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   673d227d..c54ab58f  main -> main
+Wed Mar 25 02:12:12 PM PDT 2026: pushed 3 commits to both repos

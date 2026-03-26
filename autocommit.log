@@ -3335,3 +3335,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Wed Mar 25 09:33:05 PM PDT 2026: pushed 2 commits to both repos
 [main 249c6183] update test fixtures
  2 files changed, 13 insertions(+)
+[main eade1efe] fix file upload
+ 2 files changed, 3 insertions(+)

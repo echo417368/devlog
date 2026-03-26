@@ -3374,3 +3374,17 @@ Thu Mar 26 10:32:05 AM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main 10c359c1] fix query params
  2 files changed, 3 insertions(+)
+[main 5ca0e161] refactor config loader
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   3c800efa..5ca0e161  main -> main
+Already up to date.
+[main 4ce854b7] optimize query performance
+ 1 file changed, 1 insertion(+)
+[main edfe146f] add logging
+ 1 file changed, 1 insertion(+)
+[main 6e35d8c9] fix race condition
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   d12b6807..6e35d8c9  main -> main
+Thu Mar 26 11:21:05 AM PDT 2026: pushed 3 commits to both repos

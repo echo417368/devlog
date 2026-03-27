@@ -3473,3 +3473,17 @@ Fri Mar 27 01:00:01 AM PDT 2026: scheduled 6 runs at PST hours: 19 14 12 21 22 1
  2 files changed, 14 insertions(+)
 [main d5996971] fix session handling
  2 files changed, 3 insertions(+)
+[main 7088e2ea] refactor error types
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   0c0c8c63..7088e2ea  main -> main
+Already up to date.
+[main 97e6309b] tweak styles
+ 1 file changed, 1 insertion(+)
+[main da31a198] fix query params
+ 1 file changed, 1 insertion(+)
+[main 734aa566] fix redirect loop
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   55250955..734aa566  main -> main
+Fri Mar 27 01:25:28 PM PDT 2026: pushed 3 commits to both repos

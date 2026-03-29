@@ -3562,3 +3562,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sat Mar 28 01:14:04 PM PDT 2026: pushed 1 commits to both repos
 [main bac8325c] add input validation
  2 files changed, 11 insertions(+)
+[main 55eaaec2] update API routes
+ 2 files changed, 3 insertions(+)

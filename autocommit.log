@@ -3701,3 +3701,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sun Mar 29 01:06:04 PM PDT 2026: pushed 1 commits to both repos
 [main 1e84e5ba] wip
  2 files changed, 11 insertions(+)
+[main 3af781db] add health check endpoint
+ 2 files changed, 3 insertions(+)

@@ -3806,3 +3806,17 @@ Mon Mar 30 06:16:05 PM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main 6205e106] fix auth token refresh
  2 files changed, 3 insertions(+)
+[main 4854ada0] update CI pipeline
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   29c24d81..4854ada0  main -> main
+Already up to date.
+[main fb5acc10] optimize query performance
+ 1 file changed, 1 insertion(+)
+[main 12f862ef] fix redirect loop
+ 1 file changed, 1 insertion(+)
+[main 325de735] update security headers
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   f750fa88..325de735  main -> main
+Mon Mar 30 07:18:05 PM PDT 2026: pushed 3 commits to both repos

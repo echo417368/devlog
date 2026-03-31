@@ -3778,3 +3778,17 @@ Mon Mar 30 02:16:04 PM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main 6e8f7551] fix query params
  2 files changed, 3 insertions(+)
+[main a9fd1853] refactor API client
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   78833ebe..a9fd1853  main -> main
+Already up to date.
+[main 32a9dc8e] fix cache invalidation
+ 1 file changed, 1 insertion(+)
+[main 7c15b68b] fix date formatting
+ 1 file changed, 1 insertion(+)
+[main c7aac5ca] add batch processing
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   3ca21fd4..c7aac5ca  main -> main
+Mon Mar 30 04:09:05 PM PDT 2026: pushed 3 commits to both repos

@@ -3982,3 +3982,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Wed Apr  1 09:31:05 AM PDT 2026: pushed 2 commits to both repos
 [main 25bf68ac] add middleware
  2 files changed, 13 insertions(+)
+[main e1f636a9] fix redirect loop
+ 2 files changed, 3 insertions(+)

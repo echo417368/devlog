@@ -3897,3 +3897,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Tue Mar 31 03:24:17 PM PDT 2026: pushed 2 commits to both repos
 [main 0941ee9d] add queue worker
  2 files changed, 13 insertions(+)
+[main b0d2b376] add graceful shutdown
+ 2 files changed, 3 insertions(+)

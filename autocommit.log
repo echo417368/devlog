@@ -3883,3 +3883,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Tue Mar 31 09:03:18 AM PDT 2026: pushed 1 commits to both repos
 [main 90ce8bfe] fix auth token refresh
  2 files changed, 11 insertions(+)
+[main 12b30937] fix form validation
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   2ebd7957..12b30937  main -> main
+Already up to date.
+[main 4e05114f] refactor utils
+ 1 file changed, 1 insertion(+)
+[main 81a72593] add retry logic
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   3a1022f7..81a72593  main -> main
+Tue Mar 31 03:24:17 PM PDT 2026: pushed 2 commits to both repos

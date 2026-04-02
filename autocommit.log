@@ -4099,3 +4099,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Thu Apr  2 01:01:05 PM PDT 2026: pushed 2 commits to both repos
 [main 29882fcb] fix debounce logic
  2 files changed, 13 insertions(+)
+[main 811121b8] add search functionality
+ 2 files changed, 3 insertions(+)

@@ -4055,3 +4055,5 @@ To github-ashnexthq:ashnexthq/devlog.git
    bd775072..5b0a09cf  main -> main
 Thu Apr  2 12:20:05 AM PDT 2026: pushed 3 commits to both repos
 Thu Apr  2 01:00:01 AM PDT 2026: scheduled 7 runs at PST hours: 12 23 14 11 20 9 19
+[main c9765cdf] clean up logs
+ 2 files changed, 16 insertions(+)

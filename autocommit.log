@@ -4026,3 +4026,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    24b9b429..af1c3725  main -> main
 Wed Apr  1 03:08:05 PM PDT 2026: pushed 2 commits to both repos
+[main be353d89] clean up dead code
+ 2 files changed, 13 insertions(+)
+To github-echo:echo417368/devlog.git
+   61a4de87..be353d89  main -> main
+Already up to date.
+[main bd775072] fix timezone handling
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   af1c3725..bd775072  main -> main
+Wed Apr  1 04:18:05 PM PDT 2026: pushed 1 commits to both repos

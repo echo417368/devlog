@@ -4071,3 +4071,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Thu Apr  2 10:59:05 AM PDT 2026: pushed 2 commits to both repos
 [main 65ef788f] add retry logic
  2 files changed, 13 insertions(+)
+[main e2467c7e] update API routes
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   b1ea88f0..e2467c7e  main -> main
+Already up to date.
+[main 6e82d6fa] clean up dead code
+ 1 file changed, 1 insertion(+)
+[main 03d45427] bump version
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   7cfe8e02..03d45427  main -> main
+Thu Apr  2 12:34:05 PM PDT 2026: pushed 2 commits to both repos

@@ -4244,3 +4244,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Fri Apr  3 05:06:04 PM PDT 2026: pushed 2 commits to both repos
 [main 21110fda] fix timeout issue
  2 files changed, 13 insertions(+)
+[main 7caaade1] fix cache invalidation
+ 2 files changed, 3 insertions(+)

@@ -4262,3 +4262,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Fri Apr  3 06:13:05 PM PDT 2026: pushed 3 commits to both repos
 [main f2f7b0c5] clean up unused imports
  2 files changed, 15 insertions(+)
+[main 2aea0d78] fix form validation
+ 2 files changed, 3 insertions(+)

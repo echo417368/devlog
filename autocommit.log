@@ -4291,3 +4291,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sat Apr  4 09:10:05 AM PDT 2026: pushed 1 commits to both repos
 [main 15b8202c] update env config
  2 files changed, 11 insertions(+)
+[main d98aca4c] refactor config loader
+ 2 files changed, 3 insertions(+)

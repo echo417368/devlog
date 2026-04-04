@@ -4293,3 +4293,17 @@ Sat Apr  4 09:10:05 AM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main d98aca4c] refactor config loader
  2 files changed, 3 insertions(+)
+[main aa1b70fe] refactor component structure
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   575c837f..aa1b70fe  main -> main
+Already up to date.
+[main aa85cc40] update schema
+ 1 file changed, 1 insertion(+)
+[main c74133b1] clean up dead code
+ 1 file changed, 1 insertion(+)
+[main 169fa48e] fix session handling
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   a6c87891..169fa48e  main -> main
+Sat Apr  4 12:12:05 PM PDT 2026: pushed 3 commits to both repos

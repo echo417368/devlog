@@ -4361,3 +4361,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sat Apr  4 09:59:04 PM PDT 2026: pushed 2 commits to both repos
 [main 5f71323c] update lint rules
  2 files changed, 13 insertions(+)
+[main 9a91655a] fix typo in config
+ 2 files changed, 3 insertions(+)

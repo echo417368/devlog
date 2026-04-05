@@ -4347,3 +4347,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sat Apr  4 04:47:04 PM PDT 2026: pushed 3 commits to both repos
 [main a691ae63] add queue worker
  2 files changed, 15 insertions(+)
+[main 24938613] refactor config loader
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   c1902d2a..24938613  main -> main
+Already up to date.
+[main a89aac1c] add data export
+ 1 file changed, 1 insertion(+)
+[main e59728c3] update schema
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   a54875c1..e59728c3  main -> main
+Sat Apr  4 09:59:04 PM PDT 2026: pushed 2 commits to both repos

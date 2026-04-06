@@ -4402,3 +4402,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    cde36913..f41de807  main -> main
 Sun Apr  5 12:44:04 PM PDT 2026: pushed 1 commits to both repos
+[main be7b1ba0] update build config
+ 2 files changed, 11 insertions(+)
+To github-echo:echo417368/devlog.git
+   6f946b5a..be7b1ba0  main -> main
+Already up to date.
+[main 3bc751b9] add middleware
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   f41de807..3bc751b9  main -> main
+Sun Apr  5 01:55:05 PM PDT 2026: pushed 1 commits to both repos

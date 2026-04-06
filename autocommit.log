@@ -4499,3 +4499,17 @@ Mon Apr  6 10:36:05 AM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main cd91ee96] add queue worker
  2 files changed, 3 insertions(+)
+[main adc9b3fc] fix CSS alignment
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   c7e3a823..adc9b3fc  main -> main
+Already up to date.
+[main 616b9aba] add queue worker
+ 1 file changed, 1 insertion(+)
+[main c8eb9866] fix query params
+ 1 file changed, 1 insertion(+)
+[main 75afa5aa] add feature flag
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   cd8fa12a..75afa5aa  main -> main
+Mon Apr  6 12:27:05 PM PDT 2026: pushed 3 commits to both repos

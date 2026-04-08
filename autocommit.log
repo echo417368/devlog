@@ -4687,3 +4687,17 @@ Wed Apr  8 12:49:05 PM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main 186f4247] fix sorting order
  2 files changed, 3 insertions(+)
+[main f57f2254] clean up logs
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   539d9db4..f57f2254  main -> main
+Already up to date.
+[main 00fc2a5b] clean up unused imports
+ 1 file changed, 1 insertion(+)
+[main 1c37c3f3] add queue worker
+ 1 file changed, 1 insertion(+)
+[main b2c1e3b4] update seed data
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   2b0acad3..b2c1e3b4  main -> main
+Wed Apr  8 01:22:05 PM PDT 2026: pushed 3 commits to both repos

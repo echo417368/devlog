@@ -4667,3 +4667,5 @@ Wed Apr  8 12:25:05 AM PDT 2026: pushed 1 commits to both repos
 Wed Apr  8 01:00:01 AM PDT 2026: scheduled 6 runs at PST hours: 11 15 20 12 21 14
 [main e597cbb8] refactor config loader
  2 files changed, 12 insertions(+)
+[main 03629974] fix query params
+ 2 files changed, 3 insertions(+)

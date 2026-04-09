@@ -4739,3 +4739,14 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    459ed8d6..57ef2b9f  main -> main
 Wed Apr  8 09:22:05 PM PDT 2026: pushed 1 commits to both repos
+[main e05070ef] fix connection pool
+ 2 files changed, 11 insertions(+)
+To github-echo:echo417368/devlog.git
+   8a3f1a55..e05070ef  main -> main
+Already up to date.
+[main dfe8650e] bump version
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   57ef2b9f..dfe8650e  main -> main
+Wed Apr  8 10:31:05 PM PDT 2026: pushed 1 commits to both repos
+Thu Apr  9 01:00:01 AM PDT 2026: scheduled 7 runs at PST hours: 11 8 14 9 18 12 16

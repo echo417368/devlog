@@ -4715,3 +4715,17 @@ Wed Apr  8 03:44:05 PM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main d40989c5] update error messages
  2 files changed, 3 insertions(+)
+[main aaff3760] add metrics collection
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   31b977f3..aaff3760  main -> main
+Already up to date.
+[main 749d5233] fix redirect loop
+ 1 file changed, 1 insertion(+)
+[main 18adb709] add search functionality
+ 1 file changed, 1 insertion(+)
+[main 459ed8d6] small fix
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   e9beaedb..459ed8d6  main -> main
+Wed Apr  8 04:05:05 PM PDT 2026: pushed 3 commits to both repos

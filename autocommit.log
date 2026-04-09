@@ -4782,3 +4782,17 @@ Thu Apr  9 10:31:05 AM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main 5b046100] fix session handling
  2 files changed, 3 insertions(+)
+[main ff5e20ff] add queue worker
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   9095107f..ff5e20ff  main -> main
+Already up to date.
+[main bd6e46b0] clean up unused imports
+ 1 file changed, 1 insertion(+)
+[main b0817e93] minor cleanup
+ 1 file changed, 1 insertion(+)
+[main c694f966] fix debounce logic
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   a668b0d7..c694f966  main -> main
+Thu Apr  9 12:12:05 PM PDT 2026: pushed 3 commits to both repos

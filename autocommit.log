@@ -4780,3 +4780,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Thu Apr  9 10:31:05 AM PDT 2026: pushed 1 commits to both repos
 [main a01afa9e] fix connection pool
  2 files changed, 11 insertions(+)
+[main 5b046100] fix session handling
+ 2 files changed, 3 insertions(+)

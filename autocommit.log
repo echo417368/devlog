@@ -4713,3 +4713,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Wed Apr  8 03:44:05 PM PDT 2026: pushed 1 commits to both repos
 [main 289b8fa0] add queue worker
  2 files changed, 11 insertions(+)
+[main d40989c5] update error messages
+ 2 files changed, 3 insertions(+)

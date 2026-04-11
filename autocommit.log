@@ -4895,3 +4895,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Fri Apr 10 06:37:05 PM PDT 2026: pushed 2 commits to both repos
 [main 420d5d5f] add feature flag
  2 files changed, 13 insertions(+)
+[main 880ef38c] fix query params
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   e01fcbbc..880ef38c  main -> main
+Already up to date.
+[main 38016750] fix encoding issue
+ 1 file changed, 1 insertion(+)
+[main 110f0512] add rate limiting
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   e26785ae..110f0512  main -> main
+Fri Apr 10 08:15:05 PM PDT 2026: pushed 2 commits to both repos

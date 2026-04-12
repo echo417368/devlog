@@ -5045,3 +5045,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sun Apr 12 10:46:05 AM PDT 2026: pushed 3 commits to both repos
 [main 48acc917] fix connection pool
  2 files changed, 15 insertions(+)
+[main df0b7070] refactor auth logic
+ 2 files changed, 3 insertions(+)

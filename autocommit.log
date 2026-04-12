@@ -4940,3 +4940,17 @@ Sat Apr 11 01:31:05 PM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main b958bc09] update API routes
  2 files changed, 3 insertions(+)
+[main 9121f5d1] fix hot reload
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   6a2ffde9..9121f5d1  main -> main
+Already up to date.
+[main d7bf521a] formatting
+ 1 file changed, 1 insertion(+)
+[main c9acb2c5] bump version
+ 1 file changed, 1 insertion(+)
+[main afad2033] add graceful shutdown
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   899b2854..afad2033  main -> main
+Sat Apr 11 03:52:05 PM PDT 2026: pushed 3 commits to both repos

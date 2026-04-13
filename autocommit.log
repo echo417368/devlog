@@ -5134,3 +5134,17 @@ Mon Apr 13 09:31:05 AM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 88f9126b] add error handling
  2 files changed, 3 insertions(+)
+[main b3d4b3bf] clean up dead code
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   ee4348f2..b3d4b3bf  main -> main
+Already up to date.
+[main 8af24aff] update CI pipeline
+ 1 file changed, 1 insertion(+)
+[main 70ac6d71] tweak styles
+ 1 file changed, 1 insertion(+)
+[main 8f38a482] clean up dead code
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   4886ffa8..8f38a482  main -> main
+Mon Apr 13 12:17:05 PM PDT 2026: pushed 3 commits to both repos

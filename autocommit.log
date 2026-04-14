@@ -5198,3 +5198,17 @@ Mon Apr 13 07:56:05 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 949da226] fix encoding issue
  2 files changed, 3 insertions(+)
+[main 9b69ddb0] fix date formatting
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   9786579b..9b69ddb0  main -> main
+Already up to date.
+[main ff6d6b26] refactor error types
+ 1 file changed, 1 insertion(+)
+[main 9a9f0159] add graceful shutdown
+ 1 file changed, 1 insertion(+)
+[main 5c2ba255] add error handling
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   f5c64712..5c2ba255  main -> main
+Mon Apr 13 08:31:05 PM PDT 2026: pushed 3 commits to both repos

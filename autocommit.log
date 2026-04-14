@@ -5224,3 +5224,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Mon Apr 13 11:52:05 PM PDT 2026: pushed 1 commits to both repos
 [main d0ba7d66] refactor component structure
  2 files changed, 11 insertions(+)
+[main 411aefcf] update build config
+ 2 files changed, 3 insertions(+)

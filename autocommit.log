@@ -5196,3 +5196,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Mon Apr 13 07:56:05 PM PDT 2026: pushed 2 commits to both repos
 [main 680f7d88] fix file upload
  2 files changed, 13 insertions(+)
+[main 949da226] fix encoding issue
+ 2 files changed, 3 insertions(+)

@@ -5150,3 +5150,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Mon Apr 13 12:17:05 PM PDT 2026: pushed 3 commits to both repos
 [main 095a263f] fix CORS config
  2 files changed, 15 insertions(+)
+[main 5611e831] refactor utils
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   b3d4b3bf..5611e831  main -> main
+Already up to date.
+[main 8f2489b6] fix typo in config
+ 1 file changed, 1 insertion(+)
+[main 2aea40e1] fix debounce logic
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   8f38a482..2aea40e1  main -> main
+Mon Apr 13 02:24:05 PM PDT 2026: pushed 2 commits to both repos

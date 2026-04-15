@@ -5271,3 +5271,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Tue Apr 14 01:27:05 PM PDT 2026: pushed 1 commits to both repos
 [main 840ef31d] add middleware
  2 files changed, 11 insertions(+)
+[main bccf6e72] refactor config loader
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   e7c82d4a..bccf6e72  main -> main
+Already up to date.
+[main d96a3da1] formatting
+ 1 file changed, 1 insertion(+)
+[main 0b99c11f] update lint rules
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   54030c8b..0b99c11f  main -> main
+Tue Apr 14 03:43:05 PM PDT 2026: pushed 2 commits to both repos

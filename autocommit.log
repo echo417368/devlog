@@ -5303,3 +5303,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Tue Apr 14 04:13:06 PM PDT 2026: pushed 3 commits to both repos
 [main be70c8e9] tweak styles
  2 files changed, 15 insertions(+)
+[main f98608e4] refactor error types
+ 2 files changed, 3 insertions(+)

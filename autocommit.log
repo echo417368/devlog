@@ -5323,3 +5323,18 @@ Tue Apr 14 05:47:05 PM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main b2637a9a] add search functionality
  2 files changed, 3 insertions(+)
+[main a87b8111] optimize query performance
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   5a91b87d..a87b8111  main -> main
+Already up to date.
+[main 7b27f109] update types
+ 1 file changed, 1 insertion(+)
+[main 1c3dd878] refactor utils
+ 1 file changed, 1 insertion(+)
+[main 4874bf82] add middleware
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   38dbd016..4874bf82  main -> main
+Tue Apr 14 07:24:06 PM PDT 2026: pushed 3 commits to both repos
+Wed Apr 15 01:00:01 AM PDT 2026: scheduled 6 runs at PST hours: 23 12 9 18 13 11

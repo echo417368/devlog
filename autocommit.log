@@ -5358,3 +5358,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    0b15f7b5..b2b8defa  main -> main
 Wed Apr 15 12:25:05 PM PDT 2026: pushed 1 commits to both repos
+[main ce42d4d4] update env config
+ 2 files changed, 11 insertions(+)
+To github-echo:echo417368/devlog.git
+   32a3b9ad..ce42d4d4  main -> main
+Already up to date.
+[main dee69e77] fix redirect loop
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   b2b8defa..dee69e77  main -> main
+Wed Apr 15 01:57:05 PM PDT 2026: pushed 1 commits to both repos

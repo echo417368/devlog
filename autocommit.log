@@ -5433,3 +5433,5 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    2148dc33..d469ba4e  main -> main
 Thu Apr 16 10:27:05 AM PDT 2026: pushed 2 commits to both repos
+[main 284cd9d1] refactor auth logic
+ 2 files changed, 13 insertions(+)

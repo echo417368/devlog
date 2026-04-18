@@ -5588,3 +5588,17 @@ Fri Apr 17 04:54:05 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 45e26ee7] add queue worker
  2 files changed, 3 insertions(+)
+[main 34c04792] refactor API client
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   5a1c83b8..34c04792  main -> main
+Already up to date.
+[main 9be4ef63] fix date formatting
+ 1 file changed, 1 insertion(+)
+[main 8bd22545] update error messages
+ 1 file changed, 1 insertion(+)
+[main c3725e78] fix edge case in parser
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   f63cc5d9..c3725e78  main -> main
+Fri Apr 17 07:58:05 PM PDT 2026: pushed 3 commits to both repos

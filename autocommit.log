@@ -5647,3 +5647,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sat Apr 18 12:05:05 PM PDT 2026: pushed 2 commits to both repos
 [main 6be5f601] update seed data
  2 files changed, 13 insertions(+)
+[main 1d15f9b1] update API routes
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   b878f190..1d15f9b1  main -> main
+Already up to date.
+[main ae4541c1] refactor API client
+ 1 file changed, 1 insertion(+)
+[main 83795fc0] fix sorting order
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   c702ce11..83795fc0  main -> main
+Sat Apr 18 01:12:05 PM PDT 2026: pushed 2 commits to both repos

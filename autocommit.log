@@ -5570,3 +5570,5 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    58259306..aadf36da  main -> main
 Fri Apr 17 03:05:05 PM PDT 2026: pushed 2 commits to both repos
+[main 07894bdb] add health check endpoint
+ 2 files changed, 13 insertions(+)

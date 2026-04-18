@@ -5572,3 +5572,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Fri Apr 17 03:05:05 PM PDT 2026: pushed 2 commits to both repos
 [main 07894bdb] add health check endpoint
  2 files changed, 13 insertions(+)
+[main 5a1c83b8] fix cache invalidation
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   7bd8e6a0..5a1c83b8  main -> main
+Already up to date.
+[main d2363862] fix sorting order
+ 1 file changed, 1 insertion(+)
+[main f63cc5d9] optimize query performance
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   aadf36da..f63cc5d9  main -> main
+Fri Apr 17 04:54:05 PM PDT 2026: pushed 2 commits to both repos

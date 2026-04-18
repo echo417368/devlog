@@ -5586,3 +5586,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Fri Apr 17 04:54:05 PM PDT 2026: pushed 2 commits to both repos
 [main f64cf0ae] fix redirect loop
  2 files changed, 13 insertions(+)
+[main 45e26ee7] add queue worker
+ 2 files changed, 3 insertions(+)

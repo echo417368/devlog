@@ -5893,3 +5893,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Mon Apr 20 04:46:05 PM PDT 2026: pushed 1 commits to both repos
 [main 00c05782] add data export
  2 files changed, 11 insertions(+)
+[main 393e2b54] update types
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   5f518b20..393e2b54  main -> main
+Already up to date.
+[main c7a93161] clean up dead code
+ 1 file changed, 1 insertion(+)
+[main 8a4ca8ad] fix CORS config
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   8bd40275..8a4ca8ad  main -> main
+Mon Apr 20 06:03:05 PM PDT 2026: pushed 2 commits to both repos

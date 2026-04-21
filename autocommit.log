@@ -5869,3 +5869,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Mon Apr 20 01:53:05 PM PDT 2026: pushed 2 commits to both repos
 [main ea1f5435] refactor component structure
  2 files changed, 13 insertions(+)
+[main 476a0082] update types
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   dde5a6dc..476a0082  main -> main
+Already up to date.
+[main e8663cb4] update schema
+ 1 file changed, 1 insertion(+)
+[main 67996ad6] add error handling
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   989d0797..67996ad6  main -> main
+Mon Apr 20 03:11:05 PM PDT 2026: pushed 2 commits to both repos

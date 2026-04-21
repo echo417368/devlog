@@ -5905,3 +5905,5 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    8bd40275..8a4ca8ad  main -> main
 Mon Apr 20 06:03:05 PM PDT 2026: pushed 2 commits to both repos
+[main eca00619] add error handling
+ 2 files changed, 13 insertions(+)

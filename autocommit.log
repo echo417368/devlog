@@ -5976,3 +5976,17 @@ Tue Apr 21 06:56:05 PM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main 37a24b3d] refactor API client
  2 files changed, 3 insertions(+)
+[main bd87f9c9] refactor component structure
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   eeed6acf..bd87f9c9  main -> main
+Already up to date.
+[main 2866713d] add logging
+ 1 file changed, 1 insertion(+)
+[main 2781d426] fix cache invalidation
+ 1 file changed, 1 insertion(+)
+[main e755363e] fix debounce logic
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   4392862a..e755363e  main -> main
+Tue Apr 21 08:27:05 PM PDT 2026: pushed 3 commits to both repos

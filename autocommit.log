@@ -5990,3 +5990,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    4392862a..e755363e  main -> main
 Tue Apr 21 08:27:05 PM PDT 2026: pushed 3 commits to both repos
+[main b4c4743b] update lock file
+ 2 files changed, 15 insertions(+)
+To github-echo:echo417368/devlog.git
+   bd87f9c9..b4c4743b  main -> main
+Already up to date.
+[main 6f2d7816] fix debounce logic
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   e755363e..6f2d7816  main -> main
+Tue Apr 21 09:33:05 PM PDT 2026: pushed 1 commits to both repos

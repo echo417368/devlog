@@ -6089,3 +6089,5 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    0fe2c883..a96f37b4  main -> main
 Wed Apr 22 03:09:05 PM PDT 2026: pushed 2 commits to both repos
+[main 4aaead37] fix redirect loop
+ 2 files changed, 13 insertions(+)

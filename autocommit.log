@@ -6180,3 +6180,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    118d3164..521581da  main -> main
 Thu Apr 23 10:26:06 AM PDT 2026: pushed 3 commits to both repos
+[main a0f4c3c0] add data export
+ 2 files changed, 15 insertions(+)
+To github-echo:echo417368/devlog.git
+   0d0af17a..a0f4c3c0  main -> main
+Already up to date.
+[main 72242e3c] fix form validation
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   521581da..72242e3c  main -> main
+Thu Apr 23 11:53:05 AM PDT 2026: pushed 1 commits to both repos

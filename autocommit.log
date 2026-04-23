@@ -6129,3 +6129,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Wed Apr 22 07:32:05 PM PDT 2026: pushed 2 commits to both repos
 [main dbfd2ffd] bump version
  2 files changed, 13 insertions(+)
+[main efd160df] fix query params
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   4cab1af4..efd160df  main -> main
+Already up to date.
+[main e16d7d31] update schema
+ 1 file changed, 1 insertion(+)
+[main 0885a66c] fix race condition
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   3c36419b..0885a66c  main -> main
+Wed Apr 22 10:22:05 PM PDT 2026: pushed 2 commits to both repos

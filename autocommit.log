@@ -6166,3 +6166,17 @@ Thu Apr 23 09:12:05 AM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main 45ec3a53] add batch processing
  2 files changed, 3 insertions(+)
+[main 0d0af17a] refactor database layer
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   73165806..0d0af17a  main -> main
+Already up to date.
+[main ffedb36b] fix session handling
+ 1 file changed, 1 insertion(+)
+[main 55cc6d66] add caching layer
+ 1 file changed, 1 insertion(+)
+[main 521581da] fix typo in config
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   118d3164..521581da  main -> main
+Thu Apr 23 10:26:06 AM PDT 2026: pushed 3 commits to both repos

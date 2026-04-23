@@ -6190,3 +6190,5 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    521581da..72242e3c  main -> main
 Thu Apr 23 11:53:05 AM PDT 2026: pushed 1 commits to both repos
+[main 36d7902d] fix connection pool
+ 2 files changed, 11 insertions(+)

@@ -6194,3 +6194,17 @@ Thu Apr 23 11:53:05 AM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main acf391c0] fix edge case in parser
  2 files changed, 3 insertions(+)
+[main 7ca40410] add graceful shutdown
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   a0f4c3c0..7ca40410  main -> main
+Already up to date.
+[main f458476c] add caching layer
+ 1 file changed, 1 insertion(+)
+[main 398a4d89] refactor error types
+ 1 file changed, 1 insertion(+)
+[main 65a32ea5] add search functionality
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   72242e3c..65a32ea5  main -> main
+Thu Apr 23 01:32:06 PM PDT 2026: pushed 3 commits to both repos

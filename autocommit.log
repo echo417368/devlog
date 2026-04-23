@@ -6192,3 +6192,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Thu Apr 23 11:53:05 AM PDT 2026: pushed 1 commits to both repos
 [main 36d7902d] fix connection pool
  2 files changed, 11 insertions(+)
+[main acf391c0] fix edge case in parser
+ 2 files changed, 3 insertions(+)

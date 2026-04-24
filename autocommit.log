@@ -6238,3 +6238,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Thu Apr 23 05:00:07 PM PDT 2026: pushed 1 commits to both repos
 [main ca2fe89e] fix query params
  2 files changed, 11 insertions(+)
+[main 1e029626] fix encoding issue
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   4d7c4ea6..1e029626  main -> main
+Already up to date.
+[main 075c6bf8] update types
+ 1 file changed, 1 insertion(+)
+[main cd4daf82] add middleware
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   79ff585b..cd4daf82  main -> main
+Thu Apr 23 08:59:05 PM PDT 2026: pushed 2 commits to both repos

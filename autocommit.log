@@ -6283,3 +6283,17 @@ Fri Apr 24 09:12:05 AM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main b4c69440] update security headers
  2 files changed, 3 insertions(+)
+[main 1daea21e] small fix
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   accd1f77..1daea21e  main -> main
+Already up to date.
+[main 3f4e1e12] fix redirect loop
+ 1 file changed, 1 insertion(+)
+[main 90c3e10a] clean up logs
+ 1 file changed, 1 insertion(+)
+[main fbbddcab] fix timezone handling
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   4f3ae9e5..fbbddcab  main -> main
+Fri Apr 24 10:54:05 AM PDT 2026: pushed 3 commits to both repos

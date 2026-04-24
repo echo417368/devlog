@@ -6281,3 +6281,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Fri Apr 24 09:12:05 AM PDT 2026: pushed 1 commits to both repos
 [main 6af30192] refactor config loader
  2 files changed, 11 insertions(+)
+[main b4c69440] update security headers
+ 2 files changed, 3 insertions(+)

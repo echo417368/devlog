@@ -6394,3 +6394,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sat Apr 25 12:21:05 PM PDT 2026: pushed 1 commits to both repos
 [main 1bb19d9c] add caching layer
  2 files changed, 11 insertions(+)
+[main 839c86a1] fix CORS config
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   26640fbe..839c86a1  main -> main
+Already up to date.
+[main 73b151d1] fix debounce logic
+ 1 file changed, 1 insertion(+)
+[main dd774e8d] fix pagination bug
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   0476066e..dd774e8d  main -> main
+Sat Apr 25 01:57:05 PM PDT 2026: pushed 2 commits to both repos

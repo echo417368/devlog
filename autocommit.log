@@ -6329,3 +6329,17 @@ Fri Apr 24 02:00:11 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 47aefc1f] update seed data
  2 files changed, 3 insertions(+)
+[main 2c55d8b2] update error messages
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   309fcb24..2c55d8b2  main -> main
+Already up to date.
+[main 0ea0a33f] refactor utils
+ 1 file changed, 1 insertion(+)
+[main 4409daee] fix file upload
+ 1 file changed, 1 insertion(+)
+[main 0bbef00c] fix CORS config
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   d621efb2..0bbef00c  main -> main
+Fri Apr 24 03:11:05 PM PDT 2026: pushed 3 commits to both repos

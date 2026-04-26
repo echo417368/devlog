@@ -6406,3 +6406,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    0476066e..dd774e8d  main -> main
 Sat Apr 25 01:57:05 PM PDT 2026: pushed 2 commits to both repos
+[main 8e33ff43] add search functionality
+ 2 files changed, 13 insertions(+)
+To github-echo:echo417368/devlog.git
+   839c86a1..8e33ff43  main -> main
+Already up to date.
+[main 9c21a0be] update schema
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   dd774e8d..9c21a0be  main -> main
+Sat Apr 25 02:29:05 PM PDT 2026: pushed 1 commits to both repos

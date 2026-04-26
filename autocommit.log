@@ -6448,3 +6448,17 @@ Sat Apr 25 05:08:05 PM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main 73f0dc6b] clean up unused imports
  2 files changed, 3 insertions(+)
+[main 73bdee4f] small fix
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   eeef1b74..73bdee4f  main -> main
+Already up to date.
+[main 0edd9b67] add rate limiting
+ 1 file changed, 1 insertion(+)
+[main 5fe5ddb1] fix encoding issue
+ 1 file changed, 1 insertion(+)
+[main 745cbdc9] refactor error types
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   73a0f01a..745cbdc9  main -> main
+Sat Apr 25 08:27:05 PM PDT 2026: pushed 3 commits to both repos

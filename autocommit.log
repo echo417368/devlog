@@ -6572,3 +6572,17 @@ Mon Apr 27 10:04:06 AM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main 90757e0a] clean up unused imports
  2 files changed, 3 insertions(+)
+[main 4043223b] bump version
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   e38f93a2..4043223b  main -> main
+Already up to date.
+[main fe65de52] fix auth token refresh
+ 1 file changed, 1 insertion(+)
+[main fe3e7afb] fix typo in config
+ 1 file changed, 1 insertion(+)
+[main 926c8a51] small fix
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   6f3db419..926c8a51  main -> main
+Mon Apr 27 04:26:05 PM PDT 2026: pushed 3 commits to both repos

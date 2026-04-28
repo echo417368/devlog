@@ -6699,3 +6699,17 @@ Tue Apr 28 12:02:05 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 424f20f0] update build config
  2 files changed, 3 insertions(+)
+[main fdff87fb] fix race condition
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   389c90bc..fdff87fb  main -> main
+Already up to date.
+[main 9342afdc] add batch processing
+ 1 file changed, 1 insertion(+)
+[main 17377389] optimize query performance
+ 1 file changed, 1 insertion(+)
+[main 9d502c2f] update types
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   dd175725..9d502c2f  main -> main
+Tue Apr 28 01:25:05 PM PDT 2026: pushed 3 commits to both repos

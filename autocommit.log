@@ -6649,3 +6649,17 @@ Tue Apr 28 01:00:01 AM PDT 2026: scheduled 8 runs at PST hours: 21 9 8 11 13 12 
  2 files changed, 12 insertions(+)
 [main d723e1c0] fix encoding issue
  2 files changed, 3 insertions(+)
+[main 58f76b62] refactor auth logic
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   75ff716b..58f76b62  main -> main
+Already up to date.
+[main 158a6859] fix session handling
+ 1 file changed, 1 insertion(+)
+[main 61fd2beb] fix auth token refresh
+ 1 file changed, 1 insertion(+)
+[main f1d913d0] add rate limiting
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   84f65549..f1d913d0  main -> main
+Tue Apr 28 09:33:06 AM PDT 2026: pushed 3 commits to both repos

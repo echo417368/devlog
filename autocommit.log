@@ -6806,3 +6806,17 @@ Wed Apr 29 12:47:05 PM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main a669ecd4] add metrics collection
  2 files changed, 3 insertions(+)
+[main 3e400e7a] fix file upload
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   ee07204f..3e400e7a  main -> main
+Already up to date.
+[main cb70404f] refactor API client
+ 1 file changed, 1 insertion(+)
+[main 41469d78] add retry logic
+ 1 file changed, 1 insertion(+)
+[main eb9b3bcb] refactor component structure
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   c972079e..eb9b3bcb  main -> main
+Wed Apr 29 01:26:05 PM PDT 2026: pushed 3 commits to both repos

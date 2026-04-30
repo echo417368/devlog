@@ -6917,3 +6917,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Thu Apr 30 12:28:06 PM PDT 2026: pushed 2 commits to both repos
 [main 27942a86] clean up unused imports
  2 files changed, 13 insertions(+)
+[main c36e5762] refactor auth logic
+ 2 files changed, 3 insertions(+)

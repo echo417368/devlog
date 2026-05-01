@@ -6919,3 +6919,17 @@ Thu Apr 30 12:28:06 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main c36e5762] refactor auth logic
  2 files changed, 3 insertions(+)
+[main 7b0114de] fix edge case in parser
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   decdac33..7b0114de  main -> main
+Already up to date.
+[main f3bcda13] optimize query performance
+ 1 file changed, 1 insertion(+)
+[main be0fb9d1] fix typo in config
+ 1 file changed, 1 insertion(+)
+[main e02af958] fix date formatting
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   6828e40c..e02af958  main -> main
+Thu Apr 30 01:53:05 PM PDT 2026: pushed 3 commits to both repos

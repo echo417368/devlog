@@ -6935,3 +6935,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Thu Apr 30 01:53:05 PM PDT 2026: pushed 3 commits to both repos
 [main 51a73597] fix edge case in parser
  2 files changed, 15 insertions(+)
+[main be62a888] refactor error types
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   7b0114de..be62a888  main -> main
+Already up to date.
+[main 6170fb21] add metrics collection
+ 1 file changed, 1 insertion(+)
+[main c8cebea9] refactor config loader
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   e02af958..c8cebea9  main -> main
+Thu Apr 30 07:41:06 PM PDT 2026: pushed 2 commits to both repos

@@ -6949,3 +6949,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Thu Apr 30 07:41:06 PM PDT 2026: pushed 2 commits to both repos
 [main 95922773] add graceful shutdown
  2 files changed, 13 insertions(+)
+[main 48088c2e] fix connection pool
+ 2 files changed, 3 insertions(+)

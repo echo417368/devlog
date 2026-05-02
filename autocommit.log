@@ -7048,3 +7048,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Fri May  1 07:39:05 PM PDT 2026: pushed 2 commits to both repos
 [main a2441ed8] fix connection pool
  2 files changed, 13 insertions(+)
+[main 95674a44] fix CORS config
+ 2 files changed, 3 insertions(+)

@@ -7012,3 +7012,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    0d2a6172..8089b3fb  main -> main
 Fri May  1 10:54:06 AM PDT 2026: pushed 2 commits to both repos
+[main 7ac34f02] fix connection pool
+ 2 files changed, 13 insertions(+)
+To github-echo:echo417368/devlog.git
+   37128d20..7ac34f02  main -> main
+Already up to date.
+[main 9a2550ef] fix race condition
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   8089b3fb..9a2550ef  main -> main
+Fri May  1 03:14:05 PM PDT 2026: pushed 1 commits to both repos

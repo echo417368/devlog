@@ -7139,3 +7139,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sat May  2 06:46:05 PM PDT 2026: pushed 2 commits to both repos
 [main db902fc8] refactor API client
  2 files changed, 13 insertions(+)
+[main 71048009] fix CORS config
+ 2 files changed, 3 insertions(+)

@@ -7252,3 +7252,17 @@ Sun May  3 09:22:05 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main d8d2a5dc] update dependencies
  2 files changed, 3 insertions(+)
+[main 067ee912] optimize query performance
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   4dd81ac8..067ee912  main -> main
+Already up to date.
+[main 42140ed6] wip
+ 1 file changed, 1 insertion(+)
+[main 47a41856] add middleware
+ 1 file changed, 1 insertion(+)
+[main 6cc11242] fix cache invalidation
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   3a98ce34..6cc11242  main -> main
+Sun May  3 10:17:05 PM PDT 2026: pushed 3 commits to both repos

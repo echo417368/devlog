@@ -7426,3 +7426,17 @@ Tue May  5 10:02:06 AM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main 1794f677] adjust spacing
  2 files changed, 3 insertions(+)
+[main 994eb769] add rate limiting
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   75ccedfe..994eb769  main -> main
+Already up to date.
+[main 1a5ea25a] add error handling
+ 1 file changed, 1 insertion(+)
+[main 1668332d] update env config
+ 1 file changed, 1 insertion(+)
+[main f549130b] refactor config loader
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   bf97f4b7..f549130b  main -> main
+Tue May  5 11:13:06 AM PDT 2026: pushed 3 commits to both repos

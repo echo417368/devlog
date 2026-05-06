@@ -7537,3 +7537,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Wed May  6 11:04:06 AM PDT 2026: pushed 3 commits to both repos
 [main fc67ac02] update env config
  2 files changed, 15 insertions(+)
+[main a1f4c7b1] fix CORS config
+ 2 files changed, 3 insertions(+)

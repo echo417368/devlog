@@ -7573,3 +7573,5 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    49f2e39b..e14c075b  main -> main
 Wed May  6 08:31:05 PM PDT 2026: pushed 1 commits to both repos
+[main ed838e14] fix encoding issue
+ 2 files changed, 11 insertions(+)

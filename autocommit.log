@@ -7539,3 +7539,17 @@ Wed May  6 11:04:06 AM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main a1f4c7b1] fix CORS config
  2 files changed, 3 insertions(+)
+[main 4241953d] refactor component structure
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   15534a87..4241953d  main -> main
+Already up to date.
+[main f66f2fd0] fix timeout issue
+ 1 file changed, 1 insertion(+)
+[main 3da71fc4] add data export
+ 1 file changed, 1 insertion(+)
+[main ab4cac63] fix edge case in parser
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   c85a9ba1..ab4cac63  main -> main
+Wed May  6 02:22:06 PM PDT 2026: pushed 3 commits to both repos

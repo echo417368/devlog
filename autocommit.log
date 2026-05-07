@@ -7616,3 +7616,17 @@ Thu May  7 10:13:05 AM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main c85aa34c] add middleware
  2 files changed, 3 insertions(+)
+[main d4bd8546] update API routes
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   3508d64c..d4bd8546  main -> main
+Already up to date.
+[main 95f0342b] fix race condition
+ 1 file changed, 1 insertion(+)
+[main 1fc37e11] fix sorting order
+ 1 file changed, 1 insertion(+)
+[main a2200ca8] fix redirect loop
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   06031834..a2200ca8  main -> main
+Thu May  7 12:27:06 PM PDT 2026: pushed 3 commits to both repos

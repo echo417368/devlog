@@ -7575,3 +7575,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Wed May  6 08:31:05 PM PDT 2026: pushed 1 commits to both repos
 [main ed838e14] fix encoding issue
  2 files changed, 11 insertions(+)
+[main dab0082d] refactor database layer
+ 2 files changed, 3 insertions(+)

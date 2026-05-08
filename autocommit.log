@@ -7699,3 +7699,15 @@ Thu May  7 10:31:05 PM PDT 2026: pushed 3 commits to both repos
 Fri May  8 01:00:01 AM PDT 2026: scheduled 7 runs at PST hours: 23 18 16 12 19 13 11
 [main bf4c837c] refactor utils
  2 files changed, 16 insertions(+)
+[main 8c3f3e23] clean up dead code
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   24edb112..8c3f3e23  main -> main
+Already up to date.
+[main 8561c82c] update schema
+ 1 file changed, 1 insertion(+)
+[main ced7a93e] fix connection pool
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   d45756bf..ced7a93e  main -> main
+Fri May  8 12:51:06 PM PDT 2026: pushed 2 commits to both repos

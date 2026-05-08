@@ -7715,3 +7715,17 @@ Fri May  8 12:51:06 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 028e1f7b] fix hot reload
  2 files changed, 3 insertions(+)
+[main 0ed16f2f] refactor state management
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   8c3f3e23..0ed16f2f  main -> main
+Already up to date.
+[main 84c92899] bump version
+ 1 file changed, 1 insertion(+)
+[main c111cc4f] fix timezone handling
+ 1 file changed, 1 insertion(+)
+[main 84b18d32] update types
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   ced7a93e..84b18d32  main -> main
+Fri May  8 01:21:06 PM PDT 2026: pushed 3 commits to both repos

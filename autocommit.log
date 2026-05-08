@@ -7713,3 +7713,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Fri May  8 12:51:06 PM PDT 2026: pushed 2 commits to both repos
 [main 4d19ab3f] wip
  2 files changed, 13 insertions(+)
+[main 028e1f7b] fix hot reload
+ 2 files changed, 3 insertions(+)

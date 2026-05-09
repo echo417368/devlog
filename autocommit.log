@@ -7836,3 +7836,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sat May  9 01:58:06 PM PDT 2026: pushed 2 commits to both repos
 [main 76871d83] fix auth token refresh
  2 files changed, 13 insertions(+)
+[main a4fa98f4] add batch processing
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   96f736d8..a4fa98f4  main -> main
+Already up to date.
+[main 88d9fce3] fix CORS config
+ 1 file changed, 1 insertion(+)
+[main 3b89ee38] fix null check
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   6ecbdad2..3b89ee38  main -> main
+Sat May  9 02:39:05 PM PDT 2026: pushed 2 commits to both repos

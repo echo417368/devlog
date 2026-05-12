@@ -8020,3 +8020,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Mon May 11 09:07:06 PM PDT 2026: pushed 3 commits to both repos
 [main 681e2f20] optimize query performance
  2 files changed, 15 insertions(+)
+[main 10c7752e] fix connection pool
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   b401160d..10c7752e  main -> main
+Already up to date.
+[main b1cba2a8] add queue worker
+ 1 file changed, 1 insertion(+)
+[main 9c071880] refactor config loader
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   d669b587..9c071880  main -> main
+Mon May 11 10:33:06 PM PDT 2026: pushed 2 commits to both repos

@@ -7972,3 +7972,17 @@ Mon May 11 04:26:05 PM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main 3dc8d385] refactor API client
  2 files changed, 3 insertions(+)
+[main 169d5aba] add input validation
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   392733dd..169d5aba  main -> main
+Already up to date.
+[main 2661ebce] refactor config loader
+ 1 file changed, 1 insertion(+)
+[main 96b5baea] optimize query performance
+ 1 file changed, 1 insertion(+)
+[main acad5e3b] add graceful shutdown
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   28ec885c..acad5e3b  main -> main
+Mon May 11 07:58:05 PM PDT 2026: pushed 3 commits to both repos

@@ -8034,3 +8034,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Mon May 11 10:33:06 PM PDT 2026: pushed 2 commits to both repos
 [main e14d8e55] small fix
  2 files changed, 13 insertions(+)
+[main cab4c38d] add error handling
+ 2 files changed, 3 insertions(+)

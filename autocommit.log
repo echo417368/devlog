@@ -8071,3 +8071,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Tue May 12 12:20:06 PM PDT 2026: pushed 3 commits to both repos
 [main 6e47f7b8] wip
  2 files changed, 15 insertions(+)
+[main 01d96551] fix session handling
+ 2 files changed, 3 insertions(+)

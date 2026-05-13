@@ -8087,3 +8087,5 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    84e2abc7..0f85ff16  main -> main
 Tue May 12 05:53:06 PM PDT 2026: pushed 3 commits to both repos
+[main 53365c59] update CI pipeline
+ 2 files changed, 15 insertions(+)

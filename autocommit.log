@@ -8119,3 +8119,17 @@ Tue May 12 08:31:06 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main a689124e] bump version
  2 files changed, 3 insertions(+)
+[main 0ae3b7ec] fix typo in config
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   095941d1..0ae3b7ec  main -> main
+Already up to date.
+[main 743f6415] add graceful shutdown
+ 1 file changed, 1 insertion(+)
+[main 94f450ab] tweak styles
+ 1 file changed, 1 insertion(+)
+[main 137eda43] update error messages
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   2e0794d1..137eda43  main -> main
+Tue May 12 09:04:05 PM PDT 2026: pushed 3 commits to both repos

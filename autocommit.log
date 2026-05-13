@@ -8073,3 +8073,17 @@ Tue May 12 12:20:06 PM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main 01d96551] fix session handling
  2 files changed, 3 insertions(+)
+[main 1c80b3dd] add rate limiting
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   d0416181..1c80b3dd  main -> main
+Already up to date.
+[main 89392600] fix timezone handling
+ 1 file changed, 1 insertion(+)
+[main 02a8a984] update CI pipeline
+ 1 file changed, 1 insertion(+)
+[main 0f85ff16] add retry logic
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   84e2abc7..0f85ff16  main -> main
+Tue May 12 05:53:06 PM PDT 2026: pushed 3 commits to both repos

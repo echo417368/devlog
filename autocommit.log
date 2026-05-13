@@ -8117,3 +8117,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Tue May 12 08:31:06 PM PDT 2026: pushed 2 commits to both repos
 [main cc5c993e] fix cache invalidation
  2 files changed, 13 insertions(+)
+[main a689124e] bump version
+ 2 files changed, 3 insertions(+)

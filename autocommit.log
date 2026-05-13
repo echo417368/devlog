@@ -8190,3 +8190,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    bd0ec34a..3030066a  main -> main
 Wed May 13 10:28:06 AM PDT 2026: pushed 2 commits to both repos
+[main a22c2086] clean up logs
+ 2 files changed, 13 insertions(+)
+To github-echo:echo417368/devlog.git
+   e85a8bc2..a22c2086  main -> main
+Already up to date.
+[main 0abc4fde] update env config
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   3030066a..0abc4fde  main -> main
+Wed May 13 11:47:05 AM PDT 2026: pushed 1 commits to both repos

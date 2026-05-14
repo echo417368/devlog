@@ -8210,3 +8210,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    0abc4fde..b3794d95  main -> main
 Wed May 13 03:25:05 PM PDT 2026: pushed 1 commits to both repos
+[main 39cba82f] update schema
+ 2 files changed, 11 insertions(+)
+To github-echo:echo417368/devlog.git
+   fbf698c7..39cba82f  main -> main
+Already up to date.
+[main b6be22a4] fix file upload
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   b3794d95..b6be22a4  main -> main
+Wed May 13 06:41:05 PM PDT 2026: pushed 1 commits to both repos

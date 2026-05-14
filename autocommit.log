@@ -8281,3 +8281,17 @@ Thu May 14 09:13:06 AM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 84f08a29] fix query params
  2 files changed, 3 insertions(+)
+[main 08072444] fix timeout issue
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   868465e9..08072444  main -> main
+Already up to date.
+[main 41e3fa7b] update security headers
+ 1 file changed, 1 insertion(+)
+[main 965de38f] add caching layer
+ 1 file changed, 1 insertion(+)
+[main 5b6d0d99] update schema
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   8f50221c..5b6d0d99  main -> main
+Thu May 14 12:14:06 PM PDT 2026: pushed 3 commits to both repos

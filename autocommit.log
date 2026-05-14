@@ -8200,3 +8200,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    3030066a..0abc4fde  main -> main
 Wed May 13 11:47:05 AM PDT 2026: pushed 1 commits to both repos
+[main fbf698c7] add feature flag
+ 2 files changed, 11 insertions(+)
+To github-echo:echo417368/devlog.git
+   a22c2086..fbf698c7  main -> main
+Already up to date.
+[main b3794d95] fix race condition
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   0abc4fde..b3794d95  main -> main
+Wed May 13 03:25:05 PM PDT 2026: pushed 1 commits to both repos

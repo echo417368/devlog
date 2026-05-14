@@ -8224,3 +8224,17 @@ Wed May 13 06:41:05 PM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main a7ca4c6e] refactor database layer
  2 files changed, 3 insertions(+)
+[main f95632c6] refactor config loader
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   39cba82f..f95632c6  main -> main
+Already up to date.
+[main 174c4513] small fix
+ 1 file changed, 1 insertion(+)
+[main c6d1527c] fix edge case in parser
+ 1 file changed, 1 insertion(+)
+[main 5fc19119] add caching layer
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   b6be22a4..5fc19119  main -> main
+Wed May 13 07:43:05 PM PDT 2026: pushed 3 commits to both repos

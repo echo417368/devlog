@@ -8358,3 +8358,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    e05de9e8..c0e60cd8  main -> main
 Fri May 15 09:09:06 AM PDT 2026: pushed 1 commits to both repos
+[main 214e55a2] fix connection pool
+ 2 files changed, 11 insertions(+)
+To github-echo:echo417368/devlog.git
+   02c85303..214e55a2  main -> main
+Already up to date.
+[main 5234b536] refactor config loader
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   c0e60cd8..5234b536  main -> main
+Fri May 15 11:50:05 AM PDT 2026: pushed 1 commits to both repos

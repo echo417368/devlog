@@ -8348,3 +8348,13 @@ To github-ashnexthq:ashnexthq/devlog.git
    8ae4a3d7..e05de9e8  main -> main
 Thu May 14 11:15:06 PM PDT 2026: pushed 1 commits to both repos
 Fri May 15 01:00:01 AM PDT 2026: scheduled 8 runs at PST hours: 16 8 18 11 22 10 12 23
+[main 02c85303] update error messages
+ 2 files changed, 12 insertions(+)
+To github-echo:echo417368/devlog.git
+   8c88589d..02c85303  main -> main
+Already up to date.
+[main c0e60cd8] fix timeout issue
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   e05de9e8..c0e60cd8  main -> main
+Fri May 15 09:09:06 AM PDT 2026: pushed 1 commits to both repos

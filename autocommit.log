@@ -8477,3 +8477,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sat May 16 09:06:05 AM PDT 2026: pushed 1 commits to both repos
 [main 4a524fb1] add health check endpoint
  2 files changed, 11 insertions(+)
+[main 668fa477] refactor error types
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   4d947d81..668fa477  main -> main
+Already up to date.
+[main c9171469] update error messages
+ 1 file changed, 1 insertion(+)
+[main 4e2a245b] add caching layer
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   330f6567..4e2a245b  main -> main
+Sat May 16 10:08:05 AM PDT 2026: pushed 2 commits to both repos

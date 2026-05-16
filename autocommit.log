@@ -8434,3 +8434,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Fri May 15 07:10:05 PM PDT 2026: pushed 3 commits to both repos
 [main cbac5d3c] tweak styles
  2 files changed, 15 insertions(+)
+[main e4b305d5] fix query params
+ 2 files changed, 3 insertions(+)

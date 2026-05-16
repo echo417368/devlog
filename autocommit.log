@@ -8386,3 +8386,17 @@ Fri May 15 12:48:05 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 4089343c] update env config
  2 files changed, 3 insertions(+)
+[main 2376bec8] add caching layer
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   994894f2..2376bec8  main -> main
+Already up to date.
+[main f00879cf] refactor state management
+ 1 file changed, 1 insertion(+)
+[main 34098cba] add middleware
+ 1 file changed, 1 insertion(+)
+[main 43c03338] update security headers
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   4afa1d4f..43c03338  main -> main
+Fri May 15 01:55:06 PM PDT 2026: pushed 3 commits to both repos

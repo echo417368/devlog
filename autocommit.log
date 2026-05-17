@@ -8558,3 +8558,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sun May 17 10:01:05 AM PDT 2026: pushed 2 commits to both repos
 [main 8d7d5423] add unit tests
  2 files changed, 13 insertions(+)
+[main 786044af] fix connection pool
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   b278463f..786044af  main -> main
+Already up to date.
+[main a96a5658] refactor config loader
+ 1 file changed, 1 insertion(+)
+[main ae495a8e] tweak styles
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   073c7f01..ae495a8e  main -> main
+Sun May 17 11:53:05 AM PDT 2026: pushed 2 commits to both repos

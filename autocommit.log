@@ -8515,3 +8515,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sat May 16 01:23:05 PM PDT 2026: pushed 1 commits to both repos
 [main b8bcd332] remove debug logs
  2 files changed, 11 insertions(+)
+[main 4e724800] refactor config loader
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   323d0c4a..4e724800  main -> main
+Already up to date.
+[main 3bb081b3] fix form validation
+ 1 file changed, 1 insertion(+)
+[main 1bbefb7a] add error handling
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   08a1eae5..1bbefb7a  main -> main
+Sat May 16 07:44:05 PM PDT 2026: pushed 2 commits to both repos

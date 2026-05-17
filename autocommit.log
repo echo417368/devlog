@@ -8570,3 +8570,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    073c7f01..ae495a8e  main -> main
 Sun May 17 11:53:05 AM PDT 2026: pushed 2 commits to both repos
+[main 2b96abf2] add queue worker
+ 2 files changed, 13 insertions(+)
+To github-echo:echo417368/devlog.git
+   786044af..2b96abf2  main -> main
+Already up to date.
+[main bfdf511c] optimize query performance
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   ae495a8e..bfdf511c  main -> main
+Sun May 17 02:50:05 PM PDT 2026: pushed 1 commits to both repos

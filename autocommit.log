@@ -8663,3 +8663,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Mon May 18 10:53:05 AM PDT 2026: pushed 2 commits to both repos
 [main 2fdf82a9] fix typo in config
  2 files changed, 13 insertions(+)
+[main 93bed7e4] update test fixtures
+ 2 files changed, 3 insertions(+)

@@ -8618,3 +8618,18 @@ Sun May 17 08:33:05 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 81a27c80] minor cleanup
  2 files changed, 3 insertions(+)
+[main 9c645a41] fix query params
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   2042f921..9c645a41  main -> main
+Already up to date.
+[main 9040ce45] update schema
+ 1 file changed, 1 insertion(+)
+[main 70e5db2a] fix date formatting
+ 1 file changed, 1 insertion(+)
+[main b018ced9] add logging
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   7c610256..b018ced9  main -> main
+Sun May 17 11:47:06 PM PDT 2026: pushed 3 commits to both repos
+Mon May 18 01:00:01 AM PDT 2026: scheduled 8 runs at PST hours: 14 8 15 23 9 16 22 20

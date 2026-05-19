@@ -8683,3 +8683,17 @@ Mon May 18 03:48:06 PM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main 401ef1a2] update env config
  2 files changed, 3 insertions(+)
+[main b5bb668b] minor cleanup
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   ddf89716..b5bb668b  main -> main
+Already up to date.
+[main 5c2968e0] rename variables
+ 1 file changed, 1 insertion(+)
+[main 4d125d7f] update error messages
+ 1 file changed, 1 insertion(+)
+[main 590b2b4f] fix typo in config
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   3aeb9ece..590b2b4f  main -> main
+Mon May 18 04:28:05 PM PDT 2026: pushed 3 commits to both repos

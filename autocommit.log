@@ -8697,3 +8697,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    3aeb9ece..590b2b4f  main -> main
 Mon May 18 04:28:05 PM PDT 2026: pushed 3 commits to both repos
+[main 7c147804] update lint rules
+ 2 files changed, 15 insertions(+)
+To github-echo:echo417368/devlog.git
+   b5bb668b..7c147804  main -> main
+Already up to date.
+[main 6bbf70be] fix debounce logic
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   590b2b4f..6bbf70be  main -> main
+Mon May 18 05:05:05 PM PDT 2026: pushed 1 commits to both repos

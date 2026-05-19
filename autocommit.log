@@ -8719,3 +8719,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Mon May 18 09:43:05 PM PDT 2026: pushed 1 commits to both repos
 [main aafe19f4] fix typo in config
  2 files changed, 11 insertions(+)
+[main c0b1cea3] add caching layer
+ 2 files changed, 3 insertions(+)

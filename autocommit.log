@@ -8665,3 +8665,17 @@ Mon May 18 10:53:05 AM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 93bed7e4] update test fixtures
  2 files changed, 3 insertions(+)
+[main ddf89716] fix null check
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   97db5d51..ddf89716  main -> main
+Already up to date.
+[main 9ae6a0aa] update error messages
+ 1 file changed, 1 insertion(+)
+[main 53a15718] add data export
+ 1 file changed, 1 insertion(+)
+[main 3aeb9ece] refactor error types
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   20f75746..3aeb9ece  main -> main
+Mon May 18 03:48:06 PM PDT 2026: pushed 3 commits to both repos

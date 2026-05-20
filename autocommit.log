@@ -8847,3 +8847,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    54bfb1be..147cce7e  main -> main
 Wed May 20 10:41:06 AM PDT 2026: pushed 2 commits to both repos
+[main d4787bda] fix CORS config
+ 2 files changed, 13 insertions(+)
+To github-echo:echo417368/devlog.git
+   d8cda16f..d4787bda  main -> main
+Already up to date.
+[main 6cf94252] add search functionality
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   147cce7e..6cf94252  main -> main
+Wed May 20 11:57:05 AM PDT 2026: pushed 1 commits to both repos

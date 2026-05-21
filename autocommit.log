@@ -8954,3 +8954,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Thu May 21 09:52:06 AM PDT 2026: pushed 1 commits to both repos
 [main 78f9d2d4] fix race condition
  2 files changed, 11 insertions(+)
+[main 729eeb39] fix sorting order
+ 2 files changed, 3 insertions(+)

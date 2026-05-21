@@ -8956,3 +8956,17 @@ Thu May 21 09:52:06 AM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main 729eeb39] fix sorting order
  2 files changed, 3 insertions(+)
+[main 57848243] adjust spacing
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   b058ae38..57848243  main -> main
+Already up to date.
+[main ba2a69ef] add middleware
+ 1 file changed, 1 insertion(+)
+[main cbc3b168] minor cleanup
+ 1 file changed, 1 insertion(+)
+[main cb463657] wip
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   6ac03017..cb463657  main -> main
+Thu May 21 10:52:06 AM PDT 2026: pushed 3 commits to both repos

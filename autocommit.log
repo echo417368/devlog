@@ -9012,3 +9012,5 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    82efc046..9bdcf095  main -> main
 Thu May 21 09:52:06 PM PDT 2026: pushed 2 commits to both repos
+[main a153758b] add graceful shutdown
+ 2 files changed, 13 insertions(+)

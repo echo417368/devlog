@@ -8984,3 +8984,17 @@ Thu May 21 02:41:06 PM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main 19825c88] update security headers
  2 files changed, 3 insertions(+)
+[main d1b1aacc] fix connection pool
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   0dfaa9db..d1b1aacc  main -> main
+Already up to date.
+[main 2a396f07] fix race condition
+ 1 file changed, 1 insertion(+)
+[main c8ebeab2] refactor config loader
+ 1 file changed, 1 insertion(+)
+[main 82efc046] clean up logs
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   872c2e87..82efc046  main -> main
+Thu May 21 03:13:06 PM PDT 2026: pushed 3 commits to both repos

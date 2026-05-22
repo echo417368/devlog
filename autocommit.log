@@ -9053,3 +9053,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Fri May 22 12:57:05 PM PDT 2026: pushed 2 commits to both repos
 [main 401d6fb4] update CI pipeline
  2 files changed, 13 insertions(+)
+[main b43dfd1b] add logging
+ 2 files changed, 3 insertions(+)

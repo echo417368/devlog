@@ -9073,3 +9073,17 @@ Fri May 22 03:48:05 PM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main c806e8c6] fix date formatting
  2 files changed, 3 insertions(+)
+[main 4628cae5] refactor API client
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   ddf0e06a..4628cae5  main -> main
+Already up to date.
+[main b7c68a73] fix query params
+ 1 file changed, 1 insertion(+)
+[main 83c5732d] fix sorting order
+ 1 file changed, 1 insertion(+)
+[main 93c43bc4] fix timezone handling
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   554eccec..93c43bc4  main -> main
+Fri May 22 04:26:05 PM PDT 2026: pushed 3 commits to both repos

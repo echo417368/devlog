@@ -9178,3 +9178,17 @@ Sat May 23 01:47:05 PM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main 5c5d05fd] clean up logs
  2 files changed, 3 insertions(+)
+[main 196ebf7f] fix hot reload
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   9af9a05d..196ebf7f  main -> main
+Already up to date.
+[main b065d95d] small fix
+ 1 file changed, 1 insertion(+)
+[main 24a99c19] fix pagination bug
+ 1 file changed, 1 insertion(+)
+[main e9927cae] update build config
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   b0d73bce..e9927cae  main -> main
+Sat May 23 08:18:05 PM PDT 2026: pushed 3 commits to both repos

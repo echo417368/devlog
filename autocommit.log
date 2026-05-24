@@ -9194,3 +9194,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sat May 23 08:18:05 PM PDT 2026: pushed 3 commits to both repos
 [main 8b3bc959] fix debounce logic
  2 files changed, 15 insertions(+)
+[main f65247f8] bump version
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   196ebf7f..f65247f8  main -> main
+Already up to date.
+[main 7a476c95] minor cleanup
+ 1 file changed, 1 insertion(+)
+[main 61a1f575] add feature flag
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   e9927cae..61a1f575  main -> main
+Sat May 23 09:18:05 PM PDT 2026: pushed 2 commits to both repos

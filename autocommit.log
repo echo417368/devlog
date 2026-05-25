@@ -9303,3 +9303,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sun May 24 10:17:06 PM PDT 2026: pushed 3 commits to both repos
 [main 7c6e6b7b] fix hot reload
  2 files changed, 15 insertions(+)
+[main 6f0ec136] add data export
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   c9e82d3f..6f0ec136  main -> main
+Already up to date.
+[main 2339d53a] add search functionality
+ 1 file changed, 1 insertion(+)
+[main 2a221c87] fix encoding issue
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   d63c4550..2a221c87  main -> main
+Sun May 24 11:54:05 PM PDT 2026: pushed 2 commits to both repos

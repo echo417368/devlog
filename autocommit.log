@@ -9421,3 +9421,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    2b48f6f9..d61dc1c5  main -> main
 Tue May 26 09:44:06 AM PDT 2026: pushed 2 commits to both repos
+[main ad28fbf4] fix edge case in parser
+ 2 files changed, 13 insertions(+)
+To github-echo:echo417368/devlog.git
+   ebf7a969..ad28fbf4  main -> main
+Already up to date.
+[main e9b3bfb8] fix form validation
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   d61dc1c5..e9b3bfb8  main -> main
+Tue May 26 10:55:05 AM PDT 2026: pushed 1 commits to both repos

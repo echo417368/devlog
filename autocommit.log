@@ -9407,3 +9407,5 @@ To github-ashnexthq:ashnexthq/devlog.git
    d5213752..2b48f6f9  main -> main
 Tue May 26 12:35:06 AM PDT 2026: pushed 1 commits to both repos
 Tue May 26 01:00:02 AM PDT 2026: scheduled 7 runs at PST hours: 13 20 21 11 9 8 17
+[main 50815ed0] fix null check
+ 2 files changed, 12 insertions(+)

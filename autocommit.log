@@ -9538,3 +9538,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Wed May 27 01:50:06 PM PDT 2026: pushed 2 commits to both repos
 [main 2522d4a6] add health check endpoint
  2 files changed, 13 insertions(+)
+[main 6725b4a8] fix session handling
+ 2 files changed, 3 insertions(+)

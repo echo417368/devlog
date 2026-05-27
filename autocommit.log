@@ -9441,3 +9441,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    e9b3bfb8..e6f156b1  main -> main
 Tue May 26 12:41:06 PM PDT 2026: pushed 1 commits to both repos
+[main 15fcc8ed] clean up logs
+ 2 files changed, 11 insertions(+)
+To github-echo:echo417368/devlog.git
+   6123f63b..15fcc8ed  main -> main
+Already up to date.
+[main 92b48bfd] update error messages
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   e6f156b1..92b48bfd  main -> main
+Tue May 26 02:00:06 PM PDT 2026: pushed 1 commits to both repos

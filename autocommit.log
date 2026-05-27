@@ -9451,3 +9451,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    e6f156b1..92b48bfd  main -> main
 Tue May 26 02:00:06 PM PDT 2026: pushed 1 commits to both repos
+[main 1f5da313] update lock file
+ 2 files changed, 11 insertions(+)
+To github-echo:echo417368/devlog.git
+   15fcc8ed..1f5da313  main -> main
+Already up to date.
+[main a4b15b4f] refactor error types
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   92b48bfd..a4b15b4f  main -> main
+Tue May 26 06:29:05 PM PDT 2026: pushed 1 commits to both repos

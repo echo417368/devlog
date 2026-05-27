@@ -9524,3 +9524,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Wed May 27 12:19:09 PM PDT 2026: pushed 3 commits to both repos
 [main 945a29ca] fix timezone handling
  2 files changed, 15 insertions(+)
+[main 2246d761] fix auth token refresh
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   0a50bb74..2246d761  main -> main
+Already up to date.
+[main fc7d14a9] add search functionality
+ 1 file changed, 1 insertion(+)
+[main f3969141] update types
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   11144db1..f3969141  main -> main
+Wed May 27 01:50:06 PM PDT 2026: pushed 2 commits to both repos

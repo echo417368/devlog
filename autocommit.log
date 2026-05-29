@@ -9607,3 +9607,13 @@ To github-ashnexthq:ashnexthq/devlog.git
    75bbdd47..1b1d65d8  main -> main
 Wed May 27 11:51:06 PM PDT 2026: pushed 1 commits to both repos
 Thu May 28 01:00:01 AM PDT 2026: scheduled 6 runs at PST hours: 22 23 16 17 15 12
+[main 14d7cf76] refactor database layer
+ 2 files changed, 12 insertions(+)
+To github-echo:echo417368/devlog.git
+   b082ff70..14d7cf76  main -> main
+Already up to date.
+[main 84b4ae57] fix encoding issue
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   1b1d65d8..84b4ae57  main -> main
+Thu May 28 01:58:06 PM PDT 2026: pushed 1 commits to both repos

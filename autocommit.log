@@ -9726,3 +9726,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Fri May 29 10:08:06 AM PDT 2026: pushed 2 commits to both repos
 [main cf80e9e0] refactor utils
  2 files changed, 13 insertions(+)
+[main 445afbaa] add error handling
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   00a44b9d..445afbaa  main -> main
+Already up to date.
+[main ff2b5e51] fix edge case in parser
+ 1 file changed, 1 insertion(+)
+[main 44f3cc85] add input validation
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   fc3f2704..44f3cc85  main -> main
+Fri May 29 02:43:05 PM PDT 2026: pushed 2 commits to both repos

@@ -9712,3 +9712,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Fri May 29 09:04:06 AM PDT 2026: pushed 2 commits to both repos
 [main a962e582] refactor utils
  2 files changed, 13 insertions(+)
+[main 00a44b9d] add feature flag
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   f486ab30..00a44b9d  main -> main
+Already up to date.
+[main 47d4aa0a] fix pagination bug
+ 1 file changed, 1 insertion(+)
+[main fc3f2704] update test fixtures
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   171184da..fc3f2704  main -> main
+Fri May 29 10:08:06 AM PDT 2026: pushed 2 commits to both repos

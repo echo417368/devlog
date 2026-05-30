@@ -9776,3 +9776,18 @@ Fri May 29 08:26:05 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 8ef0935f] fix typo in config
  2 files changed, 3 insertions(+)
+[main 72788320] clean up logs
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   dbbfa396..72788320  main -> main
+Already up to date.
+[main 1fb9fd41] add data export
+ 1 file changed, 1 insertion(+)
+[main 8e1e82c0] add rate limiting
+ 1 file changed, 1 insertion(+)
+[main b70ad6f8] fix typo in config
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   4dd336f3..b70ad6f8  main -> main
+Sat May 30 12:41:05 AM PDT 2026: pushed 3 commits to both repos
+Sat May 30 01:00:02 AM PDT 2026: scheduled 6 runs at PST hours: 12 16 19 9 11 10

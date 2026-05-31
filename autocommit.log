@@ -9833,3 +9833,17 @@ Sat May 30 12:56:05 PM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main b98ff49e] add caching layer
  2 files changed, 3 insertions(+)
+[main f5c26497] add queue worker
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   95eaa0da..f5c26497  main -> main
+Already up to date.
+[main 5c3db293] refactor config loader
+ 1 file changed, 1 insertion(+)
+[main 6937caa0] refactor state management
+ 1 file changed, 1 insertion(+)
+[main aeeaaf8a] add unit tests
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   7123dfee..aeeaaf8a  main -> main
+Sat May 30 01:55:05 PM PDT 2026: pushed 3 commits to both repos

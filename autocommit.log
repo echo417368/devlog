@@ -10072,3 +10072,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Tue Jun  2 09:13:06 AM PDT 2026: pushed 3 commits to both repos
 [main 873a4e03] update API routes
  2 files changed, 15 insertions(+)
+[main abb4cdb9] fix null check
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   c8aa8816..abb4cdb9  main -> main
+Already up to date.
+[main 354c80f2] clean up dead code
+ 1 file changed, 1 insertion(+)
+[main 58b047c9] update schema
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   9aede725..58b047c9  main -> main
+Tue Jun  2 10:49:05 AM PDT 2026: pushed 2 commits to both repos

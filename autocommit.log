@@ -10035,3 +10035,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Mon Jun  1 09:54:06 PM PDT 2026: pushed 3 commits to both repos
 [main 4b5d967c] add middleware
  2 files changed, 15 insertions(+)
+[main da7eb0b8] add queue worker
+ 2 files changed, 3 insertions(+)

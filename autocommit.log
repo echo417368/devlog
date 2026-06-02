@@ -10019,3 +10019,17 @@ Mon Jun  1 08:02:05 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 77d364e9] fix race condition
  2 files changed, 3 insertions(+)
+[main 62a1302a] refactor state management
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   acfe21e6..62a1302a  main -> main
+Already up to date.
+[main 6ec60cf8] update lint rules
+ 1 file changed, 1 insertion(+)
+[main 53cf8ac2] update CI pipeline
+ 1 file changed, 1 insertion(+)
+[main 9cd975ae] fix hot reload
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   574793aa..9cd975ae  main -> main
+Mon Jun  1 09:54:06 PM PDT 2026: pushed 3 commits to both repos

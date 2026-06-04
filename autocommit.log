@@ -10280,3 +10280,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Thu Jun  4 10:53:05 AM PDT 2026: pushed 2 commits to both repos
 [main bb14f484] fix form validation
  2 files changed, 13 insertions(+)
+[main f1a6019d] add error handling
+ 2 files changed, 3 insertions(+)

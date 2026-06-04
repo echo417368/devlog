@@ -10266,3 +10266,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Thu Jun  4 09:04:05 AM PDT 2026: pushed 2 commits to both repos
 [main 147dcb73] refactor database layer
  2 files changed, 13 insertions(+)
+[main c4a68921] fix timezone handling
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   daacaab0..c4a68921  main -> main
+Already up to date.
+[main 1db7ab96] fix null check
+ 1 file changed, 1 insertion(+)
+[main 5e0ae544] optimize query performance
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   dac28cf3..5e0ae544  main -> main
+Thu Jun  4 10:53:05 AM PDT 2026: pushed 2 commits to both repos

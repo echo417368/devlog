@@ -10282,3 +10282,17 @@ Thu Jun  4 10:53:05 AM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main f1a6019d] add error handling
  2 files changed, 3 insertions(+)
+[main 58f5a29a] clean up dead code
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   c4a68921..58f5a29a  main -> main
+Already up to date.
+[main 46efdf54] update types
+ 1 file changed, 1 insertion(+)
+[main fe74a018] fix cache invalidation
+ 1 file changed, 1 insertion(+)
+[main 9801bff8] clean up unused imports
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   5e0ae544..9801bff8  main -> main
+Thu Jun  4 02:51:05 PM PDT 2026: pushed 3 commits to both repos

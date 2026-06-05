@@ -10352,3 +10352,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Thu Jun  4 11:21:05 PM PDT 2026: pushed 3 commits to both repos
 [main 2cf93edd] fix encoding issue
  2 files changed, 15 insertions(+)
+[main 6f1540be] fix CORS config
+ 2 files changed, 3 insertions(+)

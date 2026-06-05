@@ -10369,3 +10369,5 @@ To github-ashnexthq:ashnexthq/devlog.git
    7f16ff05..5afc6cc8  main -> main
 Fri Jun  5 12:15:05 AM PDT 2026: pushed 3 commits to both repos
 Fri Jun  5 01:00:01 AM PDT 2026: scheduled 8 runs at PST hours: 21 20 18 13 15 22 10 12
+[main a3041228] refactor error types
+ 2 files changed, 16 insertions(+)

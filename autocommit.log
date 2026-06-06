@@ -10492,3 +10492,17 @@ Sat Jun  6 10:41:05 AM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main d985b137] fix timezone handling
  2 files changed, 3 insertions(+)
+[main 439f6a8c] update test fixtures
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   fd078775..439f6a8c  main -> main
+Already up to date.
+[main 12f6dd53] update error messages
+ 1 file changed, 1 insertion(+)
+[main 2cd6a610] add unit tests
+ 1 file changed, 1 insertion(+)
+[main cc83c01e] clean up logs
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   4d12f6d8..cc83c01e  main -> main
+Sat Jun  6 11:20:05 AM PDT 2026: pushed 3 commits to both repos

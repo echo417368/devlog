@@ -10660,3 +10660,17 @@ Mon Jun  8 09:06:05 AM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 19e878a3] fix query params
  2 files changed, 3 insertions(+)
+[main 08c8c5ba] refactor API client
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   9f5d08d5..08c8c5ba  main -> main
+Already up to date.
+[main c1b366ee] fix edge case in parser
+ 1 file changed, 1 insertion(+)
+[main 8482a642] add rate limiting
+ 1 file changed, 1 insertion(+)
+[main f6cc3b2d] optimize query performance
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   bbe970b2..f6cc3b2d  main -> main
+Mon Jun  8 11:50:05 AM PDT 2026: pushed 3 commits to both repos

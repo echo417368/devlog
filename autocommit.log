@@ -10686,3 +10686,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Mon Jun  8 12:28:05 PM PDT 2026: pushed 1 commits to both repos
 [main 47d88273] update build config
  2 files changed, 11 insertions(+)
+[main c2fe5126] add logging
+ 2 files changed, 3 insertions(+)

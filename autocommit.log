@@ -10658,3 +10658,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Mon Jun  8 09:06:05 AM PDT 2026: pushed 2 commits to both repos
 [main 62aef47d] add metrics collection
  2 files changed, 13 insertions(+)
+[main 19e878a3] fix query params
+ 2 files changed, 3 insertions(+)

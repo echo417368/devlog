@@ -11011,3 +11011,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    4c084d1a..2aba3d8b  main -> main
 Thu Jun 11 10:42:05 PM PDT 2026: pushed 1 commits to both repos
+[main 3f9ea866] fix redirect loop
+ 2 files changed, 11 insertions(+)
+To github-echo:echo417368/devlog.git
+   5c1fe80a..3f9ea866  main -> main
+Already up to date.
+[main f792fbd7] fix null check
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   2aba3d8b..f792fbd7  main -> main
+Thu Jun 11 11:31:05 PM PDT 2026: pushed 1 commits to both repos

@@ -10959,3 +10959,17 @@ Thu Jun 11 12:14:05 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main ef826afb] refactor config loader
  2 files changed, 3 insertions(+)
+[main db38471f] fix CORS config
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   0227cf07..db38471f  main -> main
+Already up to date.
+[main f90804fd] bump version
+ 1 file changed, 1 insertion(+)
+[main 85c516b9] fix edge case in parser
+ 1 file changed, 1 insertion(+)
+[main c76bef0b] add unit tests
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   b10a83f0..c76bef0b  main -> main
+Thu Jun 11 05:17:05 PM PDT 2026: pushed 3 commits to both repos

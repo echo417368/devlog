@@ -10943,3 +10943,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Thu Jun 11 10:06:06 AM PDT 2026: pushed 2 commits to both repos
 [main 54de5832] refactor state management
  2 files changed, 13 insertions(+)
+[main 0227cf07] clean up unused imports
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   34f6b54c..0227cf07  main -> main
+Already up to date.
+[main f001bd26] fix edge case in parser
+ 1 file changed, 1 insertion(+)
+[main b10a83f0] add data export
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   d2797e34..b10a83f0  main -> main
+Thu Jun 11 12:14:05 PM PDT 2026: pushed 2 commits to both repos

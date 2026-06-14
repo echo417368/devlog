@@ -11224,3 +11224,17 @@ Sun Jun 14 09:03:05 AM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 9480fcf3] add rate limiting
  2 files changed, 3 insertions(+)
+[main ed26ff02] clean up unused imports
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   622dc457..ed26ff02  main -> main
+Already up to date.
+[main 7e1999a0] clean up logs
+ 1 file changed, 1 insertion(+)
+[main c5cfb883] fix typo in config
+ 1 file changed, 1 insertion(+)
+[main c7555df4] update CI pipeline
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   c951830a..c7555df4  main -> main
+Sun Jun 14 10:04:05 AM PDT 2026: pushed 3 commits to both repos

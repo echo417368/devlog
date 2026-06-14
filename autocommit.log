@@ -11185,3 +11185,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    e42c4298..317f0682  main -> main
 Sat Jun 13 08:13:05 PM PDT 2026: pushed 2 commits to both repos
+[main 47503bf4] update schema
+ 2 files changed, 13 insertions(+)
+To github-echo:echo417368/devlog.git
+   bba93a03..47503bf4  main -> main
+Already up to date.
+[main 2ea0cea9] add graceful shutdown
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   317f0682..2ea0cea9  main -> main
+Sat Jun 13 09:03:05 PM PDT 2026: pushed 1 commits to both repos

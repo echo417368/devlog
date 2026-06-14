@@ -11129,3 +11129,17 @@ Sat Jun 13 01:00:01 AM PDT 2026: scheduled 6 runs at PST hours: 17 19 16 14 23 2
  2 files changed, 12 insertions(+)
 [main 9603777e] refactor error types
  2 files changed, 3 insertions(+)
+[main 093918b0] update CI pipeline
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   da344df0..093918b0  main -> main
+Already up to date.
+[main 45fc5ec3] clean up dead code
+ 1 file changed, 1 insertion(+)
+[main 0fcf375f] update dependencies
+ 1 file changed, 1 insertion(+)
+[main f3b01878] refactor auth logic
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   baacf8f6..f3b01878  main -> main
+Sat Jun 13 03:55:05 PM PDT 2026: pushed 3 commits to both repos

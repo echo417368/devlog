@@ -11262,3 +11262,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    da408f68..a8d885b1  main -> main
 Sun Jun 14 12:48:05 PM PDT 2026: pushed 2 commits to both repos
+[main ad1aa179] fix hot reload
+ 2 files changed, 13 insertions(+)
+To github-echo:echo417368/devlog.git
+   a23169fd..ad1aa179  main -> main
+Already up to date.
+[main f5148b50] refactor config loader
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   a8d885b1..f5148b50  main -> main
+Sun Jun 14 01:29:05 PM PDT 2026: pushed 1 commits to both repos

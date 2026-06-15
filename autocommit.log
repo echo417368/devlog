@@ -11319,3 +11319,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Mon Jun 15 09:50:06 AM PDT 2026: pushed 2 commits to both repos
 [main 522ba244] fix redirect loop
  2 files changed, 13 insertions(+)
+[main db3a88bc] remove debug logs
+ 2 files changed, 3 insertions(+)

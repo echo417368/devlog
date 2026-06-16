@@ -11404,3 +11404,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Tue Jun 16 10:51:05 AM PDT 2026: pushed 2 commits to both repos
 [main 0cfaf682] add graceful shutdown
  2 files changed, 13 insertions(+)
+[main f86f1c22] update lint rules
+ 2 files changed, 3 insertions(+)

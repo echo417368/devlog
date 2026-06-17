@@ -11450,3 +11450,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Tue Jun 16 06:35:05 PM PDT 2026: pushed 1 commits to both repos
 [main ed6bd6f7] refactor auth logic
  2 files changed, 11 insertions(+)
+[main cd5cf8b8] update CI pipeline
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   9ab779cd..cd5cf8b8  main -> main
+Already up to date.
+[main c604ef7f] add queue worker
+ 1 file changed, 1 insertion(+)
+[main 46e0e534] add middleware
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   ed52ac59..46e0e534  main -> main
+Tue Jun 16 07:27:05 PM PDT 2026: pushed 2 commits to both repos

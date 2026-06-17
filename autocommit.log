@@ -11424,3 +11424,17 @@ Tue Jun 16 03:44:05 PM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main ef8298e7] fix debounce logic
  2 files changed, 3 insertions(+)
+[main 194c4fbb] refactor API client
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   57c5efb1..194c4fbb  main -> main
+Already up to date.
+[main 9c591099] update test fixtures
+ 1 file changed, 1 insertion(+)
+[main 065f5fb3] update schema
+ 1 file changed, 1 insertion(+)
+[main 0c66f420] add input validation
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   209a4dfb..0c66f420  main -> main
+Tue Jun 16 05:13:05 PM PDT 2026: pushed 3 commits to both repos

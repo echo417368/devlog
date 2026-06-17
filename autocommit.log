@@ -11466,3 +11466,17 @@ Tue Jun 16 07:27:05 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main f50fcc09] fix sorting order
  2 files changed, 3 insertions(+)
+[main 60e6de2b] fix debounce logic
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   cd5cf8b8..60e6de2b  main -> main
+Already up to date.
+[main a1aedb6d] fix edge case in parser
+ 1 file changed, 1 insertion(+)
+[main 0d368815] add graceful shutdown
+ 1 file changed, 1 insertion(+)
+[main 98947607] bump version
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   46e0e534..98947607  main -> main
+Tue Jun 16 08:22:05 PM PDT 2026: pushed 3 commits to both repos

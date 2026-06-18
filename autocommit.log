@@ -11527,3 +11527,17 @@ Wed Jun 17 12:03:05 PM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main 56549903] tweak styles
  2 files changed, 3 insertions(+)
+[main b9b314cc] update API routes
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   42d1055c..b9b314cc  main -> main
+Already up to date.
+[main d641fed7] update error messages
+ 1 file changed, 1 insertion(+)
+[main 0eaf4c07] update CI pipeline
+ 1 file changed, 1 insertion(+)
+[main 0fce2aa7] refactor config loader
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   6354da3a..0fce2aa7  main -> main
+Wed Jun 17 02:26:05 PM PDT 2026: pushed 3 commits to both repos

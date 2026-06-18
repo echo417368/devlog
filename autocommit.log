@@ -11612,3 +11612,17 @@ Thu Jun 18 09:29:05 AM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main ac2aa9e1] wip
  2 files changed, 3 insertions(+)
+[main f8670b6d] add input validation
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   0947dd7e..f8670b6d  main -> main
+Already up to date.
+[main f46dd888] refactor error types
+ 1 file changed, 1 insertion(+)
+[main f3acbc75] update test fixtures
+ 1 file changed, 1 insertion(+)
+[main 70ca43f3] fix query params
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   f940d955..70ca43f3  main -> main
+Thu Jun 18 10:25:05 AM PDT 2026: pushed 3 commits to both repos

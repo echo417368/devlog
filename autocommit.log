@@ -11638,3 +11638,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Thu Jun 18 11:55:05 AM PDT 2026: pushed 1 commits to both repos
 [main bc57ba69] minor cleanup
  2 files changed, 11 insertions(+)
+[main 26692a44] fix file upload
+ 2 files changed, 3 insertions(+)

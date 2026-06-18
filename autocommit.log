@@ -11561,3 +11561,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Wed Jun 17 06:24:05 PM PDT 2026: pushed 3 commits to both repos
 [main aa127a25] add batch processing
  2 files changed, 15 insertions(+)
+[main 50bd9b66] fix cache invalidation
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   db5a738c..50bd9b66  main -> main
+Already up to date.
+[main 645ccee2] add search functionality
+ 1 file changed, 1 insertion(+)
+[main f8a09c95] fix typo in config
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   3e4d8bbe..f8a09c95  main -> main
+Wed Jun 17 09:13:05 PM PDT 2026: pushed 2 commits to both repos

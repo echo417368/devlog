@@ -11640,3 +11640,17 @@ Thu Jun 18 11:55:05 AM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main 26692a44] fix file upload
  2 files changed, 3 insertions(+)
+[main cc3a8d79] refactor database layer
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   341fe5e0..cc3a8d79  main -> main
+Already up to date.
+[main f09f1db6] update API routes
+ 1 file changed, 1 insertion(+)
+[main cd86a394] add error handling
+ 1 file changed, 1 insertion(+)
+[main 49cededf] add search functionality
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   74b20789..49cededf  main -> main
+Thu Jun 18 12:37:05 PM PDT 2026: pushed 3 commits to both repos

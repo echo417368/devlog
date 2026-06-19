@@ -11696,3 +11696,18 @@ Thu Jun 18 06:13:05 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main c238f8f9] add retry logic
  2 files changed, 3 insertions(+)
+[main 75cb1fb9] add feature flag
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   b5148fa3..75cb1fb9  main -> main
+Already up to date.
+[main 9d966eba] refactor config loader
+ 1 file changed, 1 insertion(+)
+[main f484e64c] update error messages
+ 1 file changed, 1 insertion(+)
+[main 0366edb8] clean up dead code
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   f7b514f1..0366edb8  main -> main
+Thu Jun 18 08:20:05 PM PDT 2026: pushed 3 commits to both repos
+Fri Jun 19 01:00:01 AM PDT 2026: scheduled 6 runs at PST hours: 23 8 19 15 13 20

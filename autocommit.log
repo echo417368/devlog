@@ -11810,3 +11810,17 @@ Sat Jun 20 10:19:05 AM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 7b11d90f] update error messages
  2 files changed, 3 insertions(+)
+[main 7cc7c3c9] update lock file
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   06fccc74..7cc7c3c9  main -> main
+Already up to date.
+[main 0607edfa] fix sorting order
+ 1 file changed, 1 insertion(+)
+[main 3c20da28] update seed data
+ 1 file changed, 1 insertion(+)
+[main 3280e5f5] add feature flag
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   0a8c0b62..3280e5f5  main -> main
+Sat Jun 20 11:03:05 AM PDT 2026: pushed 3 commits to both repos

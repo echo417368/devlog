@@ -11808,3 +11808,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sat Jun 20 10:19:05 AM PDT 2026: pushed 2 commits to both repos
 [main c75d2d6c] update dependencies
  2 files changed, 13 insertions(+)
+[main 7b11d90f] update error messages
+ 2 files changed, 3 insertions(+)

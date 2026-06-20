@@ -11763,3 +11763,17 @@ Fri Jun 19 08:28:05 PM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main 37790df5] fix race condition
  2 files changed, 3 insertions(+)
+[main ecb2f24c] fix form validation
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   a038e6dd..ecb2f24c  main -> main
+Already up to date.
+[main f64d5824] update schema
+ 1 file changed, 1 insertion(+)
+[main 9b0c3dd0] refactor utils
+ 1 file changed, 1 insertion(+)
+[main 0ca59488] update lint rules
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   fc97f28d..0ca59488  main -> main
+Fri Jun 19 09:30:05 PM PDT 2026: pushed 3 commits to both repos

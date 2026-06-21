@@ -11846,3 +11846,17 @@ Sat Jun 20 12:14:05 PM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main f68710a9] refactor config loader
  2 files changed, 3 insertions(+)
+[main 455ed3f5] fix redirect loop
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   019a254b..455ed3f5  main -> main
+Already up to date.
+[main 5297404e] add health check endpoint
+ 1 file changed, 1 insertion(+)
+[main 7302cbca] update env config
+ 1 file changed, 1 insertion(+)
+[main 2e4c8381] update lock file
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   7e8bfe5b..2e4c8381  main -> main
+Sat Jun 20 06:26:05 PM PDT 2026: pushed 3 commits to both repos

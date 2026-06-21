@@ -11828,3 +11828,17 @@ Sat Jun 20 11:03:05 AM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main 3923bd1a] refactor state management
  2 files changed, 3 insertions(+)
+[main 019a254b] refactor API client
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   7cc7c3c9..019a254b  main -> main
+Already up to date.
+[main e97a4baf] add search functionality
+ 1 file changed, 1 insertion(+)
+[main dd9d16ca] fix form validation
+ 1 file changed, 1 insertion(+)
+[main 7e8bfe5b] refactor API client
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   3280e5f5..7e8bfe5b  main -> main
+Sat Jun 20 12:14:05 PM PDT 2026: pushed 3 commits to both repos

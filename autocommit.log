@@ -11844,3 +11844,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sat Jun 20 12:14:05 PM PDT 2026: pushed 3 commits to both repos
 [main 28bafcd9] optimize query performance
  2 files changed, 15 insertions(+)
+[main f68710a9] refactor config loader
+ 2 files changed, 3 insertions(+)

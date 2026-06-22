@@ -11947,3 +11947,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    13db228e..efe416d5  main -> main
 Sun Jun 21 05:26:05 PM PDT 2026: pushed 3 commits to both repos
+[main 7dcc28c7] update API routes
+ 2 files changed, 15 insertions(+)
+To github-echo:echo417368/devlog.git
+   8cb7b8aa..7dcc28c7  main -> main
+Already up to date.
+[main 44900f94] refactor component structure
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   efe416d5..44900f94  main -> main
+Sun Jun 21 09:57:05 PM PDT 2026: pushed 1 commits to both repos

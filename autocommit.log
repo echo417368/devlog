@@ -11933,3 +11933,17 @@ Sun Jun 21 02:23:05 PM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main 52b67303] add batch processing
  2 files changed, 3 insertions(+)
+[main 8cb7b8aa] fix hot reload
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   30b2f912..8cb7b8aa  main -> main
+Already up to date.
+[main 6aa26a60] update API routes
+ 1 file changed, 1 insertion(+)
+[main 74296aef] fix hot reload
+ 1 file changed, 1 insertion(+)
+[main efe416d5] fix race condition
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   13db228e..efe416d5  main -> main
+Sun Jun 21 05:26:05 PM PDT 2026: pushed 3 commits to both repos

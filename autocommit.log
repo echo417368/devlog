@@ -12008,3 +12008,17 @@ Mon Jun 22 11:39:05 AM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 4e82cb51] add data export
  2 files changed, 3 insertions(+)
+[main 338b6e71] update test fixtures
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   c9993b26..338b6e71  main -> main
+Already up to date.
+[main a3e829f0] update CI pipeline
+ 1 file changed, 1 insertion(+)
+[main a3d37ad5] add middleware
+ 1 file changed, 1 insertion(+)
+[main ef01aba8] add rate limiting
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   4533f67a..ef01aba8  main -> main
+Mon Jun 22 12:27:05 PM PDT 2026: pushed 3 commits to both repos

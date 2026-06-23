@@ -12097,3 +12097,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Tue Jun 23 09:50:05 AM PDT 2026: pushed 1 commits to both repos
 [main 2ef75d37] update API routes
  2 files changed, 11 insertions(+)
+[main 4b6a137b] update security headers
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   36cdf8e2..4b6a137b  main -> main
+Already up to date.
+[main 6f3e6322] add feature flag
+ 1 file changed, 1 insertion(+)
+[main 18e19dac] fix debounce logic
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   e08e66c0..18e19dac  main -> main
+Tue Jun 23 10:42:05 AM PDT 2026: pushed 2 commits to both repos

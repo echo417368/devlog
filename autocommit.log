@@ -12024,3 +12024,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Mon Jun 22 12:27:05 PM PDT 2026: pushed 3 commits to both repos
 [main c4ed91fc] update types
  2 files changed, 15 insertions(+)
+[main a77c00ac] fix debounce logic
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   338b6e71..a77c00ac  main -> main
+Already up to date.
+[main 6fedc0fc] add input validation
+ 1 file changed, 1 insertion(+)
+[main 9354d9b3] update schema
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   ef01aba8..9354d9b3  main -> main
+Mon Jun 22 03:00:09 PM PDT 2026: pushed 2 commits to both repos

@@ -12180,3 +12180,13 @@ To github-ashnexthq:ashnexthq/devlog.git
    e2b3fc71..ede92342  main -> main
 Tue Jun 23 06:47:05 PM PDT 2026: pushed 3 commits to both repos
 Wed Jun 24 01:00:01 AM PDT 2026: scheduled 8 runs at PST hours: 11 22 12 15 16 14 20 8
+[main 2b387f84] refactor config loader
+ 2 files changed, 16 insertions(+)
+To github-echo:echo417368/devlog.git
+   aebfe8ce..2b387f84  main -> main
+Already up to date.
+[main 539586c3] clean up dead code
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   ede92342..539586c3  main -> main
+Wed Jun 24 09:56:06 AM PDT 2026: pushed 1 commits to both repos

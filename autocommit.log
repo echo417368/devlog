@@ -12194,3 +12194,17 @@ Wed Jun 24 09:56:06 AM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main bac83cb2] add logging
  2 files changed, 3 insertions(+)
+[main e0d60ca1] fix null check
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   2b387f84..e0d60ca1  main -> main
+Already up to date.
+[main 1632f8e6] fix typo in config
+ 1 file changed, 1 insertion(+)
+[main d7251ddf] update test fixtures
+ 1 file changed, 1 insertion(+)
+[main cd4c6de8] refactor API client
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   539586c3..cd4c6de8  main -> main
+Wed Jun 24 12:20:06 PM PDT 2026: pushed 3 commits to both repos

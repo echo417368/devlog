@@ -12321,3 +12321,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    b6f90738..fa4a5d50  main -> main
 Thu Jun 25 10:31:05 AM PDT 2026: pushed 3 commits to both repos
+[main e95e15a1] update security headers
+ 2 files changed, 15 insertions(+)
+To github-echo:echo417368/devlog.git
+   0bcc5fc7..e95e15a1  main -> main
+Already up to date.
+[main 2e2deaa7] add metrics collection
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   fa4a5d50..2e2deaa7  main -> main
+Thu Jun 25 11:18:06 AM PDT 2026: pushed 1 commits to both repos

@@ -12224,3 +12224,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Wed Jun 24 01:01:05 PM PDT 2026: pushed 2 commits to both repos
 [main 236a3d85] formatting
  2 files changed, 13 insertions(+)
+[main 06bacff4] fix edge case in parser
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   53568cc3..06bacff4  main -> main
+Already up to date.
+[main 3f57c69f] add data export
+ 1 file changed, 1 insertion(+)
+[main 12f7a83a] add logging
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   34bcdec6..12f7a83a  main -> main
+Wed Jun 24 03:44:05 PM PDT 2026: pushed 2 commits to both repos

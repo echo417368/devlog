@@ -12333,3 +12333,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Thu Jun 25 11:18:06 AM PDT 2026: pushed 1 commits to both repos
 [main 4b5cfb27] update test fixtures
  2 files changed, 11 insertions(+)
+[main 7d25425d] refactor config loader
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   e95e15a1..7d25425d  main -> main
+Already up to date.
+[main 5c1d3ab9] refactor error types
+ 1 file changed, 1 insertion(+)
+[main 0c892158] refactor database layer
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   2e2deaa7..0c892158  main -> main
+Thu Jun 25 01:48:05 PM PDT 2026: pushed 2 commits to both repos

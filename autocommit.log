@@ -12307,3 +12307,17 @@ Thu Jun 25 09:04:05 AM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main b9a9e611] adjust spacing
  2 files changed, 3 insertions(+)
+[main 0bcc5fc7] clean up logs
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   7d2f8b03..0bcc5fc7  main -> main
+Already up to date.
+[main a067961b] tweak styles
+ 1 file changed, 1 insertion(+)
+[main 363a3c5c] fix sorting order
+ 1 file changed, 1 insertion(+)
+[main fa4a5d50] fix CSS alignment
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   b6f90738..fa4a5d50  main -> main
+Thu Jun 25 10:31:05 AM PDT 2026: pushed 3 commits to both repos

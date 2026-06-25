@@ -12289,3 +12289,17 @@ Thu Jun 25 01:00:01 AM PDT 2026: scheduled 8 runs at PST hours: 9 10 12 23 19 14
  2 files changed, 16 insertions(+)
 [main 0326bf3b] update lock file
  2 files changed, 3 insertions(+)
+[main 7d2f8b03] fix typo in config
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   58c301a4..7d2f8b03  main -> main
+Already up to date.
+[main cf9cb286] add feature flag
+ 1 file changed, 1 insertion(+)
+[main 0b20298b] add batch processing
+ 1 file changed, 1 insertion(+)
+[main b6f90738] fix connection pool
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   e7ecc010..b6f90738  main -> main
+Thu Jun 25 09:04:05 AM PDT 2026: pushed 3 commits to both repos

@@ -12412,3 +12412,17 @@ Fri Jun 26 12:58:05 PM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main f1be7f8f] fix date formatting
  2 files changed, 3 insertions(+)
+[main d7ebc1af] add caching layer
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   d8270114..d7ebc1af  main -> main
+Already up to date.
+[main 7b1b5e04] fix pagination bug
+ 1 file changed, 1 insertion(+)
+[main 028d2fc1] adjust spacing
+ 1 file changed, 1 insertion(+)
+[main 2774e2be] rename variables
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   1d810582..2774e2be  main -> main
+Fri Jun 26 01:52:05 PM PDT 2026: pushed 3 commits to both repos

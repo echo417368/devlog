@@ -12525,3 +12525,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sat Jun 27 12:09:05 PM PDT 2026: pushed 2 commits to both repos
 [main 020c1579] refactor config loader
  2 files changed, 13 insertions(+)
+[main be7e80e1] fix auth token refresh
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   88e66ff4..be7e80e1  main -> main
+Already up to date.
+[main 828a946f] add batch processing
+ 1 file changed, 1 insertion(+)
+[main a3077c33] update env config
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   cf905b3f..a3077c33  main -> main
+Sat Jun 27 01:28:05 PM PDT 2026: pushed 2 commits to both repos

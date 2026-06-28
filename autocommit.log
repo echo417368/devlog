@@ -12537,3 +12537,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    cf905b3f..a3077c33  main -> main
 Sat Jun 27 01:28:05 PM PDT 2026: pushed 2 commits to both repos
+[main 72d9d3c6] refactor error types
+ 2 files changed, 13 insertions(+)
+To github-echo:echo417368/devlog.git
+   be7e80e1..72d9d3c6  main -> main
+Already up to date.
+[main fe5fa148] add feature flag
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   a3077c33..fe5fa148  main -> main
+Sat Jun 27 03:29:05 PM PDT 2026: pushed 1 commits to both repos

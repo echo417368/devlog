@@ -12547,3 +12547,5 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    a3077c33..fe5fa148  main -> main
 Sat Jun 27 03:29:05 PM PDT 2026: pushed 1 commits to both repos
+[main 7744ff07] update security headers
+ 2 files changed, 11 insertions(+)

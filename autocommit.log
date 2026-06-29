@@ -12624,3 +12624,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sun Jun 28 03:46:05 PM PDT 2026: pushed 1 commits to both repos
 [main 47658a63] fix cache invalidation
  2 files changed, 11 insertions(+)
+[main 8555ab93] refactor error types
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   2ec6fc30..8555ab93  main -> main
+Already up to date.
+[main fd076419] update env config
+ 1 file changed, 1 insertion(+)
+[main 855466a5] update types
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   f99d4c76..855466a5  main -> main
+Sun Jun 28 05:25:06 PM PDT 2026: pushed 2 commits to both repos

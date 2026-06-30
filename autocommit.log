@@ -12771,3 +12771,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    be4d3ebf..b3dead12  main -> main
 Mon Jun 29 08:26:05 PM PDT 2026: pushed 2 commits to both repos
+[main 7ec073bb] fix debounce logic
+ 2 files changed, 13 insertions(+)
+To github-echo:echo417368/devlog.git
+   0d748128..7ec073bb  main -> main
+Already up to date.
+[main 112ae0bc] update dependencies
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   b3dead12..112ae0bc  main -> main
+Mon Jun 29 10:37:05 PM PDT 2026: pushed 1 commits to both repos

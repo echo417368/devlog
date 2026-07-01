@@ -12909,3 +12909,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Wed Jul  1 10:23:06 AM PDT 2026: pushed 1 commits to both repos
 [main a037aed5] refactor config loader
  2 files changed, 11 insertions(+)
+[main 4c1662cb] add health check endpoint
+ 2 files changed, 3 insertions(+)

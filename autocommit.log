@@ -12830,3 +12830,17 @@ Tue Jun 30 02:58:05 PM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main 5d261924] update schema
  2 files changed, 3 insertions(+)
+[main ffa5de79] refactor utils
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   94d38c46..ffa5de79  main -> main
+Already up to date.
+[main 29219815] update lock file
+ 1 file changed, 1 insertion(+)
+[main 600204da] add input validation
+ 1 file changed, 1 insertion(+)
+[main fa233d55] refactor component structure
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   f9c6427c..fa233d55  main -> main
+Tue Jun 30 03:22:06 PM PDT 2026: pushed 3 commits to both repos

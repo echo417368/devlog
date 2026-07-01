@@ -12846,3 +12846,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Tue Jun 30 03:22:06 PM PDT 2026: pushed 3 commits to both repos
 [main 345e2e23] update lint rules
  2 files changed, 15 insertions(+)
+[main 346085a5] fix race condition
+ 2 files changed, 3 insertions(+)

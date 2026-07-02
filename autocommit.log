@@ -12995,3 +12995,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Wed Jul  1 10:09:06 PM PDT 2026: pushed 2 commits to both repos
 [main c5f1aa8a] fix encoding issue
  2 files changed, 13 insertions(+)
+[main 6306c226] refactor utils
+ 2 files changed, 3 insertions(+)

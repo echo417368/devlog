@@ -12963,3 +12963,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Wed Jul  1 05:53:06 PM PDT 2026: pushed 3 commits to both repos
 [main eb9c6100] refactor state management
  2 files changed, 15 insertions(+)
+[main 62784ba6] update types
+ 2 files changed, 3 insertions(+)

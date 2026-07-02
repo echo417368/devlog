@@ -13036,3 +13036,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    ee39c774..f343c3e8  main -> main
 Thu Jul  2 11:15:05 AM PDT 2026: pushed 1 commits to both repos
+[main 775e463d] fix typo in config
+ 2 files changed, 11 insertions(+)
+To github-echo:echo417368/devlog.git
+   59822b10..775e463d  main -> main
+Already up to date.
+[main be7eac3b] fix CORS config
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   f343c3e8..be7eac3b  main -> main
+Thu Jul  2 12:24:05 PM PDT 2026: pushed 1 commits to both repos

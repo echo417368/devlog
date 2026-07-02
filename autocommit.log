@@ -12981,3 +12981,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Wed Jul  1 08:40:06 PM PDT 2026: pushed 3 commits to both repos
 [main 63061009] fix query params
  2 files changed, 15 insertions(+)
+[main 45688f1e] fix auth token refresh
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   eb55a2e8..45688f1e  main -> main
+Already up to date.
+[main 1b3f8eb9] refactor utils
+ 1 file changed, 1 insertion(+)
+[main 92636daa] fix query params
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   9ad3140a..92636daa  main -> main
+Wed Jul  1 10:09:06 PM PDT 2026: pushed 2 commits to both repos

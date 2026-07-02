@@ -12943,3 +12943,5 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    70b6fb40..1f6de5c9  main -> main
 Wed Jul  1 02:50:06 PM PDT 2026: pushed 3 commits to both repos
+[main cc87bba6] add queue worker
+ 2 files changed, 15 insertions(+)

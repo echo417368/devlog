@@ -13068,3 +13068,17 @@ Thu Jul  2 01:47:06 PM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main 0e1e570c] refactor auth logic
  2 files changed, 3 insertions(+)
+[main 96038082] update error messages
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   a7f9bb85..96038082  main -> main
+Already up to date.
+[main 733c3bc2] fix null check
+ 1 file changed, 1 insertion(+)
+[main e6e781a5] update types
+ 1 file changed, 1 insertion(+)
+[main 6d31c38c] fix encoding issue
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   d6b9c222..6d31c38c  main -> main
+Thu Jul  2 04:04:06 PM PDT 2026: pushed 3 commits to both repos

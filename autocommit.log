@@ -13064,3 +13064,5 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    be7eac3b..d6b9c222  main -> main
 Thu Jul  2 01:47:06 PM PDT 2026: pushed 3 commits to both repos
+[main c2e1eafb] fix CORS config
+ 2 files changed, 15 insertions(+)

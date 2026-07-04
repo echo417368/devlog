@@ -13208,3 +13208,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sat Jul  4 11:04:05 AM PDT 2026: pushed 3 commits to both repos
 [main 07fef5cb] add unit tests
  2 files changed, 15 insertions(+)
+[main 0a424e01] fix null check
+ 2 files changed, 3 insertions(+)

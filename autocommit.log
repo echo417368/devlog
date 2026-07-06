@@ -13357,3 +13357,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sun Jul  5 05:38:05 PM PDT 2026: pushed 1 commits to both repos
 [main e35eeec4] add caching layer
  2 files changed, 11 insertions(+)
+[main 8a66a43d] fix encoding issue
+ 2 files changed, 3 insertions(+)

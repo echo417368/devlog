@@ -13499,3 +13499,17 @@ Tue Jul  7 10:11:06 AM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main 8fc783b0] refactor config loader
  2 files changed, 3 insertions(+)
+[main 45a56d51] refactor state management
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   56011e43..45a56d51  main -> main
+Already up to date.
+[main 890b7512] refactor config loader
+ 1 file changed, 1 insertion(+)
+[main 790752be] fix cache invalidation
+ 1 file changed, 1 insertion(+)
+[main 4a33793b] clean up unused imports
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   36860ea3..4a33793b  main -> main
+Tue Jul  7 12:15:06 PM PDT 2026: pushed 3 commits to both repos

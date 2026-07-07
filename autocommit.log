@@ -13497,3 +13497,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Tue Jul  7 10:11:06 AM PDT 2026: pushed 1 commits to both repos
 [main be15470d] update error messages
  2 files changed, 11 insertions(+)
+[main 8fc783b0] refactor config loader
+ 2 files changed, 3 insertions(+)

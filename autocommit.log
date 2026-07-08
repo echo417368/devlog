@@ -13566,3 +13566,5 @@ To github-ashnexthq:ashnexthq/devlog.git
    f8364d4b..af39e895  main -> main
 Tue Jul  7 10:10:06 PM PDT 2026: pushed 2 commits to both repos
 Wed Jul  8 01:00:01 AM PDT 2026: scheduled 6 runs at PST hours: 19 13 22 8 15 9
+[main fc5960f5] fix sorting order
+ 2 files changed, 14 insertions(+)

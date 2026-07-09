@@ -13598,3 +13598,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    c58310a4..04ed370c  main -> main
 Wed Jul  8 10:06:06 AM PDT 2026: pushed 2 commits to both repos
+[main 99671c26] add error handling
+ 2 files changed, 13 insertions(+)
+To github-echo:echo417368/devlog.git
+   7066842a..99671c26  main -> main
+Already up to date.
+[main 3c72cb9f] fix null check
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   04ed370c..3c72cb9f  main -> main
+Wed Jul  8 02:23:05 PM PDT 2026: pushed 1 commits to both repos

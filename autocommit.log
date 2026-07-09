@@ -13665,3 +13665,17 @@ Thu Jul  9 09:01:06 AM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 6270932d] fix cache invalidation
  2 files changed, 3 insertions(+)
+[main 9e4c60b9] fix date formatting
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   09c9ca53..9e4c60b9  main -> main
+Already up to date.
+[main 73501b23] add data export
+ 1 file changed, 1 insertion(+)
+[main 8c7ddad6] wip
+ 1 file changed, 1 insertion(+)
+[main ca0cd1e6] add graceful shutdown
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   4e0678c0..ca0cd1e6  main -> main
+Thu Jul  9 11:23:06 AM PDT 2026: pushed 3 commits to both repos

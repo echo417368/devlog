@@ -13663,3 +13663,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Thu Jul  9 09:01:06 AM PDT 2026: pushed 2 commits to both repos
 [main 4fa4d80e] add metrics collection
  2 files changed, 13 insertions(+)
+[main 6270932d] fix cache invalidation
+ 2 files changed, 3 insertions(+)

@@ -13709,3 +13709,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Thu Jul  9 04:12:06 PM PDT 2026: pushed 1 commits to both repos
 [main 43f09ee0] remove debug logs
  2 files changed, 11 insertions(+)
+[main 8a2b5227] fix file upload
+ 2 files changed, 3 insertions(+)

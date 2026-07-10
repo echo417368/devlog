@@ -13772,3 +13772,17 @@ Fri Jul 10 01:31:06 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main e743487c] refactor database layer
  2 files changed, 3 insertions(+)
+[main 9ec46c1b] rename variables
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   7a259739..9ec46c1b  main -> main
+Already up to date.
+[main 9b9c249e] add data export
+ 1 file changed, 1 insertion(+)
+[main e447decf] fix edge case in parser
+ 1 file changed, 1 insertion(+)
+[main 8210d3cc] update lint rules
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   953b179a..8210d3cc  main -> main
+Fri Jul 10 02:28:06 PM PDT 2026: pushed 3 commits to both repos

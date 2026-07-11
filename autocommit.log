@@ -13814,3 +13814,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    f57b6603..27a04bb4  main -> main
 Fri Jul 10 05:20:06 PM PDT 2026: pushed 3 commits to both repos
+[main 4014fa01] fix typo in config
+ 2 files changed, 15 insertions(+)
+To github-echo:echo417368/devlog.git
+   e88be349..4014fa01  main -> main
+Already up to date.
+[main cc783709] fix auth token refresh
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   27a04bb4..cc783709  main -> main
+Fri Jul 10 07:25:06 PM PDT 2026: pushed 1 commits to both repos

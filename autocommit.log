@@ -13826,3 +13826,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Fri Jul 10 07:25:06 PM PDT 2026: pushed 1 commits to both repos
 [main 6bfaaa28] fix CORS config
  2 files changed, 11 insertions(+)
+[main 4da99d8e] fix connection pool
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   4014fa01..4da99d8e  main -> main
+Already up to date.
+[main 238cbf85] optimize query performance
+ 1 file changed, 1 insertion(+)
+[main 316bbc18] fix sorting order
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   cc783709..316bbc18  main -> main
+Fri Jul 10 10:30:05 PM PDT 2026: pushed 2 commits to both repos

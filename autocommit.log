@@ -13798,3 +13798,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Fri Jul 10 03:22:06 PM PDT 2026: pushed 1 commits to both repos
 [main 4ab1b5cc] add search functionality
  2 files changed, 11 insertions(+)
+[main d8176253] add health check endpoint
+ 2 files changed, 3 insertions(+)

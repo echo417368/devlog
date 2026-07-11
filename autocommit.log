@@ -13897,3 +13897,17 @@ Sat Jul 11 09:39:06 AM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main acacbc9a] add logging
  2 files changed, 3 insertions(+)
+[main 19255951] fix hot reload
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   a33b246a..19255951  main -> main
+Already up to date.
+[main a48766b7] add error handling
+ 1 file changed, 1 insertion(+)
+[main 880577a3] update dependencies
+ 1 file changed, 1 insertion(+)
+[main 41891662] fix timezone handling
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   63d89dfb..41891662  main -> main
+Sat Jul 11 12:22:06 PM PDT 2026: pushed 3 commits to both repos

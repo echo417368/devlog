@@ -13957,3 +13957,17 @@ Sat Jul 11 07:19:05 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 6f8f53e3] fix hot reload
  2 files changed, 3 insertions(+)
+[main 072a4416] fix session handling
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   75db3748..072a4416  main -> main
+Already up to date.
+[main f71b7880] fix file upload
+ 1 file changed, 1 insertion(+)
+[main 5f001d22] add batch processing
+ 1 file changed, 1 insertion(+)
+[main d2f9be4a] update CI pipeline
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   99c48daa..d2f9be4a  main -> main
+Sat Jul 11 09:58:06 PM PDT 2026: pushed 3 commits to both repos

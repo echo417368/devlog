@@ -13915,3 +13915,17 @@ Sat Jul 11 12:22:06 PM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main 9dcf6f52] update env config
  2 files changed, 3 insertions(+)
+[main e105238d] fix auth token refresh
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   19255951..e105238d  main -> main
+Already up to date.
+[main 9212c0d8] small fix
+ 1 file changed, 1 insertion(+)
+[main 8f249e2f] refactor API client
+ 1 file changed, 1 insertion(+)
+[main 02576dc9] fix CSS alignment
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   41891662..02576dc9  main -> main
+Sat Jul 11 01:02:06 PM PDT 2026: pushed 3 commits to both repos

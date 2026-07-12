@@ -14020,3 +14020,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sun Jul 12 11:07:05 AM PDT 2026: pushed 2 commits to both repos
 [main 8de3d4c6] add feature flag
  2 files changed, 13 insertions(+)
+[main 2a2494ed] formatting
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   bbf408a8..2a2494ed  main -> main
+Already up to date.
+[main 4dd752e3] fix debounce logic
+ 1 file changed, 1 insertion(+)
+[main b3d1a2bc] clean up unused imports
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   bff072d2..b3d1a2bc  main -> main
+Sun Jul 12 02:00:06 PM PDT 2026: pushed 2 commits to both repos

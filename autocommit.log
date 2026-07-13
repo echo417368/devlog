@@ -14083,3 +14083,15 @@ Mon Jul 13 12:32:06 AM PDT 2026: pushed 1 commits to both repos
 Mon Jul 13 01:00:01 AM PDT 2026: scheduled 7 runs at PST hours: 20 22 23 13 21 11 16
 [main 07f01c88] add metrics collection
  2 files changed, 12 insertions(+)
+[main d2cff372] add graceful shutdown
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   4e930814..d2cff372  main -> main
+Already up to date.
+[main b9772f81] add data export
+ 1 file changed, 1 insertion(+)
+[main 9cb5ca26] fix typo in config
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   21c4a3ec..9cb5ca26  main -> main
+Mon Jul 13 12:34:06 PM PDT 2026: pushed 2 commits to both repos

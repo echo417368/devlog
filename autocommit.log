@@ -14095,3 +14095,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    21c4a3ec..9cb5ca26  main -> main
 Mon Jul 13 12:34:06 PM PDT 2026: pushed 2 commits to both repos
+[main 88d66925] refactor component structure
+ 2 files changed, 13 insertions(+)
+To github-echo:echo417368/devlog.git
+   d2cff372..88d66925  main -> main
+Already up to date.
+[main 4414bb8b] fix hot reload
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   9cb5ca26..4414bb8b  main -> main
+Mon Jul 13 02:32:06 PM PDT 2026: pushed 1 commits to both repos

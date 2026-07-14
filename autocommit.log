@@ -14180,3 +14180,5 @@ To github-ashnexthq:ashnexthq/devlog.git
    9929b808..367074ae  main -> main
 Tue Jul 14 12:01:05 AM PDT 2026: pushed 2 commits to both repos
 Tue Jul 14 01:00:01 AM PDT 2026: scheduled 8 runs at PST hours: 17 18 15 16 10 13 22 12
+[main 508c6dd0] fix debounce logic
+ 2 files changed, 14 insertions(+)

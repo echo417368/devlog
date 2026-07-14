@@ -14165,3 +14165,5 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    226e8d1b..9929b808  main -> main
 Mon Jul 13 11:28:06 PM PDT 2026: pushed 3 commits to both repos
+[main 3dbadb9c] fix form validation
+ 2 files changed, 15 insertions(+)

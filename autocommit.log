@@ -14121,3 +14121,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Mon Jul 13 05:07:06 PM PDT 2026: pushed 2 commits to both repos
 [main f690a4a1] refactor database layer
  2 files changed, 13 insertions(+)
+[main 3509d951] update schema
+ 2 files changed, 3 insertions(+)

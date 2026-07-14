@@ -14151,3 +14151,17 @@ Mon Jul 13 10:46:05 PM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main 595ccc33] fix hot reload
  2 files changed, 3 insertions(+)
+[main 4842671c] update types
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   aa2660f3..4842671c  main -> main
+Already up to date.
+[main 88fe0710] update error messages
+ 1 file changed, 1 insertion(+)
+[main 857dbf54] refactor utils
+ 1 file changed, 1 insertion(+)
+[main 9929b808] fix cache invalidation
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   226e8d1b..9929b808  main -> main
+Mon Jul 13 11:28:06 PM PDT 2026: pushed 3 commits to both repos

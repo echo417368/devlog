@@ -14268,3 +14268,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Tue Jul 14 07:30:06 PM PDT 2026: pushed 1 commits to both repos
 [main 441a6cf6] fix query params
  2 files changed, 11 insertions(+)
+[main bd9ba576] update error messages
+ 2 files changed, 3 insertions(+)

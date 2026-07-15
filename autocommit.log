@@ -14323,3 +14323,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Wed Jul 15 10:36:06 AM PDT 2026: pushed 3 commits to both repos
 [main c72b2501] update CI pipeline
  2 files changed, 15 insertions(+)
+[main b465dadb] add error handling
+ 2 files changed, 3 insertions(+)

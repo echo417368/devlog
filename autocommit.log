@@ -14242,3 +14242,17 @@ Tue Jul 14 05:36:06 PM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main e9078002] fix race condition
  2 files changed, 3 insertions(+)
+[main 2cef4334] refactor utils
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   67963b75..2cef4334  main -> main
+Already up to date.
+[main 68abe1f2] add batch processing
+ 1 file changed, 1 insertion(+)
+[main 9cd9726c] bump version
+ 1 file changed, 1 insertion(+)
+[main b153fb54] clean up dead code
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   497e46a5..b153fb54  main -> main
+Tue Jul 14 06:22:06 PM PDT 2026: pushed 3 commits to both repos

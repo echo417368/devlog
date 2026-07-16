@@ -14355,3 +14355,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Wed Jul 15 06:32:06 PM PDT 2026: pushed 2 commits to both repos
 [main f4a181f3] tweak styles
  2 files changed, 13 insertions(+)
+[main 4b7507d6] fix connection pool
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   e05a06ac..4b7507d6  main -> main
+Already up to date.
+[main 6ac9fd0e] bump version
+ 1 file changed, 1 insertion(+)
+[main 0dbea2a0] add feature flag
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   e0819ca0..0dbea2a0  main -> main
+Wed Jul 15 09:59:06 PM PDT 2026: pushed 2 commits to both repos

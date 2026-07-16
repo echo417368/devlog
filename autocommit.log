@@ -14325,3 +14325,17 @@ Wed Jul 15 10:36:06 AM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main b465dadb] add error handling
  2 files changed, 3 insertions(+)
+[main 7afcc0f1] refactor component structure
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   94b6836c..7afcc0f1  main -> main
+Already up to date.
+[main 0cfdaff3] minor cleanup
+ 1 file changed, 1 insertion(+)
+[main 746cf34e] update schema
+ 1 file changed, 1 insertion(+)
+[main bd7b90f9] add health check endpoint
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   d0425712..bd7b90f9  main -> main
+Wed Jul 15 02:18:06 PM PDT 2026: pushed 3 commits to both repos

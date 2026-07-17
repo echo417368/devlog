@@ -14440,3 +14440,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Thu Jul 16 05:01:06 PM PDT 2026: pushed 2 commits to both repos
 [main 3fd6746b] refactor error types
  2 files changed, 13 insertions(+)
+[main 5f3abfaf] refactor auth logic
+ 2 files changed, 3 insertions(+)

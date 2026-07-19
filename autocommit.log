@@ -14638,3 +14638,5 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    4e692ee2..c3c35718  main -> main
 Sat Jul 18 11:25:06 PM PDT 2026: pushed 3 commits to both repos
+[main 0d88cd13] add graceful shutdown
+ 2 files changed, 15 insertions(+)

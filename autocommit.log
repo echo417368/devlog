@@ -14653,3 +14653,5 @@ To github-ashnexthq:ashnexthq/devlog.git
    c3c35718..f0aa5a7a  main -> main
 Sun Jul 19 12:53:06 AM PDT 2026: pushed 2 commits to both repos
 Sun Jul 19 01:00:01 AM PDT 2026: scheduled 6 runs at PST hours: 8 18 15 21 11 19
+[main 7b82ee5d] refactor component structure
+ 2 files changed, 14 insertions(+)

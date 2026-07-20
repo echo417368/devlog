@@ -14764,3 +14764,17 @@ Mon Jul 20 11:53:06 AM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main 761a0ae2] add batch processing
  2 files changed, 3 insertions(+)
+[main 71b46b6a] minor cleanup
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   f322e0b4..71b46b6a  main -> main
+Already up to date.
+[main f3fa0519] add unit tests
+ 1 file changed, 1 insertion(+)
+[main 5832df30] clean up unused imports
+ 1 file changed, 1 insertion(+)
+[main e28a5fab] fix pagination bug
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   705493cc..e28a5fab  main -> main
+Mon Jul 20 12:30:06 PM PDT 2026: pushed 3 commits to both repos

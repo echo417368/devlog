@@ -14669,3 +14669,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sun Jul 19 09:31:06 AM PDT 2026: pushed 2 commits to both repos
 [main 289cd449] fix typo in config
  2 files changed, 13 insertions(+)
+[main 809f9b7e] update error messages
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   457ab70d..809f9b7e  main -> main
+Already up to date.
+[main a7c0b227] update schema
+ 1 file changed, 1 insertion(+)
+[main 5542b005] add middleware
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   e4a62795..5542b005  main -> main
+Sun Jul 19 12:42:06 PM PDT 2026: pushed 2 commits to both repos

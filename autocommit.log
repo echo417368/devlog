@@ -14838,3 +14838,18 @@ Mon Jul 20 09:03:06 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 6b955946] fix CSS alignment
  2 files changed, 3 insertions(+)
+[main 54f177d9] fix auth token refresh
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   c1aeadde..54f177d9  main -> main
+Already up to date.
+[main 0f7383fa] refactor API client
+ 1 file changed, 1 insertion(+)
+[main 51c4b702] fix race condition
+ 1 file changed, 1 insertion(+)
+[main 8fe7ca32] fix timeout issue
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   edb225ce..8fe7ca32  main -> main
+Mon Jul 20 11:50:06 PM PDT 2026: pushed 3 commits to both repos
+Tue Jul 21 01:00:01 AM PDT 2026: scheduled 8 runs at PST hours: 9 18 16 12 13 17 22 10

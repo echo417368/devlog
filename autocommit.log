@@ -14887,3 +14887,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Tue Jul 21 11:50:06 AM PDT 2026: pushed 2 commits to both repos
 [main dba55d3f] add data export
  2 files changed, 13 insertions(+)
+[main 3316c58e] update schema
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   6564a01f..3316c58e  main -> main
+Already up to date.
+[main ed1ae651] small fix
+ 1 file changed, 1 insertion(+)
+[main 0d0b0338] fix null check
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   12a9191d..0d0b0338  main -> main
+Tue Jul 21 01:53:06 PM PDT 2026: pushed 2 commits to both repos

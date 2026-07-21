@@ -14822,3 +14822,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Mon Jul 20 06:10:05 PM PDT 2026: pushed 1 commits to both repos
 [main ade7966b] update env config
  2 files changed, 11 insertions(+)
+[main c1aeadde] add middleware
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   cd710607..c1aeadde  main -> main
+Already up to date.
+[main 0b68b142] add queue worker
+ 1 file changed, 1 insertion(+)
+[main edb225ce] fix timeout issue
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   b95fffa9..edb225ce  main -> main
+Mon Jul 20 09:03:06 PM PDT 2026: pushed 2 commits to both repos

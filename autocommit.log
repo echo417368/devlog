@@ -14782,3 +14782,17 @@ Mon Jul 20 12:30:06 PM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main 7e94c6d0] wip
  2 files changed, 3 insertions(+)
+[main d1e4fec2] fix connection pool
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   71b46b6a..d1e4fec2  main -> main
+Already up to date.
+[main 356a12e6] update seed data
+ 1 file changed, 1 insertion(+)
+[main 38f51508] add retry logic
+ 1 file changed, 1 insertion(+)
+[main 476817a0] add middleware
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   e28a5fab..476817a0  main -> main
+Mon Jul 20 02:17:06 PM PDT 2026: pushed 3 commits to both repos

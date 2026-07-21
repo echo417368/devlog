@@ -14820,3 +14820,5 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    e8de1be8..b95fffa9  main -> main
 Mon Jul 20 06:10:05 PM PDT 2026: pushed 1 commits to both repos
+[main ade7966b] update env config
+ 2 files changed, 11 insertions(+)

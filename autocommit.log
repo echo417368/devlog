@@ -14873,3 +14873,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Tue Jul 21 10:43:06 AM PDT 2026: pushed 3 commits to both repos
 [main 7c81c783] refactor error types
  2 files changed, 15 insertions(+)
+[main 6564a01f] fix typo in config
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   41e746e4..6564a01f  main -> main
+Already up to date.
+[main 0e6444e4] fix session handling
+ 1 file changed, 1 insertion(+)
+[main 12a9191d] fix race condition
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   f6d53efa..12a9191d  main -> main
+Tue Jul 21 11:50:06 AM PDT 2026: pushed 2 commits to both repos

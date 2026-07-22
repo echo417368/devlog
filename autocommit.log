@@ -14966,3 +14966,17 @@ Wed Jul 22 01:00:01 AM PDT 2026: scheduled 6 runs at PST hours: 23 11 22 21 15 9
  2 files changed, 16 insertions(+)
 [main 5d1da68b] add queue worker
  2 files changed, 3 insertions(+)
+[main d85751d6] refactor database layer
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   4cf46e71..d85751d6  main -> main
+Already up to date.
+[main 0eeae269] add queue worker
+ 1 file changed, 1 insertion(+)
+[main ff1f35f8] fix pagination bug
+ 1 file changed, 1 insertion(+)
+[main 701dd4ed] update test fixtures
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   a1bca0c0..701dd4ed  main -> main
+Wed Jul 22 10:19:06 AM PDT 2026: pushed 3 commits to both repos

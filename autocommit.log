@@ -14943,3 +14943,5 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    1b3a9f15..98723022  main -> main
 Tue Jul 21 07:43:05 PM PDT 2026: pushed 1 commits to both repos
+[main 3762939d] refactor API client
+ 2 files changed, 11 insertions(+)

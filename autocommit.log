@@ -15018,3 +15018,17 @@ Wed Jul 22 10:07:06 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main d0c88d96] add logging
  2 files changed, 3 insertions(+)
+[main 203962fb] add graceful shutdown
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   1f2197d6..203962fb  main -> main
+Already up to date.
+[main 3d6d782d] add rate limiting
+ 1 file changed, 1 insertion(+)
+[main 377fd078] add error handling
+ 1 file changed, 1 insertion(+)
+[main 66819257] refactor database layer
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   4bfd6f39..66819257  main -> main
+Wed Jul 22 11:07:06 PM PDT 2026: pushed 3 commits to both repos

@@ -15247,3 +15247,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sat Jul 25 12:30:06 PM PDT 2026: pushed 3 commits to both repos
 [main e5ff6111] wip
  2 files changed, 15 insertions(+)
+[main f6a115f0] fix query params
+ 2 files changed, 3 insertions(+)

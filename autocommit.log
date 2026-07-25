@@ -15182,3 +15182,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Fri Jul 24 04:43:06 PM PDT 2026: pushed 2 commits to both repos
 [main 2fd2ac00] refactor config loader
  2 files changed, 13 insertions(+)
+[main c31309e5] clean up dead code
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   cc1ecaa1..c31309e5  main -> main
+Already up to date.
+[main 033d40be] add queue worker
+ 1 file changed, 1 insertion(+)
+[main 8bebaef3] add search functionality
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   1a8cee36..8bebaef3  main -> main
+Fri Jul 24 10:30:06 PM PDT 2026: pushed 2 commits to both repos

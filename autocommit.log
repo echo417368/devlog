@@ -15231,3 +15231,17 @@ Sat Jul 25 10:37:06 AM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 8966946b] add graceful shutdown
  2 files changed, 3 insertions(+)
+[main 883303e8] update API routes
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   c098d472..883303e8  main -> main
+Already up to date.
+[main 7bcf4542] fix CORS config
+ 1 file changed, 1 insertion(+)
+[main 9f727dcc] add queue worker
+ 1 file changed, 1 insertion(+)
+[main edc4b58e] adjust spacing
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   2983970f..edc4b58e  main -> main
+Sat Jul 25 12:30:06 PM PDT 2026: pushed 3 commits to both repos

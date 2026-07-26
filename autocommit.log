@@ -15249,3 +15249,17 @@ Sat Jul 25 12:30:06 PM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main f6a115f0] fix query params
  2 files changed, 3 insertions(+)
+[main abf51777] update test fixtures
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   883303e8..abf51777  main -> main
+Already up to date.
+[main 245ec489] fix encoding issue
+ 1 file changed, 1 insertion(+)
+[main 6be5e5ec] fix timeout issue
+ 1 file changed, 1 insertion(+)
+[main c3f7cf96] fix null check
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   edc4b58e..c3f7cf96  main -> main
+Sat Jul 25 01:26:06 PM PDT 2026: pushed 3 commits to both repos

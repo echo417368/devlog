@@ -15429,3 +15429,17 @@ Mon Jul 27 01:56:06 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 1690b9ca] update lint rules
  2 files changed, 3 insertions(+)
+[main 320bfe7f] refactor database layer
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   112aa34d..320bfe7f  main -> main
+Already up to date.
+[main 685fb9b4] fix session handling
+ 1 file changed, 1 insertion(+)
+[main 689a05ab] update build config
+ 1 file changed, 1 insertion(+)
+[main 7f0d22b5] fix file upload
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   799bb137..7f0d22b5  main -> main
+Mon Jul 27 02:47:06 PM PDT 2026: pushed 3 commits to both repos

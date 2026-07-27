@@ -15336,3 +15336,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    f1e9d29c..153944b8  main -> main
 Sun Jul 26 02:35:06 PM PDT 2026: pushed 1 commits to both repos
+[main c8400cc0] clean up dead code
+ 2 files changed, 11 insertions(+)
+To github-echo:echo417368/devlog.git
+   5b3fe375..c8400cc0  main -> main
+Already up to date.
+[main bc6d6984] refactor error types
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   153944b8..bc6d6984  main -> main
+Sun Jul 26 05:28:05 PM PDT 2026: pushed 1 commits to both repos

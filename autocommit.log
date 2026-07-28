@@ -15514,3 +15514,5 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    f7ddc5b5..c9a49fc0  main -> main
 Tue Jul 28 09:23:06 AM PDT 2026: pushed 1 commits to both repos
+[main a161ac1a] optimize query performance
+ 2 files changed, 11 insertions(+)

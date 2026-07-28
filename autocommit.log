@@ -15479,3 +15479,17 @@ Mon Jul 27 06:07:06 PM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main 54c2cb66] fix date formatting
  2 files changed, 3 insertions(+)
+[main 44747e40] fix timezone handling
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   ce4047ea..44747e40  main -> main
+Already up to date.
+[main 0ce57813] fix pagination bug
+ 1 file changed, 1 insertion(+)
+[main 4839ec18] add error handling
+ 1 file changed, 1 insertion(+)
+[main 962617d0] add search functionality
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   cc2d0009..962617d0  main -> main
+Mon Jul 27 11:27:06 PM PDT 2026: pushed 3 commits to both repos

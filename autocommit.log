@@ -15461,3 +15461,17 @@ Mon Jul 27 03:16:06 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main dcf341ce] clean up logs
  2 files changed, 3 insertions(+)
+[main ce4047ea] update build config
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   6ad40cfc..ce4047ea  main -> main
+Already up to date.
+[main 5475a3f9] fix sorting order
+ 1 file changed, 1 insertion(+)
+[main 18519f0e] minor cleanup
+ 1 file changed, 1 insertion(+)
+[main cc2d0009] refactor database layer
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   3ba39b3a..cc2d0009  main -> main
+Mon Jul 27 06:07:06 PM PDT 2026: pushed 3 commits to both repos

@@ -15530,3 +15530,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Tue Jul 28 01:11:06 PM PDT 2026: pushed 2 commits to both repos
 [main 76f87b0f] fix auth token refresh
  2 files changed, 13 insertions(+)
+[main 37f5797e] add graceful shutdown
+ 2 files changed, 3 insertions(+)

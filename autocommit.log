@@ -15564,3 +15564,17 @@ Tue Jul 28 08:30:06 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 79c42d48] bump version
  2 files changed, 3 insertions(+)
+[main 53048068] fix encoding issue
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   0e8effd9..53048068  main -> main
+Already up to date.
+[main 6abc2303] update test fixtures
+ 1 file changed, 1 insertion(+)
+[main 6f33ba68] fix debounce logic
+ 1 file changed, 1 insertion(+)
+[main 02065877] fix CORS config
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   8ab84dc1..02065877  main -> main
+Tue Jul 28 11:20:06 PM PDT 2026: pushed 3 commits to both repos

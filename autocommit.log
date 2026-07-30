@@ -15706,3 +15706,17 @@ Thu Jul 30 09:35:06 AM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main 14d22e4d] fix CSS alignment
  2 files changed, 3 insertions(+)
+[main ccca054d] refactor config loader
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   107ca751..ccca054d  main -> main
+Already up to date.
+[main 8ce8c5d4] add metrics collection
+ 1 file changed, 1 insertion(+)
+[main 8777e039] minor cleanup
+ 1 file changed, 1 insertion(+)
+[main e63f58f9] refactor state management
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   a91fd510..e63f58f9  main -> main
+Thu Jul 30 12:21:07 PM PDT 2026: pushed 3 commits to both repos

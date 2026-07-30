@@ -15647,3 +15647,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Wed Jul 29 03:38:06 PM PDT 2026: pushed 2 commits to both repos
 [main 750a9137] fix date formatting
  2 files changed, 13 insertions(+)
+[main f3a12804] update schema
+ 2 files changed, 3 insertions(+)

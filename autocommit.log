@@ -15758,3 +15758,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    eadc36c0..b1d3bc68  main -> main
 Thu Jul 30 04:20:06 PM PDT 2026: pushed 1 commits to both repos
+[main 08c98387] fix null check
+ 2 files changed, 11 insertions(+)
+To github-echo:echo417368/devlog.git
+   c3bddbfa..08c98387  main -> main
+Already up to date.
+[main 8beacdd0] refactor auth logic
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   b1d3bc68..8beacdd0  main -> main
+Thu Jul 30 06:19:05 PM PDT 2026: pushed 1 commits to both repos

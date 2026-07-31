@@ -15734,3 +15734,17 @@ Thu Jul 30 01:54:06 PM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main abdf1601] fix redirect loop
  2 files changed, 3 insertions(+)
+[main 1b146e1c] refactor component structure
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   b18dd573..1b146e1c  main -> main
+Already up to date.
+[main ca4cb1bd] refactor auth logic
+ 1 file changed, 1 insertion(+)
+[main d147c018] update CI pipeline
+ 1 file changed, 1 insertion(+)
+[main eadc36c0] refactor state management
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   c14e6a63..eadc36c0  main -> main
+Thu Jul 30 03:31:08 PM PDT 2026: pushed 3 commits to both repos

@@ -15772,3 +15772,17 @@ Thu Jul 30 06:19:05 PM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main 36ea9c43] fix null check
  2 files changed, 3 insertions(+)
+[main 36800320] add feature flag
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   08c98387..36800320  main -> main
+Already up to date.
+[main f0dd4084] add logging
+ 1 file changed, 1 insertion(+)
+[main 286d74f1] fix timezone handling
+ 1 file changed, 1 insertion(+)
+[main 23255d0d] fix null check
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   8beacdd0..23255d0d  main -> main
+Thu Jul 30 07:27:06 PM PDT 2026: pushed 3 commits to both repos

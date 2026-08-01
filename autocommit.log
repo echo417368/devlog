@@ -15912,3 +15912,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sat Aug  1 11:42:06 AM PDT 2026: pushed 1 commits to both repos
 [main f970abcd] remove debug logs
  2 files changed, 11 insertions(+)
+[main 75be8d3b] update security headers
+ 2 files changed, 3 insertions(+)

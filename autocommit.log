@@ -15942,3 +15942,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    145d249d..7bd71b9a  main -> main
 Sat Aug  1 03:18:06 PM PDT 2026: pushed 2 commits to both repos
+[main 7778fb0e] refactor component structure
+ 2 files changed, 13 insertions(+)
+To github-echo:echo417368/devlog.git
+   7617a5a5..7778fb0e  main -> main
+Already up to date.
+[main 3f6bd892] add feature flag
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   7bd71b9a..3f6bd892  main -> main
+Sat Aug  1 05:48:06 PM PDT 2026: pushed 1 commits to both repos

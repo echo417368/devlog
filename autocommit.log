@@ -16005,3 +16005,17 @@ Sun Aug  2 11:09:05 AM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main 3718ba69] refactor utils
  2 files changed, 3 insertions(+)
+[main 3ed9e26d] refactor API client
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   ccb583cc..3ed9e26d  main -> main
+Already up to date.
+[main 0eb1c40b] add graceful shutdown
+ 1 file changed, 1 insertion(+)
+[main fcbefd14] fix query params
+ 1 file changed, 1 insertion(+)
+[main 7f54f1a5] add feature flag
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   4d45bb58..7f54f1a5  main -> main
+Sun Aug  2 12:39:06 PM PDT 2026: pushed 3 commits to both repos

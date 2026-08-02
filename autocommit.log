@@ -15930,3 +15930,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sat Aug  1 12:11:06 PM PDT 2026: pushed 3 commits to both repos
 [main be61357a] remove debug logs
  2 files changed, 15 insertions(+)
+[main 7617a5a5] add middleware
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   5be935d9..7617a5a5  main -> main
+Already up to date.
+[main e3c8d102] refactor config loader
+ 1 file changed, 1 insertion(+)
+[main 7bd71b9a] update lock file
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   145d249d..7bd71b9a  main -> main
+Sat Aug  1 03:18:06 PM PDT 2026: pushed 2 commits to both repos

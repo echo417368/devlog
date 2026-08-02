@@ -16003,3 +16003,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sun Aug  2 11:09:05 AM PDT 2026: pushed 1 commits to both repos
 [main 3ab25e68] add batch processing
  2 files changed, 11 insertions(+)
+[main 3718ba69] refactor utils
+ 2 files changed, 3 insertions(+)

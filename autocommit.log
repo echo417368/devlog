@@ -16142,3 +16142,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Mon Aug  3 12:50:06 PM PDT 2026: pushed 2 commits to both repos
 [main 02dbde7d] tweak styles
  2 files changed, 13 insertions(+)
+[main 944bdf4c] fix cache invalidation
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   18e328eb..944bdf4c  main -> main
+Already up to date.
+[main 1f2f61e2] optimize query performance
+ 1 file changed, 1 insertion(+)
+[main cdb409fa] add graceful shutdown
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   da1fda39..cdb409fa  main -> main
+Mon Aug  3 04:37:06 PM PDT 2026: pushed 2 commits to both repos

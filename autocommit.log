@@ -16330,3 +16330,17 @@ Wed Aug  5 02:38:06 PM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main 1b01cf1b] wip
  2 files changed, 3 insertions(+)
+[main 40370929] fix auth token refresh
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   3c2d7ef4..40370929  main -> main
+Already up to date.
+[main e9f6cfcc] fix typo in config
+ 1 file changed, 1 insertion(+)
+[main 7428c299] clean up dead code
+ 1 file changed, 1 insertion(+)
+[main 8340ed2a] refactor database layer
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   ea83004c..8340ed2a  main -> main
+Wed Aug  5 03:28:06 PM PDT 2026: pushed 3 commits to both repos

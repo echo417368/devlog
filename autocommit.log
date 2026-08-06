@@ -16398,3 +16398,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Wed Aug  5 10:16:06 PM PDT 2026: pushed 3 commits to both repos
 [main c1d59e10] rename variables
  2 files changed, 15 insertions(+)
+[main f00bd72b] fix cache invalidation
+ 2 files changed, 3 insertions(+)

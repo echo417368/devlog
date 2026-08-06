@@ -16437,3 +16437,17 @@ Thu Aug  6 10:40:06 AM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main 5d5b0d1e] update build config
  2 files changed, 3 insertions(+)
+[main 6b0e005f] refactor API client
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   d759c427..6b0e005f  main -> main
+Already up to date.
+[main d266fd59] fix file upload
+ 1 file changed, 1 insertion(+)
+[main a2e673cb] add queue worker
+ 1 file changed, 1 insertion(+)
+[main 7b5cb16f] refactor component structure
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   7c7554c6..7b5cb16f  main -> main
+Thu Aug  6 01:01:06 PM PDT 2026: pushed 3 commits to both repos

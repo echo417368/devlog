@@ -16382,3 +16382,17 @@ Wed Aug  5 07:17:06 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 031f5d8c] minor cleanup
  2 files changed, 3 insertions(+)
+[main 0b5bd97d] add feature flag
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   1f881081..0b5bd97d  main -> main
+Already up to date.
+[main 127cbfd3] update lint rules
+ 1 file changed, 1 insertion(+)
+[main c2ffdd1d] refactor error types
+ 1 file changed, 1 insertion(+)
+[main aa898b8f] fix timeout issue
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   53e5c3c3..aa898b8f  main -> main
+Wed Aug  5 10:16:06 PM PDT 2026: pushed 3 commits to both repos

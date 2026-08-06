@@ -16366,3 +16366,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Wed Aug  5 06:24:06 PM PDT 2026: pushed 1 commits to both repos
 [main c41f4c7b] update lock file
  2 files changed, 11 insertions(+)
+[main 1f881081] update types
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   2f50c89d..1f881081  main -> main
+Already up to date.
+[main 2ffb85de] fix debounce logic
+ 1 file changed, 1 insertion(+)
+[main 53e5c3c3] minor cleanup
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   26bd9742..53e5c3c3  main -> main
+Wed Aug  5 07:17:06 PM PDT 2026: pushed 2 commits to both repos

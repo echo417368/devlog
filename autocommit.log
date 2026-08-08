@@ -16540,3 +16540,17 @@ Fri Aug  7 12:07:06 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 1f179152] update test fixtures
  2 files changed, 3 insertions(+)
+[main 3beb27a0] remove debug logs
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   120141bb..3beb27a0  main -> main
+Already up to date.
+[main d7e2c86a] refactor database layer
+ 1 file changed, 1 insertion(+)
+[main 64dd6317] refactor state management
+ 1 file changed, 1 insertion(+)
+[main 0212aa17] add search functionality
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   ffd5f7cc..0212aa17  main -> main
+Fri Aug  7 04:53:06 PM PDT 2026: pushed 3 commits to both repos

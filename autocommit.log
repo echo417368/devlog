@@ -16584,3 +16584,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Fri Aug  7 10:08:06 PM PDT 2026: pushed 3 commits to both repos
 [main 1305d777] fix date formatting
  2 files changed, 15 insertions(+)
+[main ee785d1b] refactor auth logic
+ 2 files changed, 3 insertions(+)

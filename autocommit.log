@@ -16742,3 +16742,17 @@ Sun Aug  9 05:44:06 PM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main f57e30d9] fix CSS alignment
  2 files changed, 3 insertions(+)
+[main 507d1490] fix null check
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   6825d3f4..507d1490  main -> main
+Already up to date.
+[main 5353dd14] clean up logs
+ 1 file changed, 1 insertion(+)
+[main 68326102] fix hot reload
+ 1 file changed, 1 insertion(+)
+[main 6345a4e8] add batch processing
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   d323fd84..6345a4e8  main -> main
+Sun Aug  9 08:18:06 PM PDT 2026: pushed 3 commits to both repos

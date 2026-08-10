@@ -16724,3 +16724,17 @@ Sun Aug  9 04:37:06 PM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main 31d020b6] fix form validation
  2 files changed, 3 insertions(+)
+[main 6825d3f4] rename variables
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   c538de85..6825d3f4  main -> main
+Already up to date.
+[main d73eb25c] refactor auth logic
+ 1 file changed, 1 insertion(+)
+[main 1bb8f38a] fix auth token refresh
+ 1 file changed, 1 insertion(+)
+[main d323fd84] fix file upload
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   3c01397e..d323fd84  main -> main
+Sun Aug  9 05:44:06 PM PDT 2026: pushed 3 commits to both repos

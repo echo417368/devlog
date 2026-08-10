@@ -16722,3 +16722,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sun Aug  9 04:37:06 PM PDT 2026: pushed 1 commits to both repos
 [main 082881fa] update dependencies
  2 files changed, 11 insertions(+)
+[main 31d020b6] fix form validation
+ 2 files changed, 3 insertions(+)

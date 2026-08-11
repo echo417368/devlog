@@ -16866,3 +16866,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Tue Aug 11 09:56:06 AM PDT 2026: pushed 3 commits to both repos
 [main c64086f9] add graceful shutdown
  2 files changed, 15 insertions(+)
+[main e7e60add] clean up unused imports
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   d4853e36..e7e60add  main -> main
+Already up to date.
+[main 0f71cad0] fix debounce logic
+ 1 file changed, 1 insertion(+)
+[main e5723702] add error handling
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   c824e401..e5723702  main -> main
+Tue Aug 11 12:21:06 PM PDT 2026: pushed 2 commits to both repos

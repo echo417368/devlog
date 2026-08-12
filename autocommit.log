@@ -16951,3 +16951,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    3f0e6661..6e6d794a  main -> main
 Wed Aug 12 12:15:06 PM PDT 2026: pushed 1 commits to both repos
+[main 156efc64] add queue worker
+ 2 files changed, 11 insertions(+)
+To github-echo:echo417368/devlog.git
+   aca0973a..156efc64  main -> main
+Already up to date.
+[main 099bc7d2] fix edge case in parser
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   6e6d794a..099bc7d2  main -> main
+Wed Aug 12 01:23:06 PM PDT 2026: pushed 1 commits to both repos

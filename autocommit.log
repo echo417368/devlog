@@ -17054,3 +17054,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Thu Aug 13 10:13:06 AM PDT 2026: pushed 2 commits to both repos
 [main 2b95a9dc] fix date formatting
  2 files changed, 13 insertions(+)
+[main 81bfba95] add rate limiting
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   3e7790d0..81bfba95  main -> main
+Already up to date.
+[main 5e31305f] add middleware
+ 1 file changed, 1 insertion(+)
+[main 54dc99ec] update schema
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   ff10377f..54dc99ec  main -> main
+Thu Aug 13 01:03:06 PM PDT 2026: pushed 2 commits to both repos

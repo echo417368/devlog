@@ -17013,3 +17013,18 @@ Wed Aug 12 09:04:06 PM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main ac3631f5] refactor config loader
  2 files changed, 3 insertions(+)
+[main cedb6318] fix cache invalidation
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   c9310a64..cedb6318  main -> main
+Already up to date.
+[main 67118794] add queue worker
+ 1 file changed, 1 insertion(+)
+[main 43e4126d] refactor API client
+ 1 file changed, 1 insertion(+)
+[main 3acde0e7] fix query params
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   02079ddf..3acde0e7  main -> main
+Thu Aug 13 12:27:06 AM PDT 2026: pushed 3 commits to both repos
+Thu Aug 13 01:00:01 AM PDT 2026: scheduled 8 runs at PST hours: 9 14 12 8 19 17 18 23

@@ -17040,3 +17040,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Thu Aug 13 09:52:06 AM PDT 2026: pushed 1 commits to both repos
 [main ea2b9758] update security headers
  2 files changed, 11 insertions(+)
+[main 3e7790d0] fix debounce logic
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   7e96b3d0..3e7790d0  main -> main
+Already up to date.
+[main 36813deb] refactor config loader
+ 1 file changed, 1 insertion(+)
+[main ff10377f] formatting
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   1e7b1ad3..ff10377f  main -> main
+Thu Aug 13 10:13:06 AM PDT 2026: pushed 2 commits to both repos

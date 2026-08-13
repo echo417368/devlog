@@ -17011,3 +17011,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Wed Aug 12 09:04:06 PM PDT 2026: pushed 1 commits to both repos
 [main c63100b3] fix form validation
  2 files changed, 11 insertions(+)
+[main ac3631f5] refactor config loader
+ 2 files changed, 3 insertions(+)

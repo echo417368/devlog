@@ -17028,3 +17028,13 @@ To github-ashnexthq:ashnexthq/devlog.git
    02079ddf..3acde0e7  main -> main
 Thu Aug 13 12:27:06 AM PDT 2026: pushed 3 commits to both repos
 Thu Aug 13 01:00:01 AM PDT 2026: scheduled 8 runs at PST hours: 9 14 12 8 19 17 18 23
+[main 7e96b3d0] add data export
+ 2 files changed, 16 insertions(+)
+To github-echo:echo417368/devlog.git
+   cedb6318..7e96b3d0  main -> main
+Already up to date.
+[main 1e7b1ad3] update test fixtures
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   3acde0e7..1e7b1ad3  main -> main
+Thu Aug 13 09:52:06 AM PDT 2026: pushed 1 commits to both repos

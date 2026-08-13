@@ -16961,3 +16961,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    6e6d794a..099bc7d2  main -> main
 Wed Aug 12 01:23:06 PM PDT 2026: pushed 1 commits to both repos
+[main 8eff99fb] add middleware
+ 2 files changed, 11 insertions(+)
+To github-echo:echo417368/devlog.git
+   156efc64..8eff99fb  main -> main
+Already up to date.
+[main 59623064] refactor auth logic
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   099bc7d2..59623064  main -> main
+Wed Aug 12 02:31:06 PM PDT 2026: pushed 1 commits to both repos

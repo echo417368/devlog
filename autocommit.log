@@ -16983,3 +16983,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Wed Aug 12 05:03:06 PM PDT 2026: pushed 1 commits to both repos
 [main 0e5ad0ca] bump version
  2 files changed, 11 insertions(+)
+[main e64fd40d] clean up dead code
+ 2 files changed, 3 insertions(+)

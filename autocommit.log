@@ -17100,3 +17100,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    60abd45c..ba257feb  main -> main
 Thu Aug 13 07:53:06 PM PDT 2026: pushed 1 commits to both repos
+[main d795f7ad] fix hot reload
+ 2 files changed, 11 insertions(+)
+To github-echo:echo417368/devlog.git
+   4b59c3bd..d795f7ad  main -> main
+Already up to date.
+[main 9851f579] update seed data
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   ba257feb..9851f579  main -> main
+Thu Aug 13 08:30:06 PM PDT 2026: pushed 1 commits to both repos

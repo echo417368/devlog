@@ -17183,3 +17183,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Fri Aug 14 08:21:06 PM PDT 2026: pushed 3 commits to both repos
 [main bd452fa7] fix debounce logic
  2 files changed, 15 insertions(+)
+[main dbf151ac] update lock file
+ 2 files changed, 3 insertions(+)

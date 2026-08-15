@@ -17185,3 +17185,17 @@ Fri Aug 14 08:21:06 PM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main dbf151ac] update lock file
  2 files changed, 3 insertions(+)
+[main 2180309a] update API routes
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   dbbf1156..2180309a  main -> main
+Already up to date.
+[main fd9f8421] remove debug logs
+ 1 file changed, 1 insertion(+)
+[main 941219f3] fix debounce logic
+ 1 file changed, 1 insertion(+)
+[main 9f615123] fix encoding issue
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   fbf2d001..9f615123  main -> main
+Fri Aug 14 10:59:06 PM PDT 2026: pushed 3 commits to both repos

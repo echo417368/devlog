@@ -17139,3 +17139,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    b2deaf2a..de3f315f  main -> main
 Fri Aug 14 01:10:06 PM PDT 2026: pushed 2 commits to both repos
+[main d5c52217] optimize query performance
+ 2 files changed, 13 insertions(+)
+To github-echo:echo417368/devlog.git
+   a274f62d..d5c52217  main -> main
+Already up to date.
+[main cb19af5b] fix race condition
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   de3f315f..cb19af5b  main -> main
+Fri Aug 14 03:33:06 PM PDT 2026: pushed 1 commits to both repos

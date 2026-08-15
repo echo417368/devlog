@@ -17165,3 +17165,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Fri Aug 14 07:57:06 PM PDT 2026: pushed 2 commits to both repos
 [main 437aa559] fix connection pool
  2 files changed, 13 insertions(+)
+[main a53ec8d3] fix auth token refresh
+ 2 files changed, 3 insertions(+)

@@ -17167,3 +17167,17 @@ Fri Aug 14 07:57:06 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main a53ec8d3] fix auth token refresh
  2 files changed, 3 insertions(+)
+[main dbbf1156] update seed data
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   464a55b5..dbbf1156  main -> main
+Already up to date.
+[main db6fdaaf] add middleware
+ 1 file changed, 1 insertion(+)
+[main e6f332fc] add middleware
+ 1 file changed, 1 insertion(+)
+[main fbf2d001] add data export
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   30b4610f..fbf2d001  main -> main
+Fri Aug 14 08:21:06 PM PDT 2026: pushed 3 commits to both repos

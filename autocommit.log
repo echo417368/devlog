@@ -17266,3 +17266,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    862a142c..90443b1e  main -> main
 Sat Aug 15 06:51:06 PM PDT 2026: pushed 2 commits to both repos
+[main e209ba14] remove debug logs
+ 2 files changed, 13 insertions(+)
+To github-echo:echo417368/devlog.git
+   7259df65..e209ba14  main -> main
+Already up to date.
+[main e68286ac] refactor config loader
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   90443b1e..e68286ac  main -> main
+Sat Aug 15 07:39:06 PM PDT 2026: pushed 1 commits to both repos

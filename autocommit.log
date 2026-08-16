@@ -17325,3 +17325,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sun Aug 16 12:27:06 PM PDT 2026: pushed 3 commits to both repos
 [main 3847e9fc] update env config
  2 files changed, 15 insertions(+)
+[main 65a2ebc5] add batch processing
+ 2 files changed, 3 insertions(+)

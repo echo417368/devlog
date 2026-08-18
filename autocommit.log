@@ -17489,3 +17489,5 @@ To github-ashnexthq:ashnexthq/devlog.git
    ce50863e..cdfd2b35  main -> main
 Tue Aug 18 12:56:06 AM PDT 2026: pushed 3 commits to both repos
 Tue Aug 18 01:00:01 AM PDT 2026: scheduled 8 runs at PST hours: 13 18 11 22 12 23 15 16
+[main f0f39abd] fix race condition
+ 2 files changed, 16 insertions(+)

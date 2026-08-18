@@ -17408,3 +17408,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    7a8b54d9..2a64ce92  main -> main
 Mon Aug 17 12:03:06 PM PDT 2026: pushed 2 commits to both repos
+[main 00a44c2c] refactor API client
+ 2 files changed, 13 insertions(+)
+To github-echo:echo417368/devlog.git
+   aaa7d3ae..00a44c2c  main -> main
+Already up to date.
+[main 7bd2e74c] fix hot reload
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   2a64ce92..7bd2e74c  main -> main
+Mon Aug 17 02:51:06 PM PDT 2026: pushed 1 commits to both repos

@@ -17472,3 +17472,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Mon Aug 17 10:20:06 PM PDT 2026: pushed 1 commits to both repos
 [main dde49a00] clean up dead code
  2 files changed, 11 insertions(+)
+[main 646941d9] refactor error types
+ 2 files changed, 3 insertions(+)

@@ -17420,3 +17420,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Mon Aug 17 02:51:06 PM PDT 2026: pushed 1 commits to both repos
 [main 06d6ba8b] refactor component structure
  2 files changed, 11 insertions(+)
+[main 6701b1d4] fix null check
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   00a44c2c..6701b1d4  main -> main
+Already up to date.
+[main 9a5e0a0d] add error handling
+ 1 file changed, 1 insertion(+)
+[main 39ae5186] update types
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   7bd2e74c..39ae5186  main -> main
+Mon Aug 17 04:06:06 PM PDT 2026: pushed 2 commits to both repos

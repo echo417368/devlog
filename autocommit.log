@@ -17521,3 +17521,17 @@ Tue Aug 18 01:15:06 PM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main 5d4621e7] update build config
  2 files changed, 3 insertions(+)
+[main 5a65ed87] update dependencies
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   e17d7846..5a65ed87  main -> main
+Already up to date.
+[main 07503ce2] add graceful shutdown
+ 1 file changed, 1 insertion(+)
+[main a3d25803] refactor state management
+ 1 file changed, 1 insertion(+)
+[main 0277e56e] add error handling
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   fbf48d19..0277e56e  main -> main
+Tue Aug 18 02:29:06 PM PDT 2026: pushed 3 commits to both repos

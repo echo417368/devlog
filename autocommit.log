@@ -17634,3 +17634,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Wed Aug 19 10:14:07 AM PDT 2026: pushed 3 commits to both repos
 [main 711490c5] fix session handling
  2 files changed, 15 insertions(+)
+[main 0097f92f] fix CORS config
+ 2 files changed, 3 insertions(+)

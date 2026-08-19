@@ -17537,3 +17537,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Tue Aug 18 02:29:06 PM PDT 2026: pushed 3 commits to both repos
 [main b2b3c44d] fix timezone handling
  2 files changed, 15 insertions(+)
+[main acc48c09] refactor API client
+ 2 files changed, 3 insertions(+)

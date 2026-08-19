@@ -17636,3 +17636,17 @@ Wed Aug 19 10:14:07 AM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main 0097f92f] fix CORS config
  2 files changed, 3 insertions(+)
+[main 8ad3c6f6] fix edge case in parser
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   dcf43c56..8ad3c6f6  main -> main
+Already up to date.
+[main ad87bb7c] add rate limiting
+ 1 file changed, 1 insertion(+)
+[main fe7830ac] refactor state management
+ 1 file changed, 1 insertion(+)
+[main f7fade32] fix pagination bug
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   2cdcce25..f7fade32  main -> main
+Wed Aug 19 12:48:06 PM PDT 2026: pushed 3 commits to both repos

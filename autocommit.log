@@ -17585,3 +17585,17 @@ Tue Aug 18 07:45:06 PM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main a0922b2c] refactor config loader
  2 files changed, 3 insertions(+)
+[main 07f8497d] update CI pipeline
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   a8475cea..07f8497d  main -> main
+Already up to date.
+[main 82688b2e] update security headers
+ 1 file changed, 1 insertion(+)
+[main be311c40] fix query params
+ 1 file changed, 1 insertion(+)
+[main dae8f42a] refactor state management
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   e3704d72..dae8f42a  main -> main
+Tue Aug 18 11:05:06 PM PDT 2026: pushed 3 commits to both repos

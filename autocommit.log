@@ -17672,3 +17672,17 @@ Wed Aug 19 01:47:06 PM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main c0e70cc5] fix query params
  2 files changed, 3 insertions(+)
+[main 33e2dfeb] update lint rules
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   ddb159a2..33e2dfeb  main -> main
+Already up to date.
+[main 2f47bf8a] update test fixtures
+ 1 file changed, 1 insertion(+)
+[main 173c6447] add feature flag
+ 1 file changed, 1 insertion(+)
+[main c578b977] refactor utils
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   1e901d0c..c578b977  main -> main
+Wed Aug 19 07:28:06 PM PDT 2026: pushed 3 commits to both repos

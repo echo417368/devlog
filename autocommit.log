@@ -17654,3 +17654,17 @@ Wed Aug 19 12:48:06 PM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main e4fea173] fix null check
  2 files changed, 3 insertions(+)
+[main ddb159a2] add batch processing
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   8ad3c6f6..ddb159a2  main -> main
+Already up to date.
+[main 8290bcee] update env config
+ 1 file changed, 1 insertion(+)
+[main 417988ae] add data export
+ 1 file changed, 1 insertion(+)
+[main 1e901d0c] fix edge case in parser
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   f7fade32..1e901d0c  main -> main
+Wed Aug 19 01:47:06 PM PDT 2026: pushed 3 commits to both repos

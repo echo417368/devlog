@@ -17765,3 +17765,17 @@ Thu Aug 20 02:36:06 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 874c5637] fix encoding issue
  2 files changed, 3 insertions(+)
+[main 19ad20ec] fix hot reload
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   02e6c4c4..19ad20ec  main -> main
+Already up to date.
+[main 86526d25] fix date formatting
+ 1 file changed, 1 insertion(+)
+[main 5222c45d] add retry logic
+ 1 file changed, 1 insertion(+)
+[main 13dc7710] fix query params
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   e89f4786..13dc7710  main -> main
+Thu Aug 20 04:34:06 PM PDT 2026: pushed 3 commits to both repos

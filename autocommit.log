@@ -17854,3 +17854,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    fa44bc40..3fdf8ee6  main -> main
 Fri Aug 21 10:48:06 AM PDT 2026: pushed 1 commits to both repos
+[main 9969682b] refactor database layer
+ 2 files changed, 11 insertions(+)
+To github-echo:echo417368/devlog.git
+   e7d7b2a7..9969682b  main -> main
+Already up to date.
+[main 1b061d12] fix hot reload
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   3fdf8ee6..1b061d12  main -> main
+Fri Aug 21 11:03:06 AM PDT 2026: pushed 1 commits to both repos

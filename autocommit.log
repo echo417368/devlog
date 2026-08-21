@@ -17817,3 +17817,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Thu Aug 20 09:08:06 PM PDT 2026: pushed 3 commits to both repos
 [main cd1f776c] minor cleanup
  2 files changed, 15 insertions(+)
+[main 8cea3a05] fix CORS config
+ 2 files changed, 3 insertions(+)

@@ -17801,3 +17801,17 @@ Thu Aug 20 05:43:06 PM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main 3456665a] update seed data
  2 files changed, 3 insertions(+)
+[main 57b27ec9] add retry logic
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   10ac33c8..57b27ec9  main -> main
+Already up to date.
+[main 2f88f609] refactor config loader
+ 1 file changed, 1 insertion(+)
+[main d39f121f] fix CORS config
+ 1 file changed, 1 insertion(+)
+[main 4d1bd0ba] update API routes
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   45e0b857..4d1bd0ba  main -> main
+Thu Aug 20 09:08:06 PM PDT 2026: pushed 3 commits to both repos

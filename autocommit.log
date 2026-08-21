@@ -17844,3 +17844,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    8ae98b35..fa44bc40  main -> main
 Fri Aug 21 09:16:06 AM PDT 2026: pushed 1 commits to both repos
+[main e7d7b2a7] update error messages
+ 2 files changed, 11 insertions(+)
+To github-echo:echo417368/devlog.git
+   0895eb7b..e7d7b2a7  main -> main
+Already up to date.
+[main 3fdf8ee6] fix null check
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   fa44bc40..3fdf8ee6  main -> main
+Fri Aug 21 10:48:06 AM PDT 2026: pushed 1 commits to both repos

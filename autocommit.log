@@ -17783,3 +17783,17 @@ Thu Aug 20 04:34:06 PM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main 11a53f4b] add metrics collection
  2 files changed, 3 insertions(+)
+[main 10ac33c8] refactor API client
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   19ad20ec..10ac33c8  main -> main
+Already up to date.
+[main c0750299] update test fixtures
+ 1 file changed, 1 insertion(+)
+[main 25335fe0] add rate limiting
+ 1 file changed, 1 insertion(+)
+[main 45e0b857] update CI pipeline
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   13dc7710..45e0b857  main -> main
+Thu Aug 20 05:43:06 PM PDT 2026: pushed 3 commits to both repos

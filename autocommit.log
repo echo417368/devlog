@@ -17967,3 +17967,5 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    705dcb09..f611aa45  main -> main
 Sat Aug 22 01:44:06 PM PDT 2026: pushed 2 commits to both repos
+[main 18dbc65e] refactor database layer
+ 2 files changed, 13 insertions(+)

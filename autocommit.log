@@ -17969,3 +17969,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sat Aug 22 01:44:06 PM PDT 2026: pushed 2 commits to both repos
 [main 18dbc65e] refactor database layer
  2 files changed, 13 insertions(+)
+[main dfb4b4e7] add rate limiting
+ 2 files changed, 3 insertions(+)

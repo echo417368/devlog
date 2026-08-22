@@ -17910,3 +17910,17 @@ Fri Aug 21 06:15:06 PM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main b19d9f73] update test fixtures
  2 files changed, 3 insertions(+)
+[main 236b8e3a] add metrics collection
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   d88d6288..236b8e3a  main -> main
+Already up to date.
+[main fd2a96c2] refactor error types
+ 1 file changed, 1 insertion(+)
+[main da13f018] refactor error types
+ 1 file changed, 1 insertion(+)
+[main 55cc731b] update seed data
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   8ad58903..55cc731b  main -> main
+Fri Aug 21 07:42:06 PM PDT 2026: pushed 3 commits to both repos

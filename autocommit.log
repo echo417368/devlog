@@ -17989,3 +17989,17 @@ Sat Aug 22 03:36:06 PM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main dd8ab436] update seed data
  2 files changed, 3 insertions(+)
+[main 79611aa1] update API routes
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   485575fb..79611aa1  main -> main
+Already up to date.
+[main e6f5c1e4] refactor config loader
+ 1 file changed, 1 insertion(+)
+[main 04225540] fix session handling
+ 1 file changed, 1 insertion(+)
+[main 31b655ba] formatting
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   9e808a92..31b655ba  main -> main
+Sat Aug 22 06:04:06 PM PDT 2026: pushed 3 commits to both repos

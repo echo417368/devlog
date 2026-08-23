@@ -18054,3 +18054,17 @@ Sun Aug 23 10:05:06 AM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main e219949b] adjust spacing
  2 files changed, 3 insertions(+)
+[main 333645ed] add queue worker
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   adb5ab23..333645ed  main -> main
+Already up to date.
+[main 19e0fdea] refactor auth logic
+ 1 file changed, 1 insertion(+)
+[main dbc88010] minor cleanup
+ 1 file changed, 1 insertion(+)
+[main 0d75a95a] update error messages
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   ad6c7990..0d75a95a  main -> main
+Sun Aug 23 11:17:06 AM PDT 2026: pushed 3 commits to both repos

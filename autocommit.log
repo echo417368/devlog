@@ -18134,3 +18134,16 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sun Aug 23 07:41:06 PM PDT 2026: pushed 2 commits to both repos
 [main 997bfa91] small fix
  2 files changed, 13 insertions(+)
+[main e764a5fa] add data export
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   e31a7e1b..e764a5fa  main -> main
+Already up to date.
+[main 7e3b8eca] add logging
+ 1 file changed, 1 insertion(+)
+[main 56bae2f2] refactor error types
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   e0f9a2d6..56bae2f2  main -> main
+Sun Aug 23 10:46:06 PM PDT 2026: pushed 2 commits to both repos
+Mon Aug 24 01:00:01 AM PDT 2026: scheduled 7 runs at PST hours: 18 14 17 20 23 22 16

@@ -18209,3 +18209,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    7e0c7148..635024f6  main -> main
 Mon Aug 24 09:05:06 PM PDT 2026: pushed 1 commits to both repos
+[main d53f7f0c] fix query params
+ 2 files changed, 11 insertions(+)
+To github-echo:echo417368/devlog.git
+   d7e2fe9a..d53f7f0c  main -> main
+Already up to date.
+[main 23a42c75] update schema
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   635024f6..23a42c75  main -> main
+Mon Aug 24 11:41:06 PM PDT 2026: pushed 1 commits to both repos

@@ -18169,3 +18169,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Mon Aug 24 05:21:06 PM PDT 2026: pushed 1 commits to both repos
 [main a392cf51] add error handling
  2 files changed, 11 insertions(+)
+[main cf5808d3] clean up dead code
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   766d9585..cf5808d3  main -> main
+Already up to date.
+[main 8f222e33] fix auth token refresh
+ 1 file changed, 1 insertion(+)
+[main b036c0b7] update test fixtures
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   2baf19c7..b036c0b7  main -> main
+Mon Aug 24 06:28:06 PM PDT 2026: pushed 2 commits to both repos

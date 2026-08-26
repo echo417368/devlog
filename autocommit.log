@@ -18320,3 +18320,18 @@ Tue Aug 25 09:15:06 PM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main e30a771d] add metrics collection
  2 files changed, 3 insertions(+)
+[main 860e5a2d] refactor state management
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   268735f7..860e5a2d  main -> main
+Already up to date.
+[main cd1aefdf] fix auth token refresh
+ 1 file changed, 1 insertion(+)
+[main 4ae04745] tweak styles
+ 1 file changed, 1 insertion(+)
+[main a59f0d23] update lint rules
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   b7e1cf79..a59f0d23  main -> main
+Tue Aug 25 11:12:06 PM PDT 2026: pushed 3 commits to both repos
+Wed Aug 26 01:00:01 AM PDT 2026: scheduled 7 runs at PST hours: 22 23 10 17 15 9 8

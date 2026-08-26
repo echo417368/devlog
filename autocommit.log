@@ -18256,3 +18256,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Tue Aug 25 11:04:06 AM PDT 2026: pushed 1 commits to both repos
 [main 01a16e1c] refactor config loader
  2 files changed, 11 insertions(+)
+[main e08b3671] fix timezone handling
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   230e27f0..e08b3671  main -> main
+Already up to date.
+[main bdf7fc23] add batch processing
+ 1 file changed, 1 insertion(+)
+[main 44cc528a] fix null check
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   3bef5d37..44cc528a  main -> main
+Tue Aug 25 04:29:07 PM PDT 2026: pushed 2 commits to both repos

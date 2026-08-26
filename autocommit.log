@@ -18357,3 +18357,17 @@ Wed Aug 26 09:43:06 AM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main 8774d0d4] fix encoding issue
  2 files changed, 3 insertions(+)
+[main c9bc0993] refactor database layer
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   245d09ca..c9bc0993  main -> main
+Already up to date.
+[main 29b3c85f] clean up logs
+ 1 file changed, 1 insertion(+)
+[main a81f359b] add data export
+ 1 file changed, 1 insertion(+)
+[main 3a7eaa6f] add batch processing
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   47f0d3af..3a7eaa6f  main -> main
+Wed Aug 26 10:43:06 AM PDT 2026: pushed 3 commits to both repos

@@ -18300,3 +18300,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Tue Aug 25 08:24:06 PM PDT 2026: pushed 1 commits to both repos
 [main 30e8935d] fix pagination bug
  2 files changed, 11 insertions(+)
+[main 3daa275b] add middleware
+ 2 files changed, 3 insertions(+)

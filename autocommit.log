@@ -18403,3 +18403,17 @@ Wed Aug 26 04:57:06 PM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main fc90402d] add health check endpoint
  2 files changed, 3 insertions(+)
+[main 4d21b15d] add retry logic
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   b969c1c1..4d21b15d  main -> main
+Already up to date.
+[main b510dcc5] add feature flag
+ 1 file changed, 1 insertion(+)
+[main 0c087b9c] clean up dead code
+ 1 file changed, 1 insertion(+)
+[main 3d2224ae] fix connection pool
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   66431d51..3d2224ae  main -> main
+Wed Aug 26 06:40:06 PM PDT 2026: pushed 3 commits to both repos

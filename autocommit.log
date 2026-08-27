@@ -18500,3 +18500,17 @@ Thu Aug 27 11:58:06 AM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 0881e6cd] update env config
  2 files changed, 3 insertions(+)
+[main a04447dc] rename variables
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   6c1c196f..a04447dc  main -> main
+Already up to date.
+[main f10cdd55] fix cache invalidation
+ 1 file changed, 1 insertion(+)
+[main 5c57ebc5] update API routes
+ 1 file changed, 1 insertion(+)
+[main 3ddf8f0b] refactor error types
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   c504a6dd..3ddf8f0b  main -> main
+Thu Aug 27 01:07:07 PM PDT 2026: pushed 3 commits to both repos

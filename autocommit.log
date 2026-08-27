@@ -18375,3 +18375,17 @@ Wed Aug 26 10:43:06 AM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main 30a3a523] tweak styles
  2 files changed, 3 insertions(+)
+[main b5525791] small fix
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   c9bc0993..b5525791  main -> main
+Already up to date.
+[main 2ceedf88] add caching layer
+ 1 file changed, 1 insertion(+)
+[main 5fcab5c9] fix timezone handling
+ 1 file changed, 1 insertion(+)
+[main 383c481e] add middleware
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   3a7eaa6f..383c481e  main -> main
+Wed Aug 26 11:08:06 AM PDT 2026: pushed 3 commits to both repos

@@ -18421,3 +18421,17 @@ Wed Aug 26 06:40:06 PM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main 0cf5ca88] fix redirect loop
  2 files changed, 3 insertions(+)
+[main 48dc245a] add queue worker
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   4d21b15d..48dc245a  main -> main
+Already up to date.
+[main a7ecc9a9] refactor database layer
+ 1 file changed, 1 insertion(+)
+[main 0d28a843] refactor state management
+ 1 file changed, 1 insertion(+)
+[main 3735b4b5] rename variables
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   3d2224ae..3735b4b5  main -> main
+Wed Aug 26 11:49:06 PM PDT 2026: pushed 3 commits to both repos

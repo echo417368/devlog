@@ -18579,3 +18579,17 @@ Fri Aug 28 01:00:01 AM PDT 2026: scheduled 7 runs at PST hours: 16 15 14 11 13 1
  2 files changed, 12 insertions(+)
 [main 496d4f7d] add logging
  2 files changed, 3 insertions(+)
+[main 30f89f14] add feature flag
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   3199ce32..30f89f14  main -> main
+Already up to date.
+[main 78ea8a6e] fix connection pool
+ 1 file changed, 1 insertion(+)
+[main c8966662] optimize query performance
+ 1 file changed, 1 insertion(+)
+[main 645f1781] add graceful shutdown
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   57cc7da8..645f1781  main -> main
+Fri Aug 28 12:17:07 PM PDT 2026: pushed 3 commits to both repos

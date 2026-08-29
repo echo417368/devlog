@@ -18607,3 +18607,17 @@ Fri Aug 28 02:53:06 PM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main 2e1f4a16] update env config
  2 files changed, 3 insertions(+)
+[main 12602e0f] refactor component structure
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   84bb3bfc..12602e0f  main -> main
+Already up to date.
+[main 5242c711] add health check endpoint
+ 1 file changed, 1 insertion(+)
+[main 208290a2] fix timezone handling
+ 1 file changed, 1 insertion(+)
+[main af3d64e7] add search functionality
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   90c65944..af3d64e7  main -> main
+Fri Aug 28 03:11:06 PM PDT 2026: pushed 3 commits to both repos

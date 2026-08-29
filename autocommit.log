@@ -18625,3 +18625,17 @@ Fri Aug 28 03:11:06 PM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main 47aae893] add metrics collection
  2 files changed, 3 insertions(+)
+[main ecba9c35] fix cache invalidation
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   12602e0f..ecba9c35  main -> main
+Already up to date.
+[main 9ad9c8d8] fix cache invalidation
+ 1 file changed, 1 insertion(+)
+[main a76b9bea] add queue worker
+ 1 file changed, 1 insertion(+)
+[main 69251afb] fix pagination bug
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   af3d64e7..69251afb  main -> main
+Fri Aug 28 04:56:06 PM PDT 2026: pushed 3 commits to both repos

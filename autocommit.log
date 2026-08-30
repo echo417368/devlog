@@ -18769,3 +18769,17 @@ Sun Aug 30 09:54:06 AM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 417686a2] add feature flag
  2 files changed, 3 insertions(+)
+[main 82b450f3] fix sorting order
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   239ab7a8..82b450f3  main -> main
+Already up to date.
+[main b3316fd0] update types
+ 1 file changed, 1 insertion(+)
+[main 9917ce7c] fix file upload
+ 1 file changed, 1 insertion(+)
+[main 71fda88c] update lint rules
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   ea8ebc8a..71fda88c  main -> main
+Sun Aug 30 11:59:06 AM PDT 2026: pushed 3 commits to both repos

@@ -18767,3 +18767,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sun Aug 30 09:54:06 AM PDT 2026: pushed 2 commits to both repos
 [main 6c576bb9] add caching layer
  2 files changed, 13 insertions(+)
+[main 417686a2] add feature flag
+ 2 files changed, 3 insertions(+)

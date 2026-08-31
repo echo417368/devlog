@@ -18797,3 +18797,17 @@ Sun Aug 30 12:03:06 PM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main 52c0e1b1] fix session handling
  2 files changed, 3 insertions(+)
+[main bffa8a40] fix redirect loop
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   7be6e916..bffa8a40  main -> main
+Already up to date.
+[main 416e0954] fix query params
+ 1 file changed, 1 insertion(+)
+[main e533bf45] fix query params
+ 1 file changed, 1 insertion(+)
+[main 8ae8db55] update error messages
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   7fbb0e93..8ae8db55  main -> main
+Sun Aug 30 03:42:06 PM PDT 2026: pushed 3 commits to both repos

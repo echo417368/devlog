@@ -18829,3 +18829,18 @@ Sun Aug 30 06:28:06 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 765f668a] update seed data
  2 files changed, 3 insertions(+)
+[main 288bd996] add batch processing
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   0f1aba96..288bd996  main -> main
+Already up to date.
+[main e9349b40] add caching layer
+ 1 file changed, 1 insertion(+)
+[main 8b3ed0de] fix auth token refresh
+ 1 file changed, 1 insertion(+)
+[main 5c4bfb11] add rate limiting
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   7b714a6a..5c4bfb11  main -> main
+Sun Aug 30 11:31:07 PM PDT 2026: pushed 3 commits to both repos
+Mon Aug 31 01:00:01 AM PDT 2026: scheduled 7 runs at PST hours: 9 12 16 23 20 18 17

@@ -18825,3 +18825,5 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    8ae8db55..7b714a6a  main -> main
 Sun Aug 30 06:28:06 PM PDT 2026: pushed 2 commits to both repos
+[main 31f17cf2] fix edge case in parser
+ 2 files changed, 13 insertions(+)

@@ -18878,3 +18878,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Mon Aug 31 01:50:07 PM PDT 2026: pushed 3 commits to both repos
 [main 6610ae19] update API routes
  2 files changed, 15 insertions(+)
+[main 9e43fb95] fix typo in config
+ 2 files changed, 3 insertions(+)

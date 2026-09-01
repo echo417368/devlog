@@ -18920,3 +18920,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Mon Aug 31 07:45:06 PM PDT 2026: pushed 1 commits to both repos
 [main 7dc01103] update security headers
  2 files changed, 11 insertions(+)
+[main dc87da56] add middleware
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   8d80a225..dc87da56  main -> main
+Already up to date.
+[main 3f2cd5d4] update env config
+ 1 file changed, 1 insertion(+)
+[main c087fc9c] update test fixtures
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   734a20d4..c087fc9c  main -> main
+Mon Aug 31 09:01:06 PM PDT 2026: pushed 2 commits to both repos

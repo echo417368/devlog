@@ -18862,3 +18862,17 @@ Mon Aug 31 10:21:06 AM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main a3f1369a] formatting
  2 files changed, 3 insertions(+)
+[main b13f912c] refactor component structure
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   e1c45f37..b13f912c  main -> main
+Already up to date.
+[main bfcea325] update lock file
+ 1 file changed, 1 insertion(+)
+[main f2953607] fix hot reload
+ 1 file changed, 1 insertion(+)
+[main cc2f6dc6] fix file upload
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   0f751448..cc2f6dc6  main -> main
+Mon Aug 31 01:50:07 PM PDT 2026: pushed 3 commits to both repos

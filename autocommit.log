@@ -19052,3 +19052,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Wed Sep  2 10:46:06 AM PDT 2026: pushed 3 commits to both repos
 [main 00186b2d] add middleware
  2 files changed, 15 insertions(+)
+[main 36ed75f7] refactor API client
+ 2 files changed, 3 insertions(+)

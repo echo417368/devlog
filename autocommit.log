@@ -18975,3 +18975,17 @@ Tue Sep  1 10:49:06 AM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 466e48d7] fix CORS config
  2 files changed, 3 insertions(+)
+[main 74f7be56] fix encoding issue
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   16b505bd..74f7be56  main -> main
+Already up to date.
+[main bbd4d589] add middleware
+ 1 file changed, 1 insertion(+)
+[main a2658c9a] refactor error types
+ 1 file changed, 1 insertion(+)
+[main 143d88f8] fix timeout issue
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   c24e35df..143d88f8  main -> main
+Tue Sep  1 11:21:07 AM PDT 2026: pushed 3 commits to both repos

@@ -19054,3 +19054,17 @@ Wed Sep  2 10:46:06 AM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main 36ed75f7] refactor API client
  2 files changed, 3 insertions(+)
+[main 44a5dfb0] add queue worker
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   91beed25..44a5dfb0  main -> main
+Already up to date.
+[main 58d6f9f9] optimize query performance
+ 1 file changed, 1 insertion(+)
+[main d6703eca] update types
+ 1 file changed, 1 insertion(+)
+[main 181cec88] add health check endpoint
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   f8026207..181cec88  main -> main
+Wed Sep  2 02:28:06 PM PDT 2026: pushed 3 commits to both repos

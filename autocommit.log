@@ -18989,3 +18989,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    c24e35df..143d88f8  main -> main
 Tue Sep  1 11:21:07 AM PDT 2026: pushed 3 commits to both repos
+[main ed996900] update env config
+ 2 files changed, 15 insertions(+)
+To github-echo:echo417368/devlog.git
+   74f7be56..ed996900  main -> main
+Already up to date.
+[main b799766a] fix race condition
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   143d88f8..b799766a  main -> main
+Tue Sep  1 05:04:06 PM PDT 2026: pushed 1 commits to both repos

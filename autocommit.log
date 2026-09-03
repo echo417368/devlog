@@ -19139,3 +19139,5 @@ To github-ashnexthq:ashnexthq/devlog.git
    4cad4bee..46fb6bad  main -> main
 Wed Sep  2 10:48:06 PM PDT 2026: pushed 2 commits to both repos
 Thu Sep  3 01:00:01 AM PDT 2026: scheduled 6 runs at PST hours: 13 20 23 22 12 14
+[main 59c52c89] update build config
+ 2 files changed, 14 insertions(+)

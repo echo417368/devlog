@@ -19082,3 +19082,17 @@ Wed Sep  2 03:03:06 PM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main 60281a5d] add search functionality
  2 files changed, 3 insertions(+)
+[main 93329511] update build config
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   bb8b528f..93329511  main -> main
+Already up to date.
+[main 27a57648] update error messages
+ 1 file changed, 1 insertion(+)
+[main d2847c5c] optimize query performance
+ 1 file changed, 1 insertion(+)
+[main 48da223d] add error handling
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   e7449d18..48da223d  main -> main
+Wed Sep  2 05:16:06 PM PDT 2026: pushed 3 commits to both repos

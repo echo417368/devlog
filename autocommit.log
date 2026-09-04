@@ -19205,3 +19205,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Thu Sep  3 09:17:06 PM PDT 2026: pushed 1 commits to both repos
 [main 88c3b54d] update lint rules
  2 files changed, 11 insertions(+)
+[main bd31587e] update build config
+ 2 files changed, 3 insertions(+)

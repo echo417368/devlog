@@ -19452,3 +19452,17 @@ Sun Sep  6 04:08:06 PM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main 4d7eeb71] bump version
  2 files changed, 3 insertions(+)
+[main a6be47a7] clean up dead code
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   d5b91ba8..a6be47a7  main -> main
+Already up to date.
+[main b0cd060e] refactor API client
+ 1 file changed, 1 insertion(+)
+[main 9b618f1b] fix timezone handling
+ 1 file changed, 1 insertion(+)
+[main 51f9ea62] fix redirect loop
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   0ed86b34..51f9ea62  main -> main
+Sun Sep  6 06:04:06 PM PDT 2026: pushed 3 commits to both repos

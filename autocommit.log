@@ -19582,3 +19582,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    ef217686..7cb1f7ff  main -> main
 Tue Sep  8 12:22:06 PM PDT 2026: pushed 2 commits to both repos
+[main 591953c0] fix debounce logic
+ 2 files changed, 13 insertions(+)
+To github-echo:echo417368/devlog.git
+   67f89cb6..591953c0  main -> main
+Already up to date.
+[main 2a816f6a] update lock file
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   7cb1f7ff..2a816f6a  main -> main
+Tue Sep  8 04:07:06 PM PDT 2026: pushed 1 commits to both repos

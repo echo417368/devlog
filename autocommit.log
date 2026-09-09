@@ -19602,3 +19602,5 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    2a816f6a..4390d230  main -> main
 Tue Sep  8 05:58:06 PM PDT 2026: pushed 1 commits to both repos
+[main b81b6310] fix session handling
+ 2 files changed, 11 insertions(+)

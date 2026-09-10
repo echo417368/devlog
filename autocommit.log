@@ -19677,3 +19677,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    d2564a1b..c7b6c1b6  main -> main
 Wed Sep  9 10:10:06 AM PDT 2026: pushed 1 commits to both repos
+[main 67603846] minor cleanup
+ 2 files changed, 11 insertions(+)
+To github-echo:echo417368/devlog.git
+   16b548c7..67603846  main -> main
+Already up to date.
+[main 6e021577] add feature flag
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   c7b6c1b6..6e021577  main -> main
+Wed Sep  9 03:29:06 PM PDT 2026: pushed 1 commits to both repos

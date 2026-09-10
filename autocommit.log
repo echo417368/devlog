@@ -19697,3 +19697,5 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    6e021577..e0a28719  main -> main
 Wed Sep  9 04:29:06 PM PDT 2026: pushed 1 commits to both repos
+[main 16536c4a] refactor config loader
+ 2 files changed, 11 insertions(+)

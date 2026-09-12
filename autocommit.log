@@ -19871,3 +19871,17 @@ Fri Sep 11 12:02:07 PM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main 80cc8e8e] fix cache invalidation
  2 files changed, 3 insertions(+)
+[main a399f333] clean up unused imports
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   545cd66b..a399f333  main -> main
+Already up to date.
+[main d90963a1] update test fixtures
+ 1 file changed, 1 insertion(+)
+[main bfbe806a] update build config
+ 1 file changed, 1 insertion(+)
+[main 4f09aac7] fix typo in config
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   989fa2b6..4f09aac7  main -> main
+Fri Sep 11 02:11:06 PM PDT 2026: pushed 3 commits to both repos

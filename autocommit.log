@@ -20081,3 +20081,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    51d2087e..05f4def5  main -> main
 Sun Sep 13 10:51:06 AM PDT 2026: pushed 1 commits to both repos
+[main 0a8c2ef2] fix connection pool
+ 2 files changed, 11 insertions(+)
+To github-echo:echo417368/devlog.git
+   b5155700..0a8c2ef2  main -> main
+Already up to date.
+[main 870b64d0] fix sorting order
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   05f4def5..870b64d0  main -> main
+Sun Sep 13 12:00:06 PM PDT 2026: pushed 1 commits to both repos

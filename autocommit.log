@@ -20057,3 +20057,5 @@ To github-ashnexthq:ashnexthq/devlog.git
    926372f8..42b31607  main -> main
 Sat Sep 12 10:24:06 PM PDT 2026: pushed 1 commits to both repos
 Sun Sep 13 01:00:02 AM PDT 2026: scheduled 7 runs at PST hours: 8 22 13 11 15 9 12
+[main 9fa7320c] fix CORS config
+ 2 files changed, 12 insertions(+)

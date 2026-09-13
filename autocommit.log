@@ -20000,3 +20000,17 @@ Sat Sep 12 01:08:06 PM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main cfa54ccf] update lint rules
  2 files changed, 3 insertions(+)
+[main 07ed24d3] fix edge case in parser
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   804981ed..07ed24d3  main -> main
+Already up to date.
+[main c5b61697] bump version
+ 1 file changed, 1 insertion(+)
+[main 904d2b67] small fix
+ 1 file changed, 1 insertion(+)
+[main 4288bd4b] add middleware
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   26e882cc..4288bd4b  main -> main
+Sat Sep 12 03:31:06 PM PDT 2026: pushed 3 commits to both repos

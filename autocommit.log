@@ -20222,3 +20222,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Mon Sep 14 07:34:06 PM PDT 2026: pushed 3 commits to both repos
 [main f52322ef] fix form validation
  2 files changed, 15 insertions(+)
+[main 59241278] optimize query performance
+ 2 files changed, 3 insertions(+)

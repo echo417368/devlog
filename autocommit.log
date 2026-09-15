@@ -20240,3 +20240,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Mon Sep 14 09:43:06 PM PDT 2026: pushed 3 commits to both repos
 [main 2870cbbc] add queue worker
  2 files changed, 15 insertions(+)
+[main ec4dfc12] add batch processing
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   6ef6a34f..ec4dfc12  main -> main
+Already up to date.
+[main 4c9c2e23] fix debounce logic
+ 1 file changed, 1 insertion(+)
+[main da3bd10c] fix query params
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   d3864046..da3bd10c  main -> main
+Mon Sep 14 10:36:06 PM PDT 2026: pushed 2 commits to both repos

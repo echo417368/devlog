@@ -20174,3 +20174,17 @@ Mon Sep 14 10:56:06 AM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main 5ff4a709] update lint rules
  2 files changed, 3 insertions(+)
+[main f13cba9f] add logging
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   9fd08e71..f13cba9f  main -> main
+Already up to date.
+[main 87aa3c21] remove debug logs
+ 1 file changed, 1 insertion(+)
+[main 311f8038] clean up logs
+ 1 file changed, 1 insertion(+)
+[main f6a269eb] fix race condition
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   9cafa25f..f6a269eb  main -> main
+Mon Sep 14 04:04:06 PM PDT 2026: pushed 3 commits to both repos

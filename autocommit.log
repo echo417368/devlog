@@ -20224,3 +20224,17 @@ Mon Sep 14 07:34:06 PM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main 59241278] optimize query performance
  2 files changed, 3 insertions(+)
+[main 6ef6a34f] fix encoding issue
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   7987324d..6ef6a34f  main -> main
+Already up to date.
+[main 90dcaa6a] add search functionality
+ 1 file changed, 1 insertion(+)
+[main 6e2cabea] fix hot reload
+ 1 file changed, 1 insertion(+)
+[main d3864046] fix session handling
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   61ce6337..d3864046  main -> main
+Mon Sep 14 09:43:06 PM PDT 2026: pushed 3 commits to both repos

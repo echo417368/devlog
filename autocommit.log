@@ -20370,3 +20370,5 @@ Tue Sep 15 10:57:06 PM PDT 2026: pushed 2 commits to both repos
 Wed Sep 16 01:00:01 AM PDT 2026: scheduled 8 runs at PST hours: 10 16 12 21 23 18 22 9
 [main c11fdc13] refactor API client
  2 files changed, 14 insertions(+)
+[main a15398d3] add rate limiting
+ 2 files changed, 3 insertions(+)

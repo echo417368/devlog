@@ -20329,3 +20329,17 @@ Tue Sep 15 05:07:06 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main a36d6010] refactor error types
  2 files changed, 3 insertions(+)
+[main f52af350] add middleware
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   c7b2b885..f52af350  main -> main
+Already up to date.
+[main 2b06f034] update seed data
+ 1 file changed, 1 insertion(+)
+[main 6c6f6e18] add retry logic
+ 1 file changed, 1 insertion(+)
+[main 010a9c16] remove debug logs
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   8106d78f..010a9c16  main -> main
+Tue Sep 15 06:09:06 PM PDT 2026: pushed 3 commits to both repos

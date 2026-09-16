@@ -20390,3 +20390,17 @@ Wed Sep 16 10:07:07 AM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main 6093f12d] add retry logic
  2 files changed, 3 insertions(+)
+[main 9a91036f] add health check endpoint
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   25760eb3..9a91036f  main -> main
+Already up to date.
+[main ca7cb0ff] clean up logs
+ 1 file changed, 1 insertion(+)
+[main 4cacac0e] refactor error types
+ 1 file changed, 1 insertion(+)
+[main a17e4622] clean up unused imports
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   43b780f8..a17e4622  main -> main
+Wed Sep 16 11:24:07 AM PDT 2026: pushed 3 commits to both repos

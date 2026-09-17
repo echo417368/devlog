@@ -20432,3 +20432,17 @@ Wed Sep 16 05:03:06 PM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main fb1f7fa3] wip
  2 files changed, 3 insertions(+)
+[main 9c0c7c7e] refactor utils
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   fa010cc2..9c0c7c7e  main -> main
+Already up to date.
+[main 503b2cb7] add unit tests
+ 1 file changed, 1 insertion(+)
+[main f1ee120b] fix hot reload
+ 1 file changed, 1 insertion(+)
+[main 25dd1f67] clean up dead code
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   e2d4c7d1..25dd1f67  main -> main
+Wed Sep 16 07:59:06 PM PDT 2026: pushed 3 commits to both repos

@@ -20584,3 +20584,17 @@ Fri Sep 18 09:37:07 AM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main ead002fe] update schema
  2 files changed, 3 insertions(+)
+[main c2cac081] clean up logs
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   b06aaa7e..c2cac081  main -> main
+Already up to date.
+[main 3b3612c3] fix connection pool
+ 1 file changed, 1 insertion(+)
+[main b2e834d7] add middleware
+ 1 file changed, 1 insertion(+)
+[main 5777fec0] bump version
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   59ec3292..5777fec0  main -> main
+Fri Sep 18 10:07:06 AM PDT 2026: pushed 3 commits to both repos

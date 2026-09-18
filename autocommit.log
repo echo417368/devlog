@@ -20515,3 +20515,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Thu Sep 17 11:32:07 AM PDT 2026: pushed 3 commits to both repos
 [main 20f0d080] update types
  2 files changed, 15 insertions(+)
+[main 9bae49aa] refactor database layer
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   530198c9..9bae49aa  main -> main
+Already up to date.
+[main 18dbefe8] refactor API client
+ 1 file changed, 1 insertion(+)
+[main 3103240c] refactor API client
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   eab97368..3103240c  main -> main
+Thu Sep 17 02:53:06 PM PDT 2026: pushed 2 commits to both repos

@@ -20616,3 +20616,17 @@ Fri Sep 18 01:54:06 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 7c3e2ef8] update schema
  2 files changed, 3 insertions(+)
+[main 72e04d8b] refactor API client
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   3dc174e9..72e04d8b  main -> main
+Already up to date.
+[main 89711bae] fix pagination bug
+ 1 file changed, 1 insertion(+)
+[main cfea8b4e] fix cache invalidation
+ 1 file changed, 1 insertion(+)
+[main e7f55229] minor cleanup
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   bd887b9e..e7f55229  main -> main
+Fri Sep 18 03:36:06 PM PDT 2026: pushed 3 commits to both repos

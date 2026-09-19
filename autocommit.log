@@ -20677,3 +20677,17 @@ Sat Sep 19 10:34:06 AM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main fa0a8b61] add feature flag
  2 files changed, 3 insertions(+)
+[main fabff76c] add feature flag
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   4aba9c8a..fabff76c  main -> main
+Already up to date.
+[main 20d50152] update lock file
+ 1 file changed, 1 insertion(+)
+[main 4aa174ae] fix CORS config
+ 1 file changed, 1 insertion(+)
+[main 0e648921] fix sorting order
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   5f4d10c9..0e648921  main -> main
+Sat Sep 19 11:57:06 AM PDT 2026: pushed 3 commits to both repos

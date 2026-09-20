@@ -20723,3 +20723,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    19fb794b..24b61026  main -> main
 Sat Sep 19 04:50:06 PM PDT 2026: pushed 2 commits to both repos
+[main 80fba50d] fix null check
+ 2 files changed, 13 insertions(+)
+To github-echo:echo417368/devlog.git
+   606990c5..80fba50d  main -> main
+Already up to date.
+[main 0541f3b5] fix query params
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   24b61026..0541f3b5  main -> main
+Sat Sep 19 06:04:06 PM PDT 2026: pushed 1 commits to both repos

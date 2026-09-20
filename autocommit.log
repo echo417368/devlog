@@ -20768,3 +20768,5 @@ To github-ashnexthq:ashnexthq/devlog.git
    1a538b93..0d9b3f42  main -> main
 Sun Sep 20 12:58:06 AM PDT 2026: pushed 2 commits to both repos
 Sun Sep 20 01:00:01 AM PDT 2026: scheduled 6 runs at PST hours: 12 19 21 20 13 23
+[main bf459376] add middleware
+ 2 files changed, 14 insertions(+)

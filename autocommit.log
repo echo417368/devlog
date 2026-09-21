@@ -20806,3 +20806,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sun Sep 20 02:37:06 PM PDT 2026: pushed 3 commits to both repos
 [main 398b7391] refactor state management
  2 files changed, 15 insertions(+)
+[main 99b8327b] refactor config loader
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   313cc9d2..99b8327b  main -> main
+Already up to date.
+[main b719af26] clean up unused imports
+ 1 file changed, 1 insertion(+)
+[main 8e76585d] add graceful shutdown
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   43de7f77..8e76585d  main -> main
+Sun Sep 20 08:31:06 PM PDT 2026: pushed 2 commits to both repos

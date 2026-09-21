@@ -20879,3 +20879,17 @@ Mon Sep 21 10:33:07 AM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main d3eecf43] add graceful shutdown
  2 files changed, 3 insertions(+)
+[main 2b7c5708] wip
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   cb287250..2b7c5708  main -> main
+Already up to date.
+[main 00c4552d] add metrics collection
+ 1 file changed, 1 insertion(+)
+[main 957c78d1] fix null check
+ 1 file changed, 1 insertion(+)
+[main 380f9f79] fix cache invalidation
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   199c7c2f..380f9f79  main -> main
+Mon Sep 21 11:12:06 AM PDT 2026: pushed 3 commits to both repos

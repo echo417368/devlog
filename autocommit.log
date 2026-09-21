@@ -20877,3 +20877,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Mon Sep 21 10:33:07 AM PDT 2026: pushed 3 commits to both repos
 [main 20b31fc0] wip
  2 files changed, 15 insertions(+)
+[main d3eecf43] add graceful shutdown
+ 2 files changed, 3 insertions(+)

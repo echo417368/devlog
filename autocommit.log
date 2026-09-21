@@ -20895,3 +20895,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Mon Sep 21 11:12:06 AM PDT 2026: pushed 3 commits to both repos
 [main c63535b0] update test fixtures
  2 files changed, 15 insertions(+)
+[main 5d1e6804] fix hot reload
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   2b7c5708..5d1e6804  main -> main
+Already up to date.
+[main 12f2826f] update build config
+ 1 file changed, 1 insertion(+)
+[main 3e387780] add batch processing
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   380f9f79..3e387780  main -> main
+Mon Sep 21 12:25:06 PM PDT 2026: pushed 2 commits to both repos

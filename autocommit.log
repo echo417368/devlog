@@ -20790,3 +20790,17 @@ Sun Sep 20 01:34:06 PM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main 64cbdda5] refactor error types
  2 files changed, 3 insertions(+)
+[main 313cc9d2] add unit tests
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   c1e0372b..313cc9d2  main -> main
+Already up to date.
+[main 2b32d449] fix edge case in parser
+ 1 file changed, 1 insertion(+)
+[main a3051a6e] update API routes
+ 1 file changed, 1 insertion(+)
+[main 43de7f77] bump version
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   b5c2efb5..43de7f77  main -> main
+Sun Sep 20 02:37:06 PM PDT 2026: pushed 3 commits to both repos

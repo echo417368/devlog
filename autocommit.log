@@ -20923,3 +20923,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Mon Sep 21 01:37:06 PM PDT 2026: pushed 2 commits to both repos
 [main 4151b28d] fix file upload
  2 files changed, 13 insertions(+)
+[main 96fbb016] fix timeout issue
+ 2 files changed, 3 insertions(+)

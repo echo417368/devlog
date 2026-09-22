@@ -20972,3 +20972,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Tue Sep 22 10:04:07 AM PDT 2026: pushed 1 commits to both repos
 [main 1950786e] fix typo in config
  2 files changed, 11 insertions(+)
+[main c3be4736] fix edge case in parser
+ 2 files changed, 3 insertions(+)

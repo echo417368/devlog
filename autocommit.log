@@ -20970,3 +20970,5 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    021f2f7c..07d3ba0b  main -> main
 Tue Sep 22 10:04:07 AM PDT 2026: pushed 1 commits to both repos
+[main 1950786e] fix typo in config
+ 2 files changed, 11 insertions(+)

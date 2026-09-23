@@ -21042,3 +21042,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Tue Sep 22 10:18:06 PM PDT 2026: pushed 1 commits to both repos
 [main b9a7d253] update CI pipeline
  2 files changed, 11 insertions(+)
+[main cceb80e3] fix null check
+ 2 files changed, 3 insertions(+)

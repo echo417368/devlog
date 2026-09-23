@@ -20974,3 +20974,17 @@ Tue Sep 22 10:04:07 AM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main c3be4736] fix edge case in parser
  2 files changed, 3 insertions(+)
+[main 555f384b] refactor config loader
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   9500fb22..555f384b  main -> main
+Already up to date.
+[main 897063b0] add batch processing
+ 1 file changed, 1 insertion(+)
+[main a5f95a05] add error handling
+ 1 file changed, 1 insertion(+)
+[main bc8a7f33] update dependencies
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   07d3ba0b..bc8a7f33  main -> main
+Tue Sep 22 01:05:06 PM PDT 2026: pushed 3 commits to both repos

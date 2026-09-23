@@ -21006,3 +21006,17 @@ Tue Sep 22 04:06:06 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main a85ca240] tweak styles
  2 files changed, 3 insertions(+)
+[main acb5b075] remove debug logs
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   deca5101..acb5b075  main -> main
+Already up to date.
+[main a50134b9] add data export
+ 1 file changed, 1 insertion(+)
+[main 29a32106] tweak styles
+ 1 file changed, 1 insertion(+)
+[main 61602306] add data export
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   d4133648..61602306  main -> main
+Tue Sep 22 05:45:07 PM PDT 2026: pushed 3 commits to both repos

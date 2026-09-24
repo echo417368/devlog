@@ -21085,3 +21085,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Wed Sep 23 10:37:06 AM PDT 2026: pushed 2 commits to both repos
 [main 1e16b6cf] fix timeout issue
  2 files changed, 13 insertions(+)
+[main 3722d1b1] update schema
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   cbca410f..3722d1b1  main -> main
+Already up to date.
+[main f8aef686] update error messages
+ 1 file changed, 1 insertion(+)
+[main 27732b8c] fix connection pool
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   af3b83fe..27732b8c  main -> main
+Wed Sep 23 12:39:06 PM PDT 2026: pushed 2 commits to both repos

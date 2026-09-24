@@ -21137,3 +21137,17 @@ Wed Sep 23 06:30:06 PM PDT 2026: pushed 3 commits to both repos
  2 files changed, 15 insertions(+)
 [main f0bae1d5] fix typo in config
  2 files changed, 3 insertions(+)
+[main 5c79b331] remove debug logs
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   5b2c882e..5c79b331  main -> main
+Already up to date.
+[main 37609f02] refactor database layer
+ 1 file changed, 1 insertion(+)
+[main 41fd06d6] fix redirect loop
+ 1 file changed, 1 insertion(+)
+[main 1f551f94] refactor state management
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   36ce8103..1f551f94  main -> main
+Wed Sep 23 08:46:06 PM PDT 2026: pushed 3 commits to both repos

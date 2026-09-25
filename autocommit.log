@@ -21250,3 +21250,14 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    70c42c9f..80f567a7  main -> main
 Thu Sep 24 11:46:06 PM PDT 2026: pushed 3 commits to both repos
+[main 346a72ba] fix race condition
+ 2 files changed, 15 insertions(+)
+To github-echo:echo417368/devlog.git
+   8eb49926..346a72ba  main -> main
+Already up to date.
+[main 8b145054] fix auth token refresh
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   80f567a7..8b145054  main -> main
+Fri Sep 25 12:04:06 AM PDT 2026: pushed 1 commits to both repos
+Fri Sep 25 01:00:01 AM PDT 2026: scheduled 6 runs at PST hours: 22 18 14 23 9 11

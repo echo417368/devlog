@@ -21279,3 +21279,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    8b145054..13dda944  main -> main
 Fri Sep 25 10:44:06 AM PDT 2026: pushed 3 commits to both repos
+[main 9215853c] refactor state management
+ 2 files changed, 15 insertions(+)
+To github-echo:echo417368/devlog.git
+   f331f176..9215853c  main -> main
+Already up to date.
+[main 8b5ca5d4] fix race condition
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   13dda944..8b5ca5d4  main -> main
+Fri Sep 25 12:31:06 PM PDT 2026: pushed 1 commits to both repos

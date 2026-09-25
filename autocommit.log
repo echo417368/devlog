@@ -21220,3 +21220,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Thu Sep 24 08:10:06 PM PDT 2026: pushed 1 commits to both repos
 [main e0c0ec17] add search functionality
  2 files changed, 11 insertions(+)
+[main a35eada5] clean up logs
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   8d493fcd..a35eada5  main -> main
+Already up to date.
+[main b9229d66] fix encoding issue
+ 1 file changed, 1 insertion(+)
+[main 70c42c9f] refactor auth logic
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   800e20fe..70c42c9f  main -> main
+Thu Sep 24 09:13:06 PM PDT 2026: pushed 2 commits to both repos

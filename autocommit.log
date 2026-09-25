@@ -21236,3 +21236,17 @@ Thu Sep 24 09:13:06 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 7203a55e] add batch processing
  2 files changed, 3 insertions(+)
+[main 8eb49926] fix encoding issue
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   a35eada5..8eb49926  main -> main
+Already up to date.
+[main fb060f0f] fix encoding issue
+ 1 file changed, 1 insertion(+)
+[main c4b4b0d8] update env config
+ 1 file changed, 1 insertion(+)
+[main 80f567a7] fix date formatting
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   70c42c9f..80f567a7  main -> main
+Thu Sep 24 11:46:06 PM PDT 2026: pushed 3 commits to both repos

@@ -21196,3 +21196,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Thu Sep 24 10:39:06 AM PDT 2026: pushed 3 commits to both repos
 [main cd451ad4] bump version
  2 files changed, 15 insertions(+)
+[main 3aa848cf] update types
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   c49b81b6..3aa848cf  main -> main
+Already up to date.
+[main 1c2875fb] small fix
+ 1 file changed, 1 insertion(+)
+[main 05b78f8a] add data export
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   4de52a0c..05b78f8a  main -> main
+Thu Sep 24 06:54:06 PM PDT 2026: pushed 2 commits to both repos

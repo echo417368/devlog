@@ -21319,3 +21319,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Fri Sep 25 07:03:06 PM PDT 2026: pushed 2 commits to both repos
 [main a68207fb] add graceful shutdown
  2 files changed, 13 insertions(+)
+[main 7d5a1e44] clean up logs
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   652b6008..7d5a1e44  main -> main
+Already up to date.
+[main 0d37b092] refactor API client
+ 1 file changed, 1 insertion(+)
+[main 42720e73] update build config
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   755e1bfd..42720e73  main -> main
+Fri Sep 25 11:27:06 PM PDT 2026: pushed 2 commits to both repos

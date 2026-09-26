@@ -21305,3 +21305,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Fri Sep 25 03:26:06 PM PDT 2026: pushed 2 commits to both repos
 [main 3604dcbb] add graceful shutdown
  2 files changed, 13 insertions(+)
+[main 652b6008] refactor config loader
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   f1ba35d9..652b6008  main -> main
+Already up to date.
+[main dd4422b2] update CI pipeline
+ 1 file changed, 1 insertion(+)
+[main 755e1bfd] add input validation
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   01e9e704..755e1bfd  main -> main
+Fri Sep 25 07:03:06 PM PDT 2026: pushed 2 commits to both repos

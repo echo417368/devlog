@@ -21291,3 +21291,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Fri Sep 25 12:31:06 PM PDT 2026: pushed 1 commits to both repos
 [main 146e2c24] fix auth token refresh
  2 files changed, 11 insertions(+)
+[main f1ba35d9] fix debounce logic
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   9215853c..f1ba35d9  main -> main
+Already up to date.
+[main 079b153c] fix CORS config
+ 1 file changed, 1 insertion(+)
+[main 01e9e704] update seed data
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   8b5ca5d4..01e9e704  main -> main
+Fri Sep 25 03:26:06 PM PDT 2026: pushed 2 commits to both repos

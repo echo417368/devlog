@@ -21404,3 +21404,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sat Sep 26 06:59:06 PM PDT 2026: pushed 3 commits to both repos
 [main 1f52153a] update dependencies
  2 files changed, 15 insertions(+)
+[main bc2ea9e9] update API routes
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   d2b83b42..bc2ea9e9  main -> main
+Already up to date.
+[main 83ee3b0f] fix query params
+ 1 file changed, 1 insertion(+)
+[main 1750516f] fix CORS config
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   00d47225..1750516f  main -> main
+Sat Sep 26 08:46:06 PM PDT 2026: pushed 2 commits to both repos

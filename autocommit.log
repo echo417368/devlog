@@ -21431,3 +21431,5 @@ To github-ashnexthq:ashnexthq/devlog.git
    1750516f..fd53d43a  main -> main
 Sat Sep 26 10:07:06 PM PDT 2026: pushed 2 commits to both repos
 Sun Sep 27 01:00:01 AM PDT 2026: scheduled 8 runs at PST hours: 13 19 18 15 14 21 22 8
+[main ac5bec9f] update API routes
+ 2 files changed, 14 insertions(+)

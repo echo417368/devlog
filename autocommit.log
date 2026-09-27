@@ -21388,3 +21388,17 @@ Sat Sep 26 05:33:06 PM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main a9bb724b] refactor database layer
  2 files changed, 3 insertions(+)
+[main d2b83b42] fix typo in config
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   04769c94..d2b83b42  main -> main
+Already up to date.
+[main f0dca350] small fix
+ 1 file changed, 1 insertion(+)
+[main 88f411f0] fix race condition
+ 1 file changed, 1 insertion(+)
+[main 00d47225] tweak styles
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   2144d070..00d47225  main -> main
+Sat Sep 26 06:59:06 PM PDT 2026: pushed 3 commits to both repos

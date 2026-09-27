@@ -21360,3 +21360,17 @@ Sat Sep 26 09:18:06 AM PDT 2026: pushed 1 commits to both repos
  2 files changed, 11 insertions(+)
 [main 789a7768] fix CSS alignment
  2 files changed, 3 insertions(+)
+[main 4e10fa7f] fix edge case in parser
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   158f91e5..4e10fa7f  main -> main
+Already up to date.
+[main c8973193] fix typo in config
+ 1 file changed, 1 insertion(+)
+[main eac7f042] update schema
+ 1 file changed, 1 insertion(+)
+[main bdbbe826] add error handling
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   f4b28393..bdbbe826  main -> main
+Sat Sep 26 11:20:06 AM PDT 2026: pushed 3 commits to both repos

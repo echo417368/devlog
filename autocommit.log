@@ -21513,3 +21513,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Sun Sep 27 08:06:06 PM PDT 2026: pushed 1 commits to both repos
 [main ec19c5ed] update lint rules
  2 files changed, 11 insertions(+)
+[main d701a024] add graceful shutdown
+ 2 files changed, 3 insertions(+)

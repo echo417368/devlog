@@ -21576,3 +21576,17 @@ Mon Sep 28 11:09:07 AM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 6946a929] refactor error types
  2 files changed, 3 insertions(+)
+[main c4aeff3b] fix redirect loop
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   4e8747d0..c4aeff3b  main -> main
+Already up to date.
+[main 413df4fa] add health check endpoint
+ 1 file changed, 1 insertion(+)
+[main e00cd3fd] add batch processing
+ 1 file changed, 1 insertion(+)
+[main 41a5a9fe] add data export
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   192052ac..41a5a9fe  main -> main
+Mon Sep 28 12:19:06 PM PDT 2026: pushed 3 commits to both repos

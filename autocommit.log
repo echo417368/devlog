@@ -21616,3 +21616,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Mon Sep 28 02:30:06 PM PDT 2026: pushed 1 commits to both repos
 [main 9f3cbb34] fix hot reload
  2 files changed, 11 insertions(+)
+[main 1d18e783] update API routes
+ 2 files changed, 3 insertions(+)

@@ -21669,3 +21669,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Tue Sep 29 01:26:06 PM PDT 2026: pushed 1 commits to both repos
 [main 89532b2b] wip
  2 files changed, 11 insertions(+)
+[main db693bf9] add batch processing
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   5ab62c43..db693bf9  main -> main
+Already up to date.
+[main 2f62b4dd] fix redirect loop
+ 1 file changed, 1 insertion(+)
+[main 766ba752] update error messages
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   3f5715e5..766ba752  main -> main
+Tue Sep 29 05:16:06 PM PDT 2026: pushed 2 commits to both repos

@@ -21752,3 +21752,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Wed Sep 30 09:40:06 AM PDT 2026: pushed 2 commits to both repos
 [main 224703f2] update schema
  2 files changed, 13 insertions(+)
+[main 0cd96d18] add caching layer
+ 2 files changed, 3 insertions(+)

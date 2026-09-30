@@ -21685,3 +21685,17 @@ Tue Sep 29 05:16:06 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 3072bdd3] refactor auth logic
  2 files changed, 3 insertions(+)
+[main 5941f1b5] update error messages
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   db693bf9..5941f1b5  main -> main
+Already up to date.
+[main 77217e34] fix form validation
+ 1 file changed, 1 insertion(+)
+[main 4fd7c834] add data export
+ 1 file changed, 1 insertion(+)
+[main 7615bb04] update error messages
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   766ba752..7615bb04  main -> main
+Tue Sep 29 08:33:06 PM PDT 2026: pushed 3 commits to both repos

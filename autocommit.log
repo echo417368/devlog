@@ -21754,3 +21754,17 @@ Wed Sep 30 09:40:06 AM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main 0cd96d18] add caching layer
  2 files changed, 3 insertions(+)
+[main bb79d84c] add search functionality
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   0f0c159d..bb79d84c  main -> main
+Already up to date.
+[main 3d095b2f] add search functionality
+ 1 file changed, 1 insertion(+)
+[main 0857abd4] bump version
+ 1 file changed, 1 insertion(+)
+[main 50eabe85] fix timezone handling
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   ee0e6327..50eabe85  main -> main
+Wed Sep 30 02:11:06 PM PDT 2026: pushed 3 commits to both repos

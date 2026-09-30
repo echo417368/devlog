@@ -21717,3 +21717,5 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    7615bb04..5cfd24a4  main -> main
 Tue Sep 29 10:07:06 PM PDT 2026: pushed 3 commits to both repos
+[main 6cca9ecf] update build config
+ 2 files changed, 15 insertions(+)

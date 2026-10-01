@@ -21842,3 +21842,18 @@ Wed Sep 30 10:40:06 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main d89f733c] tweak styles
  2 files changed, 3 insertions(+)
+[main 042fe702] refactor API client
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   c8dd9f1a..042fe702  main -> main
+Already up to date.
+[main 18a4d9d1] add data export
+ 1 file changed, 1 insertion(+)
+[main 091b3e5c] wip
+ 1 file changed, 1 insertion(+)
+[main 2a0522dc] update types
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   e0c2df33..2a0522dc  main -> main
+Wed Sep 30 11:05:06 PM PDT 2026: pushed 3 commits to both repos
+Thu Oct  1 01:00:02 AM PDT 2026: scheduled 7 runs at PST hours: 14 17 11 16 10 23 12

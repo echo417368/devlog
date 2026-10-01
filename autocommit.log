@@ -21826,3 +21826,15 @@ To github-ashnexthq:ashnexthq/devlog.git
 Wed Sep 30 09:36:06 PM PDT 2026: pushed 1 commits to both repos
 [main 82e64712] refactor error types
  2 files changed, 11 insertions(+)
+[main c8dd9f1a] update types
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   4bbda89b..c8dd9f1a  main -> main
+Already up to date.
+[main 2901beb6] update build config
+ 1 file changed, 1 insertion(+)
+[main e0c2df33] fix race condition
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   128f3133..e0c2df33  main -> main
+Wed Sep 30 10:40:06 PM PDT 2026: pushed 2 commits to both repos

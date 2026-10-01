@@ -21905,3 +21905,5 @@ To github-ashnexthq:ashnexthq/devlog.git
 Thu Oct  1 01:21:06 PM PDT 2026: pushed 2 commits to both repos
 [main 69c386dc] add queue worker
  2 files changed, 13 insertions(+)
+[main b4cc5157] fix debounce logic
+ 2 files changed, 3 insertions(+)

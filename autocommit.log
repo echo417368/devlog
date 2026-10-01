@@ -21824,3 +21824,5 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    5bffa883..128f3133  main -> main
 Wed Sep 30 09:36:06 PM PDT 2026: pushed 1 commits to both repos
+[main 82e64712] refactor error types
+ 2 files changed, 11 insertions(+)

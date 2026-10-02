@@ -21907,3 +21907,17 @@ Thu Oct  1 01:21:06 PM PDT 2026: pushed 2 commits to both repos
  2 files changed, 13 insertions(+)
 [main b4cc5157] fix debounce logic
  2 files changed, 3 insertions(+)
+[main 104ff04b] remove debug logs
+ 2 files changed, 3 insertions(+)
+To github-echo:echo417368/devlog.git
+   26728d19..104ff04b  main -> main
+Already up to date.
+[main a408a1e8] refactor API client
+ 1 file changed, 1 insertion(+)
+[main ac71571b] wip
+ 1 file changed, 1 insertion(+)
+[main 676f00b1] fix null check
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   557262cf..676f00b1  main -> main
+Thu Oct  1 03:23:06 PM PDT 2026: pushed 3 commits to both repos

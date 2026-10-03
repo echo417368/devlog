@@ -21956,3 +21956,13 @@ To github-ashnexthq:ashnexthq/devlog.git
    2406d657..1766c604  main -> main
 Fri Oct  2 12:25:06 AM PDT 2026: pushed 1 commits to both repos
 Fri Oct  2 01:00:01 AM PDT 2026: scheduled 7 runs at PST hours: 15 14 21 19 22 16 17
+[main 5281ee71] add graceful shutdown
+ 2 files changed, 12 insertions(+)
+To github-echo:echo417368/devlog.git
+   6cd6e1d3..5281ee71  main -> main
+Already up to date.
+[main c8cd6112] fix sorting order
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   1766c604..c8cd6112  main -> main
+Fri Oct  2 03:28:06 PM PDT 2026: pushed 1 commits to both repos

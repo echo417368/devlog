@@ -21998,3 +21998,13 @@ Already up to date.
 To github-ashnexthq:ashnexthq/devlog.git
    94925533..601ebba3  main -> main
 Fri Oct  2 05:16:06 PM PDT 2026: pushed 2 commits to both repos
+[main 24510fb6] fix encoding issue
+ 2 files changed, 13 insertions(+)
+To github-echo:echo417368/devlog.git
+   b6db95ef..24510fb6  main -> main
+Already up to date.
+[main 76383292] fix query params
+ 1 file changed, 1 insertion(+)
+To github-ashnexthq:ashnexthq/devlog.git
+   601ebba3..76383292  main -> main
+Fri Oct  2 06:50:06 PM PDT 2026: pushed 1 commits to both repos
